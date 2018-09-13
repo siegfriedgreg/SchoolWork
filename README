@@ -17,7 +17,7 @@ All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
     KrusAlg.h
     KrusAlg_test_main.cpp
 
-******** TicTacToe ********
+******** Min/Max Algorithm ********
     TicTacToe.cpp
     TicTacToe.h
     TicTicTacToe_test_main.cpp
