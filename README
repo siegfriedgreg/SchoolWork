@@ -1,1 +1,6 @@
 A local repository for completed projects and assignments.
+
+*** TicTacToe
+    TicTacToe.cpp
+    TicTacToe.h
+    TicTicTacToe_test_main.cpp
