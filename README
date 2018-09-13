@@ -1,6 +1,14 @@
 A local repository for completed projects and assignments.
 
-******** Kruskals Algorithm ********
+******** Dijkstra's Algorithm ********
+    DA-Graph1.txt
+    DA-Graph2.txt
+    DA-Graph3.txt
+    DjkAlg.cpp
+    DjkAlg.h
+    DjkAlg_test_main.cpp
+
+******** Kruskal's Algorithm ********
     KA-Graph1.txt
     KA-Graph2.txt
     KA-Graph3.txt
@@ -12,3 +20,5 @@ A local repository for completed projects and assignments.
     TicTacToe.cpp
     TicTacToe.h
     TicTicTacToe_test_main.cpp
+
+********* END OF FILE ******** ######## <<<<<<<< --------
