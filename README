@@ -1,5 +1,13 @@
 A local repository for completed projects and assignments.
 
+******** Kruskals Algorithm ********
+    KA-Graph1.txt
+    KA-Graph2.txt
+    KA-Graph3.txt
+    KrusAlg.cpp
+    KrusAlg.h
+    KrusAlg_test_main.cpp
+
 ******** TicTacToe ********
     TicTacToe.cpp
     TicTacToe.h
