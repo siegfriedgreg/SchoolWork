@@ -11,9 +11,13 @@
 copy the image to another directory.  The program is command line based and the
 default settings are as follows: 
 
-    "ImageLoader.exe -i 'inputFileName.p*m' -o 'outputFileName.p*m' "
-
-         * = p or g  |   " " = not required | ' ' = not required
+    "./ImageLoader -i [fileName] -o [fileName] [options] "
+         Options:
+	 '-c' = To Copy image 
+         '-fC' = To find Connected-Components
+         '-g 1.5' = To Gamma correct (0.2 - 2.0)
+         '-pL 45' = To lighten Pixel (10 - 200)
+         '-pD 74' = To darken Pixel (10 - 200)
 
     The ImageLoader class takes care of the header file information extraction,
 as well as selecting how to extract the data from the range of image types 
