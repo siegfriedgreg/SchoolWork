@@ -2,6 +2,11 @@ A local repository for completed projects and assignments, some from different c
 
 All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
 
+******** Image Loader **********
+    See README.md
+    run from test folder.
+    images located in example folder.
+
 ******** Dijkstra's Algorithm ********
     DA-Graph1.txt
     DA-Graph2.txt
