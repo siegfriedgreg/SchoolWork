@@ -18,9 +18,9 @@ void errorMessage(){
     cout << "\tOPTIONS: " << endl;
     cout << "\t  '-c' = To Copy image " << endl;
     cout << "\t  '-fC' = To find Connected-Components" << endl;
-    cout << "\t  '-g 1.5' = To Gamma correct (0-2)" << endl;
-    cout << "\t  '-pL 45' = To lighten Pixel (0-100)" << endl;
-    cout << "\t  '-pD 74' = To darken Pixel (0-100)" << endl;
+    cout << "\t  '-g 1.5' = To Gamma correct (0.2 - 2.0)" << endl;
+    cout << "\t  '-pL 45' = To lighten Pixel (10 - 200)" << endl;
+    cout << "\t  '-pD 74' = To darken Pixel (10 - 200)" << endl;
     cout << endl;
     cout << "\t   ****** EXIT! ****** " << endl;
     cout << endl;
