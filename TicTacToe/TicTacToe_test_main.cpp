@@ -1,6 +1,6 @@
 /*
  *      Author: Greg Siegfried
- *      Date ( MM/YYYY ): 04/2017
+ *      Date ( MM/YYYY ): 11/2017
  *
 	This is a very simple tictactoe game that uses the minmax algorithm to
 	recursively find the best move for the computer player.  
