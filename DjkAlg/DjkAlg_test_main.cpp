@@ -1,6 +1,6 @@
 /*
     Author: Greg Siegfried
-    Date (MM/YYYY): 02/2018
+    Date (MM/YYYY): 09/2017
 
     Dijkstra's algorithm that works on text input files.
     Input File Format goes as follows:
