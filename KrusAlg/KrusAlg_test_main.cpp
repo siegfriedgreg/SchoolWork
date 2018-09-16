@@ -1,6 +1,6 @@
 /*
     Author: Greg Siegfried
-    Date (MM/YYYY): 03/2017
+    Date (MM/YYYY): 10/2017
 
     Application of Kruskals Algorithm on simple text files.
     The file lists:
