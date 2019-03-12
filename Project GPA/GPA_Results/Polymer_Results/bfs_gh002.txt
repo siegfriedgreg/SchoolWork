@@ -1,0 +1,95 @@
+average is 27027589
+start create 2 threads
+totalInSize is 27029811
+fake deg: 0
+totalInSize is 27025367
+fake deg: 515
+average is 5405517
+average is 5405517
+all created
+Dense: 1 2
+edge map time: 0.089834
+Dense: 1 2
+edge map time: 0.059603
+Dense: 1 2
+edge map time: 0.059259
+Dense: 1 2
+edge map time: 0.059695
+Dense: 1 2
+edge map time: 0.059283
+Dense: 1 2
+edge map time: 0.059680
+Dense: 1 3
+edge map time: 0.059277
+Dense: 2 3
+edge map time: 0.059600
+Dense: 1 2
+edge map time: 0.059314
+Dense: 1 2
+edge map time: 0.059560
+Dense: 1 2
+edge map time: 0.059321
+Dense: 1 2
+edge map time: 0.059650
+Dense: 1 2
+edge map time: 0.059325
+Dense: 1 2
+edge map time: 0.059638
+Dense: 1 2
+edge map time: 0.059346
+Dense: 1 2
+edge map time: 0.059677
+Dense: 1 2
+edge map time: 0.059381
+Dense: 1 2
+edge map time: 0.059563
+Dense: 1 2
+edge map time: 0.059298
+Dense: 1 2
+edge map time: 0.059359
+Dense: 1 2
+edge map time: 0.059548
+Dense: 1 2
+edge map time: 0.059370
+Dense: 1 2
+edge map time: 0.059631
+Dense: 1 2
+edge map time: 0.059341
+Dense: 1 2
+edge map time: 0.059535
+Dense: 1 2
+edge map time: 0.059396
+Dense: 1 2
+edge map time: 0.059538
+Dense: 1 2
+edge map time: 0.059427
+Dense: 1 2
+edge map time: 0.059608
+Dense: 1 2
+edge map time: 0.059425
+Dense: 1 2
+edge map time: 0.059645
+Dense: 1 2
+edge map time: 0.059441
+Dense: 1 2
+edge map time: 0.059552
+Dense: 1 2
+edge map time: 0.059336
+Dense: 1 2
+edge map time: 0.059510
+Dense: 1 2
+edge map time: 0.059361
+Dense: 1 2
+edge map time: 0.059558
+Dense: 1 2
+edge map time: 0.059420
+Dense: 1 2
+edge map time: 0.059510
+Dense: 1 2
+edge map time: 0.059307
+Dense: 1 1
+edge map time: 0.059352
+Vertices visited = 42
+Finished in 41 iterations
+self counted time: 2.477636
+BFS : 2.48

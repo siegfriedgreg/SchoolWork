@@ -1,0 +1,43 @@
+average is 34496959
+start create 2 threads
+totalInSize is 34494693
+fake deg: 5
+totalInSize is 34499226
+fake deg: 132
+average is 6899391
+average is 6899391
+all created
+Dense: 1 22
+edge map time: 0.492812
+Dense: 20 1399
+edge map time: 0.492480
+Dense: 1242 86505
+edge map time: 0.486150
+Dense: 52267 2949550
+edge map time: 0.413960
+Dense: 784358 28140366
+edge map time: 0.288236
+Dense: 2228710 33265004
+edge map time: 0.246111
+Dense: 1118396 6885278
+edge map time: 0.233954
+Dense: 183212 1062617
+edge map time: 0.234877
+Dense: 26305 144382
+edge map time: 0.235191
+Dense: 4423 27020
+edge map time: 0.235046
+Dense: 1055 10516
+edge map time: 0.235166
+Dense: 284 3133
+edge map time: 0.235059
+Dense: 57 342
+edge map time: 0.234929
+Dense: 16 102
+edge map time: 0.234947
+Dense: 4 29
+edge map time: 0.234579
+Vertices visited = 4400350
+Finished in 15 iterations
+self counted time: 4.534230
+BFS : 4.53

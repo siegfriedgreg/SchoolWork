@@ -1,0 +1,8081 @@
+average is 25166021
+start create 2 threads
+totalInSize is 27385983
+fake deg: 1
+totalInSize is 22946059
+fake deg: 436
+average is 5033204
+average is 5033204
+all created
+Dense: 1 6
+edge map time: 0.145040
+Dense: 5 24
+edge map time: 0.141724
+Dense: 14 48
+edge map time: 0.141193
+Dense: 20 60
+edge map time: 0.141801
+Dense: 23 63
+edge map time: 0.140566
+Dense: 29 84
+edge map time: 0.140555
+Dense: 21 59
+edge map time: 0.141411
+Dense: 25 63
+edge map time: 0.141180
+Dense: 24 68
+edge map time: 0.143668
+Dense: 25 77
+edge map time: 0.141257
+Dense: 32 89
+edge map time: 0.144169
+Dense: 35 95
+edge map time: 0.141083
+Dense: 38 110
+edge map time: 0.142490
+Dense: 46 138
+edge map time: 0.142059
+Dense: 45 134
+edge map time: 0.142923
+Dense: 51 151
+edge map time: 0.141353
+Dense: 47 144
+edge map time: 0.140582
+Dense: 42 123
+edge map time: 0.143937
+Dense: 36 101
+edge map time: 0.141286
+Dense: 51 155
+edge map time: 0.141931
+Dense: 56 196
+edge map time: 0.141472
+Dense: 69 199
+edge map time: 0.143189
+Dense: 60 146
+edge map time: 0.144286
+Dense: 48 140
+edge map time: 0.142380
+Dense: 51 140
+edge map time: 0.142080
+Dense: 44 128
+edge map time: 0.141839
+Dense: 49 140
+edge map time: 0.142887
+Dense: 49 146
+edge map time: 0.140924
+Dense: 42 130
+edge map time: 0.140830
+Dense: 32 108
+edge map time: 0.141746
+Dense: 33 98
+edge map time: 0.141111
+Dense: 37 106
+edge map time: 0.141325
+Dense: 33 96
+edge map time: 0.140650
+Dense: 28 69
+edge map time: 0.143186
+Dense: 27 76
+edge map time: 0.141920
+Dense: 28 75
+edge map time: 0.141229
+Dense: 30 82
+edge map time: 0.142233
+Dense: 27 79
+edge map time: 0.143499
+Dense: 20 58
+edge map time: 0.141861
+Dense: 26 68
+edge map time: 0.140903
+Dense: 26 71
+edge map time: 0.142622
+Dense: 22 64
+edge map time: 0.140990
+Dense: 25 79
+edge map time: 0.143713
+Dense: 32 98
+edge map time: 0.141196
+Dense: 34 94
+edge map time: 0.141306
+Dense: 31 89
+edge map time: 0.144165
+Dense: 28 83
+edge map time: 0.142296
+Dense: 29 85
+edge map time: 0.140782
+Dense: 30 83
+edge map time: 0.141826
+Dense: 31 96
+edge map time: 0.143632
+Dense: 34 99
+edge map time: 0.142035
+Dense: 39 108
+edge map time: 0.142047
+Dense: 45 138
+edge map time: 0.142656
+Dense: 55 164
+edge map time: 0.143961
+Dense: 48 146
+edge map time: 0.141914
+Dense: 58 162
+edge map time: 0.140497
+Dense: 57 175
+edge map time: 0.143616
+Dense: 69 191
+edge map time: 0.140889
+Dense: 68 215
+edge map time: 0.142721
+Dense: 79 221
+edge map time: 0.140864
+Dense: 70 196
+edge map time: 0.142405
+Dense: 61 184
+edge map time: 0.140864
+Dense: 78 232
+edge map time: 0.143720
+Dense: 76 207
+edge map time: 0.140678
+Dense: 67 205
+edge map time: 0.142417
+Dense: 70 195
+edge map time: 0.142096
+Dense: 62 185
+edge map time: 0.141539
+Dense: 63 190
+edge map time: 0.140688
+Dense: 74 196
+edge map time: 0.141407
+Dense: 59 188
+edge map time: 0.140904
+Dense: 73 216
+edge map time: 0.142188
+Dense: 79 231
+edge map time: 0.144339
+Dense: 74 227
+edge map time: 0.141102
+Dense: 76 230
+edge map time: 0.141368
+Dense: 73 236
+edge map time: 0.141260
+Dense: 80 218
+edge map time: 0.140917
+Dense: 70 228
+edge map time: 0.143136
+Dense: 82 221
+edge map time: 0.142565
+Dense: 69 192
+edge map time: 0.140623
+Dense: 60 179
+edge map time: 0.141023
+Dense: 58 177
+edge map time: 0.141642
+Dense: 70 208
+edge map time: 0.141363
+Dense: 78 231
+edge map time: 0.140820
+Dense: 69 203
+edge map time: 0.140706
+Dense: 69 186
+edge map time: 0.141114
+Dense: 59 170
+edge map time: 0.141204
+Dense: 55 156
+edge map time: 0.140642
+Dense: 48 151
+edge map time: 0.141314
+Dense: 54 163
+edge map time: 0.141141
+Dense: 55 181
+edge map time: 0.140894
+Dense: 62 180
+edge map time: 0.143304
+Dense: 61 189
+edge map time: 0.141040
+Dense: 65 189
+edge map time: 0.140998
+Dense: 72 215
+edge map time: 0.143492
+Dense: 81 248
+edge map time: 0.143994
+Dense: 85 251
+edge map time: 0.142843
+Dense: 74 232
+edge map time: 0.143544
+Dense: 78 240
+edge map time: 0.141170
+Dense: 80 234
+edge map time: 0.142023
+Dense: 76 207
+edge map time: 0.143536
+Dense: 69 223
+edge map time: 0.142053
+Dense: 76 225
+edge map time: 0.143896
+Dense: 74 219
+edge map time: 0.140650
+Dense: 71 215
+edge map time: 0.142264
+Dense: 74 218
+edge map time: 0.140571
+Dense: 68 199
+edge map time: 0.143365
+Dense: 65 198
+edge map time: 0.143450
+Dense: 65 187
+edge map time: 0.141453
+Dense: 64 184
+edge map time: 0.140698
+Dense: 65 201
+edge map time: 0.141188
+Dense: 76 211
+edge map time: 0.141673
+Dense: 81 223
+edge map time: 0.142087
+Dense: 71 209
+edge map time: 0.142880
+Dense: 72 205
+edge map time: 0.140529
+Dense: 68 213
+edge map time: 0.140877
+Dense: 71 211
+edge map time: 0.141618
+Dense: 71 176
+edge map time: 0.141857
+Dense: 49 136
+edge map time: 0.143621
+Dense: 44 135
+edge map time: 0.141376
+Dense: 44 111
+edge map time: 0.142090
+Dense: 45 139
+edge map time: 0.142445
+Dense: 56 153
+edge map time: 0.142185
+Dense: 57 175
+edge map time: 0.141124
+Dense: 56 168
+edge map time: 0.140812
+Dense: 60 179
+edge map time: 0.140808
+Dense: 68 196
+edge map time: 0.142407
+Dense: 69 194
+edge map time: 0.140952
+Dense: 70 205
+edge map time: 0.140670
+Dense: 64 184
+edge map time: 0.140874
+Dense: 61 171
+edge map time: 0.141249
+Dense: 55 144
+edge map time: 0.141025
+Dense: 42 126
+edge map time: 0.141401
+Dense: 44 127
+edge map time: 0.143661
+Dense: 58 172
+edge map time: 0.142995
+Dense: 61 168
+edge map time: 0.140985
+Dense: 55 166
+edge map time: 0.142812
+Dense: 66 202
+edge map time: 0.141112
+Dense: 76 232
+edge map time: 0.142671
+Dense: 79 231
+edge map time: 0.140917
+Dense: 91 282
+edge map time: 0.140767
+Dense: 105 306
+edge map time: 0.140933
+Dense: 111 344
+edge map time: 0.140642
+Dense: 118 343
+edge map time: 0.141422
+Dense: 115 325
+edge map time: 0.140843
+Dense: 109 318
+edge map time: 0.140993
+Dense: 107 305
+edge map time: 0.140469
+Dense: 96 283
+edge map time: 0.141062
+Dense: 93 274
+edge map time: 0.141480
+Dense: 91 276
+edge map time: 0.141272
+Dense: 96 273
+edge map time: 0.141638
+Dense: 92 281
+edge map time: 0.140678
+Dense: 97 277
+edge map time: 0.142593
+Dense: 84 257
+edge map time: 0.141847
+Dense: 91 270
+edge map time: 0.140827
+Dense: 95 284
+edge map time: 0.141253
+Dense: 97 282
+edge map time: 0.140632
+Dense: 98 287
+edge map time: 0.141218
+Dense: 114 334
+edge map time: 0.141106
+Dense: 117 339
+edge map time: 0.143900
+Dense: 125 389
+edge map time: 0.141110
+Dense: 137 424
+edge map time: 0.140800
+Dense: 140 420
+edge map time: 0.140765
+Dense: 123 365
+edge map time: 0.142279
+Dense: 116 350
+edge map time: 0.142421
+Dense: 104 285
+edge map time: 0.141989
+Dense: 89 242
+edge map time: 0.140661
+Dense: 83 257
+edge map time: 0.141042
+Dense: 98 286
+edge map time: 0.141145
+Dense: 114 346
+edge map time: 0.141896
+Dense: 126 379
+edge map time: 0.141571
+Dense: 141 424
+edge map time: 0.142911
+Dense: 122 371
+edge map time: 0.141519
+Dense: 128 361
+edge map time: 0.141657
+Dense: 97 270
+edge map time: 0.141929
+Dense: 100 269
+edge map time: 0.141358
+Dense: 90 252
+edge map time: 0.140972
+Dense: 77 216
+edge map time: 0.140639
+Dense: 82 219
+edge map time: 0.142159
+Dense: 70 218
+edge map time: 0.140960
+Dense: 78 214
+edge map time: 0.141450
+Dense: 69 193
+edge map time: 0.140659
+Dense: 68 201
+edge map time: 0.141764
+Dense: 77 224
+edge map time: 0.142359
+Dense: 80 226
+edge map time: 0.140760
+Dense: 96 274
+edge map time: 0.140920
+Dense: 94 281
+edge map time: 0.140601
+Dense: 117 337
+edge map time: 0.141270
+Dense: 114 334
+edge map time: 0.141097
+Dense: 120 344
+edge map time: 0.142361
+Dense: 131 395
+edge map time: 0.141070
+Dense: 135 411
+edge map time: 0.141718
+Dense: 160 480
+edge map time: 0.142691
+Dense: 173 495
+edge map time: 0.141913
+Dense: 176 548
+edge map time: 0.142428
+Dense: 213 613
+edge map time: 0.140620
+Dense: 218 620
+edge map time: 0.143559
+Dense: 203 614
+edge map time: 0.141889
+Dense: 220 624
+edge map time: 0.141262
+Dense: 226 647
+edge map time: 0.141809
+Dense: 212 605
+edge map time: 0.140626
+Dense: 213 622
+edge map time: 0.140551
+Dense: 208 602
+edge map time: 0.142066
+Dense: 206 576
+edge map time: 0.141165
+Dense: 197 569
+edge map time: 0.142448
+Dense: 194 577
+edge map time: 0.140725
+Dense: 215 631
+edge map time: 0.141993
+Dense: 220 651
+edge map time: 0.141371
+Dense: 218 603
+edge map time: 0.140855
+Dense: 199 575
+edge map time: 0.141229
+Dense: 193 565
+edge map time: 0.142250
+Dense: 186 523
+edge map time: 0.140638
+Dense: 185 546
+edge map time: 0.139808
+Dense: 196 563
+edge map time: 0.142560
+Dense: 189 545
+edge map time: 0.142318
+Dense: 209 633
+edge map time: 0.142842
+Dense: 217 680
+edge map time: 0.142475
+Dense: 235 670
+edge map time: 0.142297
+Dense: 222 649
+edge map time: 0.141563
+Dense: 221 643
+edge map time: 0.141218
+Dense: 213 641
+edge map time: 0.141589
+Dense: 228 696
+edge map time: 0.141570
+Dense: 230 651
+edge map time: 0.142114
+Dense: 217 629
+edge map time: 0.142676
+Dense: 215 622
+edge map time: 0.142345
+Dense: 213 611
+edge map time: 0.140992
+Dense: 195 594
+edge map time: 0.140942
+Dense: 219 635
+edge map time: 0.141578
+Dense: 216 629
+edge map time: 0.141748
+Dense: 219 663
+edge map time: 0.141360
+Dense: 246 700
+edge map time: 0.143520
+Dense: 261 739
+edge map time: 0.140844
+Dense: 270 802
+edge map time: 0.141650
+Dense: 257 749
+edge map time: 0.143376
+Dense: 265 760
+edge map time: 0.141220
+Dense: 258 738
+edge map time: 0.141794
+Dense: 230 686
+edge map time: 0.141817
+Dense: 245 707
+edge map time: 0.141365
+Dense: 244 676
+edge map time: 0.140626
+Dense: 228 709
+edge map time: 0.141038
+Dense: 243 723
+edge map time: 0.140417
+Dense: 242 677
+edge map time: 0.141581
+Dense: 227 639
+edge map time: 0.142040
+Dense: 228 649
+edge map time: 0.141960
+Dense: 229 638
+edge map time: 0.142171
+Dense: 219 614
+edge map time: 0.141440
+Dense: 237 708
+edge map time: 0.141419
+Dense: 261 782
+edge map time: 0.140892
+Dense: 276 804
+edge map time: 0.142055
+Dense: 294 817
+edge map time: 0.141809
+Dense: 284 869
+edge map time: 0.142353
+Dense: 320 976
+edge map time: 0.142819
+Dense: 337 971
+edge map time: 0.141714
+Dense: 298 898
+edge map time: 0.142092
+Dense: 311 929
+edge map time: 0.140923
+Dense: 318 978
+edge map time: 0.140902
+Dense: 343 1020
+edge map time: 0.141235
+Dense: 340 1016
+edge map time: 0.141246
+Dense: 312 880
+edge map time: 0.141498
+Dense: 297 872
+edge map time: 0.141025
+Dense: 291 836
+edge map time: 0.141789
+Dense: 264 752
+edge map time: 0.141656
+Dense: 273 825
+edge map time: 0.141596
+Dense: 261 760
+edge map time: 0.142875
+Dense: 242 692
+edge map time: 0.142259
+Dense: 245 733
+edge map time: 0.141830
+Dense: 273 818
+edge map time: 0.141438
+Dense: 289 823
+edge map time: 0.140866
+Dense: 290 833
+edge map time: 0.141956
+Dense: 294 839
+edge map time: 0.140918
+Dense: 281 826
+edge map time: 0.141388
+Dense: 290 805
+edge map time: 0.142248
+Dense: 276 832
+edge map time: 0.140790
+Dense: 297 860
+edge map time: 0.142309
+Dense: 297 874
+edge map time: 0.140876
+Dense: 312 932
+edge map time: 0.140982
+Dense: 314 988
+edge map time: 0.140967
+Dense: 336 1014
+edge map time: 0.141281
+Dense: 346 998
+edge map time: 0.141913
+Dense: 309 942
+edge map time: 0.141255
+Dense: 331 934
+edge map time: 0.143738
+Dense: 321 973
+edge map time: 0.143401
+Dense: 327 974
+edge map time: 0.140741
+Dense: 332 970
+edge map time: 0.141011
+Dense: 327 946
+edge map time: 0.141294
+Dense: 318 901
+edge map time: 0.141869
+Dense: 312 903
+edge map time: 0.141009
+Dense: 307 903
+edge map time: 0.141767
+Dense: 308 913
+edge map time: 0.141192
+Dense: 294 856
+edge map time: 0.141602
+Dense: 294 874
+edge map time: 0.143356
+Dense: 275 786
+edge map time: 0.140959
+Dense: 249 742
+edge map time: 0.143086
+Dense: 260 759
+edge map time: 0.141113
+Dense: 253 736
+edge map time: 0.142164
+Dense: 247 734
+edge map time: 0.143908
+Dense: 287 853
+edge map time: 0.140925
+Dense: 304 872
+edge map time: 0.142238
+Dense: 289 866
+edge map time: 0.140827
+Dense: 282 822
+edge map time: 0.140910
+Dense: 279 814
+edge map time: 0.141263
+Dense: 275 812
+edge map time: 0.140743
+Dense: 279 799
+edge map time: 0.141782
+Dense: 282 793
+edge map time: 0.140864
+Dense: 271 832
+edge map time: 0.141137
+Dense: 301 900
+edge map time: 0.141242
+Dense: 309 863
+edge map time: 0.142296
+Dense: 284 855
+edge map time: 0.141048
+Dense: 292 833
+edge map time: 0.141513
+Dense: 280 788
+edge map time: 0.140882
+Dense: 279 825
+edge map time: 0.140763
+Dense: 266 756
+edge map time: 0.142277
+Dense: 253 773
+edge map time: 0.143575
+Dense: 257 721
+edge map time: 0.141269
+Dense: 245 714
+edge map time: 0.141260
+Dense: 247 736
+edge map time: 0.141097
+Dense: 264 776
+edge map time: 0.141479
+Dense: 256 771
+edge map time: 0.141940
+Dense: 247 723
+edge map time: 0.142387
+Dense: 248 742
+edge map time: 0.141169
+Dense: 239 692
+edge map time: 0.141167
+Dense: 233 697
+edge map time: 0.142452
+Dense: 230 659
+edge map time: 0.140916
+Dense: 215 674
+edge map time: 0.142227
+Dense: 253 719
+edge map time: 0.142666
+Dense: 233 723
+edge map time: 0.141898
+Dense: 248 769
+edge map time: 0.141156
+Dense: 256 779
+edge map time: 0.141093
+Dense: 283 778
+edge map time: 0.141821
+Dense: 239 695
+edge map time: 0.140636
+Dense: 214 645
+edge map time: 0.141563
+Dense: 242 702
+edge map time: 0.143377
+Dense: 262 772
+edge map time: 0.141523
+Dense: 277 807
+edge map time: 0.141786
+Dense: 268 737
+edge map time: 0.140588
+Dense: 234 706
+edge map time: 0.141059
+Dense: 262 730
+edge map time: 0.142456
+Dense: 262 756
+edge map time: 0.142584
+Dense: 274 778
+edge map time: 0.142010
+Dense: 270 776
+edge map time: 0.140487
+Dense: 292 862
+edge map time: 0.141192
+Dense: 313 925
+edge map time: 0.142471
+Dense: 314 910
+edge map time: 0.140621
+Dense: 294 863
+edge map time: 0.141724
+Dense: 285 866
+edge map time: 0.140797
+Dense: 317 929
+edge map time: 0.141862
+Dense: 308 925
+edge map time: 0.140798
+Dense: 319 963
+edge map time: 0.140834
+Dense: 335 1005
+edge map time: 0.142755
+Dense: 303 882
+edge map time: 0.141647
+Dense: 302 947
+edge map time: 0.141622
+Dense: 328 957
+edge map time: 0.140873
+Dense: 289 842
+edge map time: 0.142195
+Dense: 281 833
+edge map time: 0.140908
+Dense: 284 842
+edge map time: 0.140901
+Dense: 263 779
+edge map time: 0.141900
+Dense: 248 741
+edge map time: 0.143444
+Dense: 249 754
+edge map time: 0.141292
+Dense: 244 709
+edge map time: 0.141254
+Dense: 229 656
+edge map time: 0.140995
+Dense: 227 665
+edge map time: 0.140326
+Dense: 251 760
+edge map time: 0.140371
+Dense: 256 761
+edge map time: 0.140805
+Dense: 267 777
+edge map time: 0.140669
+Dense: 264 767
+edge map time: 0.140498
+Dense: 247 718
+edge map time: 0.141047
+Dense: 239 718
+edge map time: 0.142147
+Dense: 251 706
+edge map time: 0.143445
+Dense: 239 671
+edge map time: 0.141408
+Dense: 224 619
+edge map time: 0.141689
+Dense: 218 669
+edge map time: 0.143519
+Dense: 259 760
+edge map time: 0.141584
+Dense: 268 805
+edge map time: 0.140734
+Dense: 302 878
+edge map time: 0.144003
+Dense: 289 796
+edge map time: 0.140734
+Dense: 281 819
+edge map time: 0.140864
+Dense: 278 811
+edge map time: 0.140940
+Dense: 290 845
+edge map time: 0.141905
+Dense: 294 837
+edge map time: 0.140674
+Dense: 287 862
+edge map time: 0.141460
+Dense: 314 881
+edge map time: 0.142235
+Dense: 286 808
+edge map time: 0.140633
+Dense: 262 767
+edge map time: 0.140292
+Dense: 265 771
+edge map time: 0.142277
+Dense: 276 784
+edge map time: 0.141400
+Dense: 277 832
+edge map time: 0.141839
+Dense: 289 839
+edge map time: 0.140538
+Dense: 293 889
+edge map time: 0.140502
+Dense: 323 960
+edge map time: 0.141587
+Dense: 321 948
+edge map time: 0.141689
+Dense: 315 941
+edge map time: 0.141518
+Dense: 317 933
+edge map time: 0.143374
+Dense: 322 963
+edge map time: 0.140951
+Dense: 320 956
+edge map time: 0.141244
+Dense: 339 1015
+edge map time: 0.140559
+Dense: 333 995
+edge map time: 0.140370
+Dense: 317 931
+edge map time: 0.142042
+Dense: 308 900
+edge map time: 0.140327
+Dense: 300 873
+edge map time: 0.141241
+Dense: 310 927
+edge map time: 0.142241
+Dense: 324 974
+edge map time: 0.141268
+Dense: 322 935
+edge map time: 0.140752
+Dense: 306 893
+edge map time: 0.141908
+Dense: 318 917
+edge map time: 0.140757
+Dense: 295 882
+edge map time: 0.141042
+Dense: 277 853
+edge map time: 0.141488
+Dense: 319 955
+edge map time: 0.142649
+Dense: 327 898
+edge map time: 0.140928
+Dense: 299 895
+edge map time: 0.142494
+Dense: 312 892
+edge map time: 0.141831
+Dense: 309 893
+edge map time: 0.141384
+Dense: 293 878
+edge map time: 0.142121
+Dense: 316 931
+edge map time: 0.140977
+Dense: 338 932
+edge map time: 0.141413
+Dense: 306 911
+edge map time: 0.141448
+Dense: 329 974
+edge map time: 0.141836
+Dense: 330 955
+edge map time: 0.140522
+Dense: 337 978
+edge map time: 0.141671
+Dense: 354 1014
+edge map time: 0.140632
+Dense: 360 1058
+edge map time: 0.140453
+Dense: 333 967
+edge map time: 0.141676
+Dense: 317 958
+edge map time: 0.141693
+Dense: 322 952
+edge map time: 0.140692
+Dense: 292 844
+edge map time: 0.141098
+Dense: 280 817
+edge map time: 0.141628
+Dense: 254 735
+edge map time: 0.141579
+Dense: 266 758
+edge map time: 0.141064
+Dense: 274 852
+edge map time: 0.141843
+Dense: 338 984
+edge map time: 0.142783
+Dense: 369 1088
+edge map time: 0.141347
+Dense: 388 1201
+edge map time: 0.141831
+Dense: 431 1241
+edge map time: 0.141210
+Dense: 410 1198
+edge map time: 0.140989
+Dense: 416 1224
+edge map time: 0.141235
+Dense: 407 1229
+edge map time: 0.141246
+Dense: 422 1263
+edge map time: 0.141779
+Dense: 416 1204
+edge map time: 0.140416
+Dense: 416 1238
+edge map time: 0.142651
+Dense: 418 1278
+edge map time: 0.141553
+Dense: 439 1357
+edge map time: 0.140764
+Dense: 446 1280
+edge map time: 0.140449
+Dense: 400 1195
+edge map time: 0.140462
+Dense: 395 1200
+edge map time: 0.140786
+Dense: 418 1293
+edge map time: 0.141285
+Dense: 456 1369
+edge map time: 0.141116
+Dense: 448 1342
+edge map time: 0.140608
+Dense: 429 1244
+edge map time: 0.140688
+Dense: 424 1214
+edge map time: 0.141214
+Dense: 388 1116
+edge map time: 0.141859
+Dense: 384 1136
+edge map time: 0.142029
+Dense: 400 1133
+edge map time: 0.142288
+Dense: 371 1155
+edge map time: 0.142893
+Dense: 412 1197
+edge map time: 0.141597
+Dense: 387 1144
+edge map time: 0.142310
+Dense: 393 1173
+edge map time: 0.141920
+Dense: 423 1210
+edge map time: 0.140937
+Dense: 411 1210
+edge map time: 0.142216
+Dense: 420 1228
+edge map time: 0.141212
+Dense: 445 1305
+edge map time: 0.142925
+Dense: 460 1352
+edge map time: 0.140928
+Dense: 465 1364
+edge map time: 0.140952
+Dense: 468 1375
+edge map time: 0.141014
+Dense: 463 1340
+edge map time: 0.142345
+Dense: 463 1358
+edge map time: 0.140344
+Dense: 454 1360
+edge map time: 0.140195
+Dense: 452 1327
+edge map time: 0.140902
+Dense: 453 1315
+edge map time: 0.141076
+Dense: 435 1231
+edge map time: 0.140579
+Dense: 400 1150
+edge map time: 0.140480
+Dense: 388 1152
+edge map time: 0.140857
+Dense: 408 1182
+edge map time: 0.140989
+Dense: 400 1146
+edge map time: 0.141278
+Dense: 392 1170
+edge map time: 0.141225
+Dense: 408 1183
+edge map time: 0.141088
+Dense: 404 1212
+edge map time: 0.140429
+Dense: 401 1119
+edge map time: 0.141370
+Dense: 360 1086
+edge map time: 0.141201
+Dense: 383 1135
+edge map time: 0.140682
+Dense: 368 1060
+edge map time: 0.140837
+Dense: 320 941
+edge map time: 0.142679
+Dense: 336 974
+edge map time: 0.141537
+Dense: 344 1013
+edge map time: 0.141589
+Dense: 343 987
+edge map time: 0.140721
+Dense: 333 988
+edge map time: 0.140698
+Dense: 349 1015
+edge map time: 0.141045
+Dense: 359 1022
+edge map time: 0.140917
+Dense: 358 1057
+edge map time: 0.141481
+Dense: 369 1053
+edge map time: 0.140074
+Dense: 371 1078
+edge map time: 0.140912
+Dense: 360 1022
+edge map time: 0.140729
+Dense: 359 1106
+edge map time: 0.141027
+Dense: 403 1176
+edge map time: 0.140906
+Dense: 398 1175
+edge map time: 0.142761
+Dense: 395 1144
+edge map time: 0.142623
+Dense: 389 1077
+edge map time: 0.141207
+Dense: 362 1130
+edge map time: 0.140187
+Dense: 398 1186
+edge map time: 0.140573
+Dense: 407 1194
+edge map time: 0.140675
+Dense: 392 1118
+edge map time: 0.140928
+Dense: 394 1099
+edge map time: 0.142562
+Dense: 373 1066
+edge map time: 0.141208
+Dense: 369 1062
+edge map time: 0.140785
+Dense: 364 1037
+edge map time: 0.141722
+Dense: 367 1091
+edge map time: 0.141488
+Dense: 384 1104
+edge map time: 0.141473
+Dense: 374 1101
+edge map time: 0.140969
+Dense: 414 1240
+edge map time: 0.142334
+Dense: 441 1247
+edge map time: 0.142656
+Dense: 419 1232
+edge map time: 0.141202
+Dense: 408 1154
+edge map time: 0.141922
+Dense: 386 1126
+edge map time: 0.142501
+Dense: 414 1224
+edge map time: 0.142249
+Dense: 444 1304
+edge map time: 0.141391
+Dense: 452 1309
+edge map time: 0.140588
+Dense: 450 1303
+edge map time: 0.140114
+Dense: 464 1364
+edge map time: 0.141071
+Dense: 455 1331
+edge map time: 0.140679
+Dense: 445 1279
+edge map time: 0.141275
+Dense: 433 1229
+edge map time: 0.140731
+Dense: 401 1163
+edge map time: 0.140994
+Dense: 401 1154
+edge map time: 0.140530
+Dense: 378 1141
+edge map time: 0.140667
+Dense: 393 1145
+edge map time: 0.140398
+Dense: 408 1212
+edge map time: 0.142838
+Dense: 426 1245
+edge map time: 0.140554
+Dense: 432 1322
+edge map time: 0.141805
+Dense: 426 1229
+edge map time: 0.140834
+Dense: 415 1202
+edge map time: 0.140544
+Dense: 415 1243
+edge map time: 0.140241
+Dense: 433 1272
+edge map time: 0.141016
+Dense: 462 1322
+edge map time: 0.140655
+Dense: 450 1304
+edge map time: 0.142125
+Dense: 473 1344
+edge map time: 0.142413
+Dense: 435 1285
+edge map time: 0.141131
+Dense: 459 1320
+edge map time: 0.141085
+Dense: 439 1280
+edge map time: 0.141656
+Dense: 454 1328
+edge map time: 0.140888
+Dense: 440 1307
+edge map time: 0.141688
+Dense: 470 1354
+edge map time: 0.140792
+Dense: 486 1433
+edge map time: 0.142229
+Dense: 486 1473
+edge map time: 0.141589
+Dense: 502 1430
+edge map time: 0.142262
+Dense: 465 1363
+edge map time: 0.139933
+Dense: 466 1377
+edge map time: 0.140764
+Dense: 500 1443
+edge map time: 0.140607
+Dense: 487 1386
+edge map time: 0.141520
+Dense: 473 1412
+edge map time: 0.141661
+Dense: 497 1444
+edge map time: 0.141807
+Dense: 488 1422
+edge map time: 0.140435
+Dense: 521 1539
+edge map time: 0.141692
+Dense: 549 1602
+edge map time: 0.141458
+Dense: 518 1469
+edge map time: 0.140224
+Dense: 470 1383
+edge map time: 0.140040
+Dense: 493 1432
+edge map time: 0.140148
+Dense: 514 1482
+edge map time: 0.141971
+Dense: 508 1493
+edge map time: 0.140554
+Dense: 536 1611
+edge map time: 0.140161
+Dense: 576 1676
+edge map time: 0.140737
+Dense: 590 1762
+edge map time: 0.140257
+Dense: 633 1858
+edge map time: 0.140500
+Dense: 629 1876
+edge map time: 0.140759
+Dense: 651 1908
+edge map time: 0.141253
+Dense: 641 1816
+edge map time: 0.142815
+Dense: 602 1749
+edge map time: 0.141377
+Dense: 560 1616
+edge map time: 0.140777
+Dense: 556 1636
+edge map time: 0.141429
+Dense: 584 1744
+edge map time: 0.140527
+Dense: 581 1669
+edge map time: 0.140221
+Dense: 577 1704
+edge map time: 0.141434
+Dense: 588 1736
+edge map time: 0.140208
+Dense: 581 1787
+edge map time: 0.141253
+Dense: 630 1874
+edge map time: 0.142895
+Dense: 612 1869
+edge map time: 0.141182
+Dense: 637 1804
+edge map time: 0.140161
+Dense: 590 1733
+edge map time: 0.140103
+Dense: 567 1699
+edge map time: 0.141896
+Dense: 584 1651
+edge map time: 0.141446
+Dense: 544 1548
+edge map time: 0.140575
+Dense: 523 1575
+edge map time: 0.140917
+Dense: 556 1626
+edge map time: 0.139959
+Dense: 554 1612
+edge map time: 0.140840
+Dense: 541 1549
+edge map time: 0.140465
+Dense: 522 1495
+edge map time: 0.140509
+Dense: 513 1497
+edge map time: 0.140785
+Dense: 529 1541
+edge map time: 0.141175
+Dense: 512 1471
+edge map time: 0.140491
+Dense: 512 1491
+edge map time: 0.140283
+Dense: 498 1485
+edge map time: 0.140907
+Dense: 528 1559
+edge map time: 0.140237
+Dense: 540 1567
+edge map time: 0.141070
+Dense: 528 1536
+edge map time: 0.140872
+Dense: 528 1562
+edge map time: 0.140286
+Dense: 538 1581
+edge map time: 0.140202
+Dense: 548 1624
+edge map time: 0.141225
+Dense: 563 1600
+edge map time: 0.141570
+Dense: 541 1566
+edge map time: 0.141956
+Dense: 524 1517
+edge map time: 0.141158
+Dense: 513 1472
+edge map time: 0.140828
+Dense: 513 1453
+edge map time: 0.140273
+Dense: 500 1477
+edge map time: 0.141407
+Dense: 531 1526
+edge map time: 0.141527
+Dense: 505 1527
+edge map time: 0.141576
+Dense: 515 1556
+edge map time: 0.141510
+Dense: 535 1543
+edge map time: 0.140894
+Dense: 554 1648
+edge map time: 0.140808
+Dense: 590 1721
+edge map time: 0.141020
+Dense: 557 1620
+edge map time: 0.141331
+Dense: 518 1542
+edge map time: 0.140845
+Dense: 533 1566
+edge map time: 0.140273
+Dense: 539 1600
+edge map time: 0.140616
+Dense: 576 1636
+edge map time: 0.140377
+Dense: 596 1744
+edge map time: 0.140160
+Dense: 617 1743
+edge map time: 0.140980
+Dense: 606 1724
+edge map time: 0.141327
+Dense: 567 1647
+edge map time: 0.140894
+Dense: 569 1659
+edge map time: 0.140124
+Dense: 615 1861
+edge map time: 0.141274
+Dense: 646 1894
+edge map time: 0.140970
+Dense: 631 1909
+edge map time: 0.140361
+Dense: 668 1981
+edge map time: 0.140769
+Dense: 668 1907
+edge map time: 0.140099
+Dense: 642 1868
+edge map time: 0.139979
+Dense: 629 1840
+edge map time: 0.140246
+Dense: 602 1747
+edge map time: 0.141017
+Dense: 575 1665
+edge map time: 0.142850
+Dense: 590 1718
+edge map time: 0.140925
+Dense: 594 1806
+edge map time: 0.140479
+Dense: 626 1790
+edge map time: 0.140634
+Dense: 616 1807
+edge map time: 0.142352
+Dense: 647 1883
+edge map time: 0.140846
+Dense: 646 1897
+edge map time: 0.140190
+Dense: 637 1829
+edge map time: 0.140958
+Dense: 623 1764
+edge map time: 0.141118
+Dense: 619 1796
+edge map time: 0.140763
+Dense: 624 1903
+edge map time: 0.141023
+Dense: 637 1843
+edge map time: 0.140638
+Dense: 611 1731
+edge map time: 0.140242
+Dense: 564 1696
+edge map time: 0.141059
+Dense: 604 1705
+edge map time: 0.140074
+Dense: 598 1778
+edge map time: 0.142054
+Dense: 633 1783
+edge map time: 0.140353
+Dense: 597 1778
+edge map time: 0.140010
+Dense: 637 1886
+edge map time: 0.141494
+Dense: 644 1914
+edge map time: 0.140667
+Dense: 664 2024
+edge map time: 0.140856
+Dense: 700 2045
+edge map time: 0.141218
+Dense: 682 2017
+edge map time: 0.140510
+Dense: 701 2082
+edge map time: 0.140525
+Dense: 696 2054
+edge map time: 0.140224
+Dense: 694 2052
+edge map time: 0.142280
+Dense: 697 2059
+edge map time: 0.140222
+Dense: 699 1927
+edge map time: 0.140197
+Dense: 641 1830
+edge map time: 0.141267
+Dense: 631 1848
+edge map time: 0.141932
+Dense: 662 1897
+edge map time: 0.141797
+Dense: 633 1891
+edge map time: 0.141018
+Dense: 689 1957
+edge map time: 0.140589
+Dense: 639 1853
+edge map time: 0.140540
+Dense: 631 1844
+edge map time: 0.140384
+Dense: 619 1812
+edge map time: 0.140917
+Dense: 613 1784
+edge map time: 0.141424
+Dense: 632 1835
+edge map time: 0.139399
+Dense: 630 1847
+edge map time: 0.141188
+Dense: 638 1850
+edge map time: 0.141367
+Dense: 642 1933
+edge map time: 0.140046
+Dense: 672 1965
+edge map time: 0.141319
+Dense: 681 1998
+edge map time: 0.141529
+Dense: 668 1936
+edge map time: 0.141733
+Dense: 672 1973
+edge map time: 0.141034
+Dense: 646 1902
+edge map time: 0.140981
+Dense: 642 1872
+edge map time: 0.140412
+Dense: 647 1915
+edge map time: 0.141445
+Dense: 665 2031
+edge map time: 0.140190
+Dense: 736 2162
+edge map time: 0.142662
+Dense: 740 2244
+edge map time: 0.140728
+Dense: 747 2184
+edge map time: 0.140450
+Dense: 734 2118
+edge map time: 0.141194
+Dense: 724 2044
+edge map time: 0.139672
+Dense: 678 2057
+edge map time: 0.141007
+Dense: 733 2186
+edge map time: 0.141188
+Dense: 772 2210
+edge map time: 0.141132
+Dense: 741 2154
+edge map time: 0.140016
+Dense: 725 2138
+edge map time: 0.140354
+Dense: 777 2208
+edge map time: 0.140762
+Dense: 757 2259
+edge map time: 0.139775
+Dense: 770 2314
+edge map time: 0.140069
+Dense: 786 2276
+edge map time: 0.140823
+Dense: 760 2217
+edge map time: 0.139689
+Dense: 714 2105
+edge map time: 0.140359
+Dense: 708 2095
+edge map time: 0.139523
+Dense: 693 2067
+edge map time: 0.139473
+Dense: 694 2131
+edge map time: 0.140211
+Dense: 719 2099
+edge map time: 0.141710
+Dense: 671 2024
+edge map time: 0.140293
+Dense: 665 1959
+edge map time: 0.139891
+Dense: 635 1895
+edge map time: 0.140567
+Dense: 597 1784
+edge map time: 0.140245
+Dense: 593 1784
+edge map time: 0.140728
+Dense: 600 1825
+edge map time: 0.142283
+Dense: 598 1739
+edge map time: 0.140128
+Dense: 564 1707
+edge map time: 0.139800
+Dense: 593 1777
+edge map time: 0.140767
+Dense: 612 1766
+edge map time: 0.141645
+Dense: 623 1876
+edge map time: 0.140540
+Dense: 639 1835
+edge map time: 0.142440
+Dense: 589 1699
+edge map time: 0.139963
+Dense: 579 1776
+edge map time: 0.141073
+Dense: 638 1864
+edge map time: 0.140948
+Dense: 607 1765
+edge map time: 0.140236
+Dense: 605 1820
+edge map time: 0.139452
+Dense: 606 1833
+edge map time: 0.140228
+Dense: 610 1855
+edge map time: 0.139834
+Dense: 631 1866
+edge map time: 0.140590
+Dense: 627 1867
+edge map time: 0.139893
+Dense: 628 1912
+edge map time: 0.142073
+Dense: 650 1953
+edge map time: 0.140394
+Dense: 657 1907
+edge map time: 0.140356
+Dense: 638 1836
+edge map time: 0.139967
+Dense: 607 1773
+edge map time: 0.140688
+Dense: 631 1843
+edge map time: 0.140895
+Dense: 624 1846
+edge map time: 0.141152
+Dense: 642 1892
+edge map time: 0.139756
+Dense: 645 1850
+edge map time: 0.140644
+Dense: 632 1885
+edge map time: 0.139774
+Dense: 670 2017
+edge map time: 0.140530
+Dense: 713 2118
+edge map time: 0.141883
+Dense: 705 2096
+edge map time: 0.141137
+Dense: 713 2167
+edge map time: 0.140852
+Dense: 773 2229
+edge map time: 0.141690
+Dense: 752 2217
+edge map time: 0.140272
+Dense: 750 2232
+edge map time: 0.139745
+Dense: 745 2166
+edge map time: 0.140411
+Dense: 745 2188
+edge map time: 0.140999
+Dense: 727 2134
+edge map time: 0.139733
+Dense: 701 2080
+edge map time: 0.140426
+Dense: 684 2032
+edge map time: 0.139742
+Dense: 681 2062
+edge map time: 0.139771
+Dense: 679 2000
+edge map time: 0.139687
+Dense: 638 1833
+edge map time: 0.139827
+Dense: 607 1750
+edge map time: 0.140220
+Dense: 563 1716
+edge map time: 0.139851
+Dense: 595 1789
+edge map time: 0.139900
+Dense: 610 1723
+edge map time: 0.139604
+Dense: 586 1718
+edge map time: 0.140163
+Dense: 615 1797
+edge map time: 0.139544
+Dense: 617 1816
+edge map time: 0.140791
+Dense: 606 1835
+edge map time: 0.140147
+Dense: 633 1825
+edge map time: 0.139454
+Dense: 610 1833
+edge map time: 0.140690
+Dense: 644 1868
+edge map time: 0.139942
+Dense: 616 1771
+edge map time: 0.140126
+Dense: 625 1838
+edge map time: 0.139929
+Dense: 646 1868
+edge map time: 0.139511
+Dense: 636 1874
+edge map time: 0.141192
+Dense: 665 1943
+edge map time: 0.140491
+Dense: 650 1938
+edge map time: 0.141352
+Dense: 647 1908
+edge map time: 0.141023
+Dense: 625 1816
+edge map time: 0.140843
+Dense: 574 1655
+edge map time: 0.141644
+Dense: 545 1570
+edge map time: 0.141104
+Dense: 547 1634
+edge map time: 0.140809
+Dense: 555 1670
+edge map time: 0.139593
+Dense: 572 1667
+edge map time: 0.141635
+Dense: 540 1605
+edge map time: 0.139894
+Dense: 499 1480
+edge map time: 0.139930
+Dense: 519 1547
+edge map time: 0.139601
+Dense: 544 1624
+edge map time: 0.140081
+Dense: 573 1702
+edge map time: 0.140318
+Dense: 585 1651
+edge map time: 0.140639
+Dense: 549 1660
+edge map time: 0.140737
+Dense: 573 1718
+edge map time: 0.140127
+Dense: 593 1766
+edge map time: 0.140341
+Dense: 585 1756
+edge map time: 0.139684
+Dense: 591 1702
+edge map time: 0.139957
+Dense: 565 1704
+edge map time: 0.139433
+Dense: 580 1689
+edge map time: 0.140477
+Dense: 562 1687
+edge map time: 0.139822
+Dense: 577 1748
+edge map time: 0.140660
+Dense: 580 1724
+edge map time: 0.139605
+Dense: 574 1707
+edge map time: 0.140569
+Dense: 564 1631
+edge map time: 0.139980
+Dense: 557 1663
+edge map time: 0.139695
+Dense: 580 1728
+edge map time: 0.139938
+Dense: 602 1772
+edge map time: 0.140962
+Dense: 615 1771
+edge map time: 0.142273
+Dense: 598 1747
+edge map time: 0.139253
+Dense: 594 1733
+edge map time: 0.140051
+Dense: 603 1758
+edge map time: 0.140373
+Dense: 575 1730
+edge map time: 0.139953
+Dense: 595 1784
+edge map time: 0.140271
+Dense: 638 1914
+edge map time: 0.139574
+Dense: 672 2007
+edge map time: 0.139453
+Dense: 677 1982
+edge map time: 0.140424
+Dense: 658 1969
+edge map time: 0.140080
+Dense: 688 2056
+edge map time: 0.139421
+Dense: 692 1984
+edge map time: 0.140009
+Dense: 672 1980
+edge map time: 0.139979
+Dense: 685 1996
+edge map time: 0.139683
+Dense: 658 1929
+edge map time: 0.141333
+Dense: 646 1952
+edge map time: 0.140846
+Dense: 700 2100
+edge map time: 0.141120
+Dense: 717 2114
+edge map time: 0.139735
+Dense: 708 2013
+edge map time: 0.142428
+Dense: 683 2037
+edge map time: 0.139380
+Dense: 758 2259
+edge map time: 0.139295
+Dense: 769 2233
+edge map time: 0.139184
+Dense: 732 2129
+edge map time: 0.140308
+Dense: 681 2002
+edge map time: 0.140234
+Dense: 665 1936
+edge map time: 0.139445
+Dense: 661 1968
+edge map time: 0.140052
+Dense: 671 2028
+edge map time: 0.139295
+Dense: 692 2075
+edge map time: 0.140472
+Dense: 724 2066
+edge map time: 0.140402
+Dense: 683 2037
+edge map time: 0.140529
+Dense: 668 1933
+edge map time: 0.139640
+Dense: 643 1858
+edge map time: 0.139446
+Dense: 616 1853
+edge map time: 0.140144
+Dense: 651 1926
+edge map time: 0.141403
+Dense: 648 1923
+edge map time: 0.139852
+Dense: 658 1932
+edge map time: 0.139642
+Dense: 641 1892
+edge map time: 0.140479
+Dense: 639 1851
+edge map time: 0.141036
+Dense: 606 1795
+edge map time: 0.139767
+Dense: 654 1932
+edge map time: 0.139573
+Dense: 698 2006
+edge map time: 0.140005
+Dense: 654 1876
+edge map time: 0.140107
+Dense: 606 1771
+edge map time: 0.139659
+Dense: 613 1772
+edge map time: 0.139447
+Dense: 575 1700
+edge map time: 0.140352
+Dense: 607 1789
+edge map time: 0.139476
+Dense: 626 1821
+edge map time: 0.139790
+Dense: 620 1841
+edge map time: 0.139991
+Dense: 658 1935
+edge map time: 0.140237
+Dense: 681 2013
+edge map time: 0.139480
+Dense: 682 2023
+edge map time: 0.139830
+Dense: 709 2042
+edge map time: 0.141062
+Dense: 718 2099
+edge map time: 0.141280
+Dense: 734 2090
+edge map time: 0.139680
+Dense: 728 2113
+edge map time: 0.139687
+Dense: 718 2112
+edge map time: 0.139284
+Dense: 731 2191
+edge map time: 0.140054
+Dense: 781 2326
+edge map time: 0.139021
+Dense: 812 2389
+edge map time: 0.140949
+Dense: 784 2360
+edge map time: 0.141391
+Dense: 794 2381
+edge map time: 0.141265
+Dense: 770 2309
+edge map time: 0.139440
+Dense: 774 2287
+edge map time: 0.139235
+Dense: 734 2134
+edge map time: 0.141228
+Dense: 669 1983
+edge map time: 0.139691
+Dense: 682 2090
+edge map time: 0.139628
+Dense: 721 2135
+edge map time: 0.139214
+Dense: 736 2217
+edge map time: 0.140227
+Dense: 720 2118
+edge map time: 0.139766
+Dense: 677 1978
+edge map time: 0.141191
+Dense: 634 1891
+edge map time: 0.140045
+Dense: 647 1879
+edge map time: 0.139636
+Dense: 626 1891
+edge map time: 0.139311
+Dense: 677 1925
+edge map time: 0.140503
+Dense: 652 1984
+edge map time: 0.139299
+Dense: 732 2144
+edge map time: 0.140042
+Dense: 728 2154
+edge map time: 0.139769
+Dense: 708 2134
+edge map time: 0.139621
+Dense: 738 2185
+edge map time: 0.140744
+Dense: 733 2147
+edge map time: 0.140379
+Dense: 714 2112
+edge map time: 0.139233
+Dense: 693 2116
+edge map time: 0.139640
+Dense: 702 2082
+edge map time: 0.140011
+Dense: 666 1951
+edge map time: 0.139545
+Dense: 664 1941
+edge map time: 0.140062
+Dense: 672 2010
+edge map time: 0.139269
+Dense: 696 2046
+edge map time: 0.140583
+Dense: 677 2008
+edge map time: 0.140993
+Dense: 689 2013
+edge map time: 0.139475
+Dense: 634 1888
+edge map time: 0.139388
+Dense: 607 1813
+edge map time: 0.140103
+Dense: 606 1741
+edge map time: 0.139155
+Dense: 587 1740
+edge map time: 0.139451
+Dense: 604 1795
+edge map time: 0.140095
+Dense: 599 1730
+edge map time: 0.139747
+Dense: 551 1631
+edge map time: 0.139882
+Dense: 579 1698
+edge map time: 0.139364
+Dense: 584 1716
+edge map time: 0.139530
+Dense: 582 1738
+edge map time: 0.139601
+Dense: 598 1805
+edge map time: 0.141351
+Dense: 632 1847
+edge map time: 0.139181
+Dense: 635 1874
+edge map time: 0.139072
+Dense: 631 1895
+edge map time: 0.140646
+Dense: 630 1850
+edge map time: 0.140003
+Dense: 609 1749
+edge map time: 0.139612
+Dense: 549 1622
+edge map time: 0.139940
+Dense: 573 1702
+edge map time: 0.139763
+Dense: 573 1681
+edge map time: 0.139032
+Dense: 583 1725
+edge map time: 0.138945
+Dense: 607 1764
+edge map time: 0.139573
+Dense: 598 1734
+edge map time: 0.140689
+Dense: 571 1667
+edge map time: 0.139725
+Dense: 582 1708
+edge map time: 0.139880
+Dense: 601 1785
+edge map time: 0.139097
+Dense: 646 1880
+edge map time: 0.139319
+Dense: 625 1824
+edge map time: 0.140081
+Dense: 646 1847
+edge map time: 0.140171
+Dense: 624 1848
+edge map time: 0.138989
+Dense: 614 1757
+edge map time: 0.139691
+Dense: 587 1757
+edge map time: 0.140117
+Dense: 614 1800
+edge map time: 0.139817
+Dense: 638 1862
+edge map time: 0.138770
+Dense: 642 1864
+edge map time: 0.139717
+Dense: 644 1907
+edge map time: 0.140328
+Dense: 624 1809
+edge map time: 0.139712
+Dense: 601 1802
+edge map time: 0.139478
+Dense: 654 1862
+edge map time: 0.139404
+Dense: 661 1927
+edge map time: 0.139076
+Dense: 634 1893
+edge map time: 0.140022
+Dense: 683 2003
+edge map time: 0.138863
+Dense: 717 2081
+edge map time: 0.138936
+Dense: 711 2111
+edge map time: 0.139763
+Dense: 710 2070
+edge map time: 0.140432
+Dense: 686 2024
+edge map time: 0.138795
+Dense: 680 1980
+edge map time: 0.139606
+Dense: 660 1973
+edge map time: 0.141166
+Dense: 655 1912
+edge map time: 0.138847
+Dense: 646 1916
+edge map time: 0.138778
+Dense: 659 1931
+edge map time: 0.141008
+Dense: 681 1978
+edge map time: 0.138780
+Dense: 685 2025
+edge map time: 0.140023
+Dense: 696 2073
+edge map time: 0.139682
+Dense: 694 2088
+edge map time: 0.139559
+Dense: 709 2164
+edge map time: 0.139781
+Dense: 734 2104
+edge map time: 0.139090
+Dense: 715 2091
+edge map time: 0.139993
+Dense: 702 2017
+edge map time: 0.139167
+Dense: 722 2076
+edge map time: 0.139047
+Dense: 699 2042
+edge map time: 0.139340
+Dense: 683 1976
+edge map time: 0.139742
+Dense: 648 1912
+edge map time: 0.139089
+Dense: 605 1760
+edge map time: 0.139123
+Dense: 595 1696
+edge map time: 0.139893
+Dense: 573 1674
+edge map time: 0.139941
+Dense: 589 1733
+edge map time: 0.139778
+Dense: 586 1722
+edge map time: 0.139514
+Dense: 559 1594
+edge map time: 0.139359
+Dense: 543 1605
+edge map time: 0.139350
+Dense: 553 1656
+edge map time: 0.140197
+Dense: 584 1763
+edge map time: 0.138959
+Dense: 602 1800
+edge map time: 0.139222
+Dense: 621 1868
+edge map time: 0.139598
+Dense: 613 1858
+edge map time: 0.139721
+Dense: 647 1859
+edge map time: 0.139317
+Dense: 637 1829
+edge map time: 0.138702
+Dense: 607 1766
+edge map time: 0.140090
+Dense: 584 1776
+edge map time: 0.139428
+Dense: 611 1855
+edge map time: 0.139348
+Dense: 587 1759
+edge map time: 0.138925
+Dense: 570 1682
+edge map time: 0.139433
+Dense: 566 1724
+edge map time: 0.138765
+Dense: 620 1786
+edge map time: 0.140531
+Dense: 624 1816
+edge map time: 0.139417
+Dense: 636 1918
+edge map time: 0.139257
+Dense: 664 1889
+edge map time: 0.139940
+Dense: 617 1819
+edge map time: 0.139987
+Dense: 661 1918
+edge map time: 0.138998
+Dense: 655 1936
+edge map time: 0.140639
+Dense: 661 1945
+edge map time: 0.139623
+Dense: 678 1994
+edge map time: 0.140301
+Dense: 657 1936
+edge map time: 0.140308
+Dense: 623 1838
+edge map time: 0.140555
+Dense: 634 1836
+edge map time: 0.138771
+Dense: 556 1658
+edge map time: 0.139350
+Dense: 554 1676
+edge map time: 0.139817
+Dense: 555 1716
+edge map time: 0.139731
+Dense: 633 1797
+edge map time: 0.138323
+Dense: 591 1702
+edge map time: 0.138537
+Dense: 573 1661
+edge map time: 0.139769
+Dense: 559 1620
+edge map time: 0.139539
+Dense: 542 1595
+edge map time: 0.138847
+Dense: 541 1565
+edge map time: 0.138904
+Dense: 540 1604
+edge map time: 0.139143
+Dense: 572 1638
+edge map time: 0.139045
+Dense: 508 1464
+edge map time: 0.139630
+Dense: 502 1491
+edge map time: 0.139485
+Dense: 521 1491
+edge map time: 0.140080
+Dense: 512 1460
+edge map time: 0.139004
+Dense: 520 1529
+edge map time: 0.139742
+Dense: 552 1689
+edge map time: 0.139054
+Dense: 600 1803
+edge map time: 0.138769
+Dense: 639 1934
+edge map time: 0.139790
+Dense: 651 1994
+edge map time: 0.138647
+Dense: 689 2048
+edge map time: 0.139126
+Dense: 752 2233
+edge map time: 0.140064
+Dense: 799 2366
+edge map time: 0.139639
+Dense: 836 2422
+edge map time: 0.138992
+Dense: 861 2513
+edge map time: 0.139024
+Dense: 857 2482
+edge map time: 0.139671
+Dense: 822 2409
+edge map time: 0.138556
+Dense: 834 2431
+edge map time: 0.139157
+Dense: 849 2432
+edge map time: 0.140071
+Dense: 835 2458
+edge map time: 0.138659
+Dense: 866 2550
+edge map time: 0.139176
+Dense: 886 2587
+edge map time: 0.139085
+Dense: 879 2582
+edge map time: 0.138579
+Dense: 878 2602
+edge map time: 0.139579
+Dense: 932 2733
+edge map time: 0.138997
+Dense: 935 2713
+edge map time: 0.140418
+Dense: 929 2749
+edge map time: 0.138367
+Dense: 969 2912
+edge map time: 0.140044
+Dense: 1008 3042
+edge map time: 0.139251
+Dense: 1031 3068
+edge map time: 0.138783
+Dense: 1053 3099
+edge map time: 0.138458
+Dense: 1044 3192
+edge map time: 0.140546
+Dense: 1093 3214
+edge map time: 0.140299
+Dense: 1073 3131
+edge map time: 0.139368
+Dense: 1072 3201
+edge map time: 0.138728
+Dense: 1094 3207
+edge map time: 0.139145
+Dense: 1065 3140
+edge map time: 0.139125
+Dense: 1061 3105
+edge map time: 0.138034
+Dense: 1093 3204
+edge map time: 0.138467
+Dense: 1093 3225
+edge map time: 0.140308
+Dense: 1154 3423
+edge map time: 0.138564
+Dense: 1142 3404
+edge map time: 0.138916
+Dense: 1185 3415
+edge map time: 0.139019
+Dense: 1143 3240
+edge map time: 0.138574
+Dense: 1075 3162
+edge map time: 0.139880
+Dense: 1060 2998
+edge map time: 0.139031
+Dense: 998 2933
+edge map time: 0.139352
+Dense: 1012 3022
+edge map time: 0.138538
+Dense: 1087 3168
+edge map time: 0.138219
+Dense: 1091 3205
+edge map time: 0.139770
+Dense: 1071 3119
+edge map time: 0.139733
+Dense: 1035 2965
+edge map time: 0.139596
+Dense: 993 2946
+edge map time: 0.139150
+Dense: 1013 2971
+edge map time: 0.138978
+Dense: 1008 2907
+edge map time: 0.140530
+Dense: 984 2861
+edge map time: 0.140086
+Dense: 998 2950
+edge map time: 0.140559
+Dense: 1024 3029
+edge map time: 0.138143
+Dense: 1016 2952
+edge map time: 0.138207
+Dense: 1028 2969
+edge map time: 0.138378
+Dense: 1027 2980
+edge map time: 0.138298
+Dense: 1042 3158
+edge map time: 0.139519
+Dense: 1110 3182
+edge map time: 0.138383
+Dense: 1089 3187
+edge map time: 0.139030
+Dense: 1096 3245
+edge map time: 0.138732
+Dense: 1136 3334
+edge map time: 0.138340
+Dense: 1155 3431
+edge map time: 0.138095
+Dense: 1201 3486
+edge map time: 0.138394
+Dense: 1217 3623
+edge map time: 0.138061
+Dense: 1290 3725
+edge map time: 0.140739
+Dense: 1283 3744
+edge map time: 0.137909
+Dense: 1298 3825
+edge map time: 0.138898
+Dense: 1320 3812
+edge map time: 0.139425
+Dense: 1299 3883
+edge map time: 0.138053
+Dense: 1324 3829
+edge map time: 0.138498
+Dense: 1270 3768
+edge map time: 0.139543
+Dense: 1290 3846
+edge map time: 0.140544
+Dense: 1232 3582
+edge map time: 0.137595
+Dense: 1187 3510
+edge map time: 0.138037
+Dense: 1201 3593
+edge map time: 0.139113
+Dense: 1215 3586
+edge map time: 0.138123
+Dense: 1196 3588
+edge map time: 0.137824
+Dense: 1209 3560
+edge map time: 0.138968
+Dense: 1140 3398
+edge map time: 0.138063
+Dense: 1184 3450
+edge map time: 0.138944
+Dense: 1129 3393
+edge map time: 0.137658
+Dense: 1161 3475
+edge map time: 0.139206
+Dense: 1145 3381
+edge map time: 0.138573
+Dense: 1148 3378
+edge map time: 0.139240
+Dense: 1142 3257
+edge map time: 0.139777
+Dense: 1028 2970
+edge map time: 0.138602
+Dense: 1003 3012
+edge map time: 0.137973
+Dense: 1062 3155
+edge map time: 0.138402
+Dense: 1087 3171
+edge map time: 0.137918
+Dense: 1033 2988
+edge map time: 0.138415
+Dense: 959 2862
+edge map time: 0.137726
+Dense: 1007 2986
+edge map time: 0.137810
+Dense: 1028 2952
+edge map time: 0.138146
+Dense: 955 2864
+edge map time: 0.137667
+Dense: 975 2921
+edge map time: 0.137689
+Dense: 1008 2965
+edge map time: 0.139472
+Dense: 962 2820
+edge map time: 0.138630
+Dense: 992 2979
+edge map time: 0.139961
+Dense: 1036 3121
+edge map time: 0.138090
+Dense: 1091 3177
+edge map time: 0.138835
+Dense: 1044 3057
+edge map time: 0.138749
+Dense: 1050 2992
+edge map time: 0.137699
+Dense: 1038 3025
+edge map time: 0.137463
+Dense: 1064 3056
+edge map time: 0.138636
+Dense: 1056 3123
+edge map time: 0.138749
+Dense: 1067 3047
+edge map time: 0.138286
+Dense: 1018 2943
+edge map time: 0.138449
+Dense: 1030 2992
+edge map time: 0.138714
+Dense: 1032 3031
+edge map time: 0.139097
+Dense: 1085 3089
+edge map time: 0.137917
+Dense: 1068 3184
+edge map time: 0.137951
+Dense: 1052 3117
+edge map time: 0.137500
+Dense: 1036 3008
+edge map time: 0.137869
+Dense: 992 2990
+edge map time: 0.138096
+Dense: 1022 2967
+edge map time: 0.138545
+Dense: 953 2825
+edge map time: 0.138475
+Dense: 985 2970
+edge map time: 0.137930
+Dense: 1026 3146
+edge map time: 0.137638
+Dense: 1078 3206
+edge map time: 0.138530
+Dense: 1051 3098
+edge map time: 0.137337
+Dense: 1031 3047
+edge map time: 0.137776
+Dense: 1049 3126
+edge map time: 0.137363
+Dense: 1067 3097
+edge map time: 0.138268
+Dense: 1048 3086
+edge map time: 0.138836
+Dense: 1013 3011
+edge map time: 0.139276
+Dense: 1050 3070
+edge map time: 0.138566
+Dense: 1019 3009
+edge map time: 0.137860
+Dense: 1012 2993
+edge map time: 0.139149
+Dense: 990 2927
+edge map time: 0.137452
+Dense: 983 2905
+edge map time: 0.138148
+Dense: 980 2900
+edge map time: 0.137908
+Dense: 971 2820
+edge map time: 0.138122
+Dense: 919 2670
+edge map time: 0.138415
+Dense: 892 2634
+edge map time: 0.137967
+Dense: 896 2638
+edge map time: 0.138389
+Dense: 872 2583
+edge map time: 0.137329
+Dense: 878 2543
+edge map time: 0.137402
+Dense: 874 2601
+edge map time: 0.137444
+Dense: 870 2533
+edge map time: 0.137757
+Dense: 864 2483
+edge map time: 0.137684
+Dense: 915 2685
+edge map time: 0.139109
+Dense: 921 2617
+edge map time: 0.137971
+Dense: 911 2721
+edge map time: 0.138649
+Dense: 962 2777
+edge map time: 0.137706
+Dense: 947 2821
+edge map time: 0.139838
+Dense: 948 2843
+edge map time: 0.137542
+Dense: 1013 3038
+edge map time: 0.138352
+Dense: 1042 3050
+edge map time: 0.137070
+Dense: 998 2918
+edge map time: 0.137218
+Dense: 982 2902
+edge map time: 0.137406
+Dense: 973 2869
+edge map time: 0.137172
+Dense: 999 2953
+edge map time: 0.137369
+Dense: 1027 2938
+edge map time: 0.138021
+Dense: 1015 2953
+edge map time: 0.138155
+Dense: 1001 2920
+edge map time: 0.138128
+Dense: 996 2962
+edge map time: 0.137474
+Dense: 1033 3010
+edge map time: 0.139028
+Dense: 1051 3076
+edge map time: 0.137365
+Dense: 1082 3215
+edge map time: 0.137728
+Dense: 1124 3336
+edge map time: 0.137386
+Dense: 1107 3271
+edge map time: 0.137087
+Dense: 1092 3267
+edge map time: 0.137981
+Dense: 1096 3245
+edge map time: 0.138488
+Dense: 1095 3201
+edge map time: 0.137396
+Dense: 1080 3181
+edge map time: 0.137589
+Dense: 1083 3217
+edge map time: 0.137365
+Dense: 1136 3293
+edge map time: 0.137319
+Dense: 1118 3331
+edge map time: 0.136873
+Dense: 1149 3386
+edge map time: 0.139528
+Dense: 1104 3253
+edge map time: 0.137582
+Dense: 1123 3326
+edge map time: 0.137085
+Dense: 1166 3446
+edge map time: 0.137839
+Dense: 1150 3403
+edge map time: 0.137714
+Dense: 1127 3275
+edge map time: 0.137034
+Dense: 1090 3098
+edge map time: 0.137157
+Dense: 1017 3037
+edge map time: 0.136994
+Dense: 1018 3013
+edge map time: 0.138226
+Dense: 1039 3101
+edge map time: 0.137227
+Dense: 1074 3218
+edge map time: 0.137662
+Dense: 1065 3199
+edge map time: 0.136751
+Dense: 1071 3144
+edge map time: 0.137731
+Dense: 1046 3070
+edge map time: 0.137164
+Dense: 1036 3020
+edge map time: 0.137080
+Dense: 1026 3067
+edge map time: 0.137081
+Dense: 1081 3212
+edge map time: 0.137540
+Dense: 1109 3272
+edge map time: 0.137260
+Dense: 1128 3296
+edge map time: 0.138019
+Dense: 1126 3300
+edge map time: 0.137905
+Dense: 1144 3330
+edge map time: 0.137873
+Dense: 1165 3427
+edge map time: 0.138013
+Dense: 1215 3599
+edge map time: 0.137280
+Dense: 1239 3580
+edge map time: 0.136908
+Dense: 1142 3310
+edge map time: 0.137342
+Dense: 1159 3377
+edge map time: 0.137265
+Dense: 1179 3516
+edge map time: 0.137063
+Dense: 1251 3578
+edge map time: 0.137742
+Dense: 1215 3601
+edge map time: 0.136840
+Dense: 1269 3738
+edge map time: 0.137344
+Dense: 1235 3675
+edge map time: 0.137258
+Dense: 1321 3896
+edge map time: 0.136626
+Dense: 1286 3764
+edge map time: 0.138069
+Dense: 1284 3877
+edge map time: 0.136588
+Dense: 1388 4089
+edge map time: 0.137390
+Dense: 1334 3865
+edge map time: 0.137537
+Dense: 1266 3662
+edge map time: 0.138328
+Dense: 1232 3554
+edge map time: 0.137804
+Dense: 1170 3407
+edge map time: 0.137852
+Dense: 1214 3521
+edge map time: 0.138028
+Dense: 1181 3522
+edge map time: 0.138170
+Dense: 1256 3664
+edge map time: 0.137169
+Dense: 1252 3627
+edge map time: 0.138052
+Dense: 1281 3738
+edge map time: 0.136263
+Dense: 1279 3750
+edge map time: 0.136819
+Dense: 1255 3676
+edge map time: 0.137032
+Dense: 1235 3621
+edge map time: 0.136513
+Dense: 1244 3697
+edge map time: 0.138594
+Dense: 1273 3752
+edge map time: 0.137809
+Dense: 1276 3810
+edge map time: 0.137272
+Dense: 1328 3803
+edge map time: 0.138040
+Dense: 1303 3907
+edge map time: 0.136536
+Dense: 1338 3979
+edge map time: 0.136643
+Dense: 1327 3851
+edge map time: 0.137246
+Dense: 1290 3859
+edge map time: 0.137087
+Dense: 1318 3891
+edge map time: 0.136894
+Dense: 1336 3967
+edge map time: 0.137007
+Dense: 1351 3938
+edge map time: 0.137212
+Dense: 1336 3964
+edge map time: 0.137822
+Dense: 1355 3983
+edge map time: 0.136938
+Dense: 1360 3927
+edge map time: 0.136734
+Dense: 1335 3903
+edge map time: 0.135857
+Dense: 1321 3952
+edge map time: 0.136228
+Dense: 1318 3925
+edge map time: 0.136560
+Dense: 1323 3920
+edge map time: 0.136252
+Dense: 1319 3848
+edge map time: 0.137824
+Dense: 1299 3887
+edge map time: 0.136643
+Dense: 1266 3706
+edge map time: 0.136434
+Dense: 1217 3512
+edge map time: 0.136240
+Dense: 1229 3577
+edge map time: 0.136629
+Dense: 1227 3649
+edge map time: 0.136127
+Dense: 1271 3733
+edge map time: 0.136219
+Dense: 1248 3796
+edge map time: 0.136854
+Dense: 1240 3702
+edge map time: 0.137484
+Dense: 1229 3658
+edge map time: 0.136478
+Dense: 1238 3628
+edge map time: 0.136751
+Dense: 1221 3667
+edge map time: 0.136042
+Dense: 1187 3499
+edge map time: 0.137279
+Dense: 1122 3235
+edge map time: 0.137371
+Dense: 1077 3175
+edge map time: 0.136169
+Dense: 1138 3365
+edge map time: 0.135826
+Dense: 1144 3423
+edge map time: 0.135653
+Dense: 1187 3477
+edge map time: 0.136759
+Dense: 1144 3328
+edge map time: 0.137144
+Dense: 1157 3362
+edge map time: 0.136303
+Dense: 1117 3307
+edge map time: 0.136630
+Dense: 1102 3234
+edge map time: 0.135936
+Dense: 1101 3222
+edge map time: 0.136574
+Dense: 1108 3248
+edge map time: 0.136244
+Dense: 1167 3444
+edge map time: 0.136737
+Dense: 1171 3509
+edge map time: 0.136742
+Dense: 1192 3504
+edge map time: 0.136287
+Dense: 1147 3347
+edge map time: 0.137789
+Dense: 1095 3223
+edge map time: 0.138069
+Dense: 1122 3304
+edge map time: 0.136809
+Dense: 1093 3206
+edge map time: 0.136095
+Dense: 1083 3175
+edge map time: 0.137012
+Dense: 1066 3086
+edge map time: 0.136298
+Dense: 1118 3268
+edge map time: 0.136422
+Dense: 1107 3234
+edge map time: 0.136924
+Dense: 1125 3250
+edge map time: 0.136037
+Dense: 1090 3214
+edge map time: 0.137186
+Dense: 1108 3233
+edge map time: 0.136495
+Dense: 1067 3193
+edge map time: 0.137661
+Dense: 1114 3318
+edge map time: 0.136203
+Dense: 1113 3245
+edge map time: 0.136716
+Dense: 1069 3149
+edge map time: 0.136091
+Dense: 1066 3042
+edge map time: 0.135579
+Dense: 1065 3162
+edge map time: 0.136466
+Dense: 1097 3208
+edge map time: 0.135733
+Dense: 1082 3175
+edge map time: 0.135555
+Dense: 1047 3071
+edge map time: 0.135752
+Dense: 1025 2993
+edge map time: 0.135758
+Dense: 1005 2995
+edge map time: 0.136488
+Dense: 991 2891
+edge map time: 0.135852
+Dense: 981 2893
+edge map time: 0.136407
+Dense: 1001 2926
+edge map time: 0.135941
+Dense: 1001 2869
+edge map time: 0.135844
+Dense: 956 2816
+edge map time: 0.136788
+Dense: 926 2690
+edge map time: 0.136201
+Dense: 904 2628
+edge map time: 0.135865
+Dense: 936 2799
+edge map time: 0.135457
+Dense: 944 2752
+edge map time: 0.135442
+Dense: 914 2709
+edge map time: 0.136133
+Dense: 914 2710
+edge map time: 0.135615
+Dense: 912 2678
+edge map time: 0.137598
+Dense: 900 2686
+edge map time: 0.136267
+Dense: 908 2655
+edge map time: 0.135363
+Dense: 911 2616
+edge map time: 0.136466
+Dense: 874 2531
+edge map time: 0.136127
+Dense: 878 2668
+edge map time: 0.135894
+Dense: 946 2795
+edge map time: 0.135607
+Dense: 946 2779
+edge map time: 0.135483
+Dense: 985 2914
+edge map time: 0.135204
+Dense: 1023 3079
+edge map time: 0.136528
+Dense: 1053 3096
+edge map time: 0.136019
+Dense: 1027 3054
+edge map time: 0.135538
+Dense: 1013 3018
+edge map time: 0.135575
+Dense: 1037 3090
+edge map time: 0.136197
+Dense: 1025 3036
+edge map time: 0.136589
+Dense: 996 2929
+edge map time: 0.135485
+Dense: 956 2807
+edge map time: 0.135177
+Dense: 957 2889
+edge map time: 0.135791
+Dense: 1001 2951
+edge map time: 0.135250
+Dense: 987 2892
+edge map time: 0.136057
+Dense: 970 2886
+edge map time: 0.134948
+Dense: 1014 2969
+edge map time: 0.135790
+Dense: 967 2839
+edge map time: 0.135640
+Dense: 937 2760
+edge map time: 0.135958
+Dense: 933 2794
+edge map time: 0.134941
+Dense: 975 2901
+edge map time: 0.136178
+Dense: 1013 2990
+edge map time: 0.135395
+Dense: 1001 2865
+edge map time: 0.135303
+Dense: 949 2815
+edge map time: 0.136210
+Dense: 989 2853
+edge map time: 0.136835
+Dense: 954 2807
+edge map time: 0.136154
+Dense: 925 2717
+edge map time: 0.135276
+Dense: 934 2747
+edge map time: 0.135188
+Dense: 930 2668
+edge map time: 0.136255
+Dense: 927 2732
+edge map time: 0.135297
+Dense: 967 2773
+edge map time: 0.137410
+Dense: 941 2787
+edge map time: 0.136004
+Dense: 986 2903
+edge map time: 0.136709
+Dense: 1032 2991
+edge map time: 0.136376
+Dense: 1019 3000
+edge map time: 0.134898
+Dense: 998 2886
+edge map time: 0.137243
+Dense: 987 2866
+edge map time: 0.135578
+Dense: 960 2804
+edge map time: 0.136296
+Dense: 990 2849
+edge map time: 0.135091
+Dense: 966 2835
+edge map time: 0.135484
+Dense: 996 2986
+edge map time: 0.134795
+Dense: 1080 3124
+edge map time: 0.134971
+Dense: 1064 3134
+edge map time: 0.135409
+Dense: 1082 3209
+edge map time: 0.136415
+Dense: 1134 3367
+edge map time: 0.136721
+Dense: 1140 3419
+edge map time: 0.135344
+Dense: 1142 3457
+edge map time: 0.135038
+Dense: 1183 3559
+edge map time: 0.136035
+Dense: 1258 3772
+edge map time: 0.135236
+Dense: 1350 4000
+edge map time: 0.135128
+Dense: 1458 4289
+edge map time: 0.135158
+Dense: 1566 4555
+edge map time: 0.135549
+Dense: 1561 4612
+edge map time: 0.134982
+Dense: 1606 4685
+edge map time: 0.135501
+Dense: 1585 4697
+edge map time: 0.134727
+Dense: 1647 4844
+edge map time: 0.135156
+Dense: 1679 4953
+edge map time: 0.135532
+Dense: 1679 4957
+edge map time: 0.135152
+Dense: 1687 4994
+edge map time: 0.135668
+Dense: 1692 4946
+edge map time: 0.134443
+Dense: 1720 5088
+edge map time: 0.135704
+Dense: 1755 5126
+edge map time: 0.135248
+Dense: 1748 5117
+edge map time: 0.134952
+Dense: 1776 5246
+edge map time: 0.135953
+Dense: 1791 5320
+edge map time: 0.135744
+Dense: 1867 5439
+edge map time: 0.134554
+Dense: 1862 5509
+edge map time: 0.135195
+Dense: 1908 5687
+edge map time: 0.135220
+Dense: 1987 5754
+edge map time: 0.135153
+Dense: 1891 5499
+edge map time: 0.135504
+Dense: 1881 5457
+edge map time: 0.136058
+Dense: 1837 5362
+edge map time: 0.134633
+Dense: 1859 5455
+edge map time: 0.135224
+Dense: 1900 5618
+edge map time: 0.135156
+Dense: 1896 5514
+edge map time: 0.135481
+Dense: 1883 5467
+edge map time: 0.134526
+Dense: 1803 5269
+edge map time: 0.134687
+Dense: 1797 5392
+edge map time: 0.135189
+Dense: 1836 5398
+edge map time: 0.134808
+Dense: 1817 5335
+edge map time: 0.134805
+Dense: 1771 5291
+edge map time: 0.134896
+Dense: 1787 5321
+edge map time: 0.134485
+Dense: 1843 5515
+edge map time: 0.134636
+Dense: 1893 5619
+edge map time: 0.134390
+Dense: 1925 5759
+edge map time: 0.134881
+Dense: 1931 5760
+edge map time: 0.134241
+Dense: 1970 5970
+edge map time: 0.134664
+Dense: 2049 6041
+edge map time: 0.134914
+Dense: 2030 6026
+edge map time: 0.134088
+Dense: 1983 5883
+edge map time: 0.134692
+Dense: 1986 5906
+edge map time: 0.134457
+Dense: 2038 6002
+edge map time: 0.134150
+Dense: 2086 6075
+edge map time: 0.134157
+Dense: 2079 6006
+edge map time: 0.135059
+Dense: 2005 5838
+edge map time: 0.134082
+Dense: 1948 5696
+edge map time: 0.135130
+Dense: 1979 5833
+edge map time: 0.135866
+Dense: 2034 6010
+edge map time: 0.133876
+Dense: 2063 6068
+edge map time: 0.134833
+Dense: 2041 6141
+edge map time: 0.134711
+Dense: 2082 6145
+edge map time: 0.134108
+Dense: 2007 5886
+edge map time: 0.134244
+Dense: 1954 5710
+edge map time: 0.134880
+Dense: 1960 5766
+edge map time: 0.134475
+Dense: 2034 6061
+edge map time: 0.134360
+Dense: 2079 6004
+edge map time: 0.134006
+Dense: 2035 5948
+edge map time: 0.134180
+Dense: 2032 5877
+edge map time: 0.135039
+Dense: 2009 5809
+edge map time: 0.134542
+Dense: 1942 5752
+edge map time: 0.134696
+Dense: 1965 5603
+edge map time: 0.133437
+Dense: 1904 5570
+edge map time: 0.134502
+Dense: 1935 5629
+edge map time: 0.134204
+Dense: 1954 5861
+edge map time: 0.134242
+Dense: 2040 5978
+edge map time: 0.134069
+Dense: 2037 5928
+edge map time: 0.134679
+Dense: 1960 5655
+edge map time: 0.133647
+Dense: 1864 5510
+edge map time: 0.134301
+Dense: 1879 5492
+edge map time: 0.133417
+Dense: 1845 5318
+edge map time: 0.133460
+Dense: 1847 5447
+edge map time: 0.134997
+Dense: 1920 5609
+edge map time: 0.134360
+Dense: 1889 5524
+edge map time: 0.133493
+Dense: 1918 5576
+edge map time: 0.134656
+Dense: 1966 5837
+edge map time: 0.133713
+Dense: 2074 6123
+edge map time: 0.133496
+Dense: 2063 6053
+edge map time: 0.133960
+Dense: 2073 6117
+edge map time: 0.133951
+Dense: 2131 6315
+edge map time: 0.132941
+Dense: 2062 6053
+edge map time: 0.134348
+Dense: 2055 6116
+edge map time: 0.133283
+Dense: 2083 6183
+edge map time: 0.133819
+Dense: 2078 6085
+edge map time: 0.134249
+Dense: 2051 6073
+edge map time: 0.133679
+Dense: 2057 5974
+edge map time: 0.134715
+Dense: 2049 6043
+edge map time: 0.134224
+Dense: 2018 5850
+edge map time: 0.134067
+Dense: 1945 5729
+edge map time: 0.133445
+Dense: 1916 5648
+edge map time: 0.134086
+Dense: 1974 5801
+edge map time: 0.134605
+Dense: 2032 6030
+edge map time: 0.134122
+Dense: 2059 6138
+edge map time: 0.133935
+Dense: 2061 6133
+edge map time: 0.132625
+Dense: 2046 6040
+edge map time: 0.133476
+Dense: 1944 5751
+edge map time: 0.133425
+Dense: 1958 5783
+edge map time: 0.132918
+Dense: 1929 5641
+edge map time: 0.133116
+Dense: 1891 5529
+edge map time: 0.134025
+Dense: 1854 5486
+edge map time: 0.133719
+Dense: 1822 5391
+edge map time: 0.133352
+Dense: 1804 5249
+edge map time: 0.134324
+Dense: 1761 5252
+edge map time: 0.134129
+Dense: 1837 5380
+edge map time: 0.133336
+Dense: 1865 5524
+edge map time: 0.133573
+Dense: 1872 5596
+edge map time: 0.134003
+Dense: 1898 5623
+edge map time: 0.133312
+Dense: 1901 5700
+edge map time: 0.132661
+Dense: 1892 5507
+edge map time: 0.134009
+Dense: 1844 5518
+edge map time: 0.133992
+Dense: 1868 5523
+edge map time: 0.133811
+Dense: 1880 5502
+edge map time: 0.132322
+Dense: 1841 5457
+edge map time: 0.133227
+Dense: 1859 5501
+edge map time: 0.133878
+Dense: 1836 5473
+edge map time: 0.133218
+Dense: 1887 5585
+edge map time: 0.133483
+Dense: 1898 5542
+edge map time: 0.133402
+Dense: 1875 5552
+edge map time: 0.133222
+Dense: 1915 5676
+edge map time: 0.132898
+Dense: 1913 5678
+edge map time: 0.132261
+Dense: 1921 5679
+edge map time: 0.133590
+Dense: 1921 5593
+edge map time: 0.132730
+Dense: 1911 5522
+edge map time: 0.132539
+Dense: 1937 5636
+edge map time: 0.132547
+Dense: 1947 5737
+edge map time: 0.132438
+Dense: 1945 5760
+edge map time: 0.132908
+Dense: 1974 5777
+edge map time: 0.132079
+Dense: 1940 5794
+edge map time: 0.132337
+Dense: 1954 5828
+edge map time: 0.133750
+Dense: 1964 5709
+edge map time: 0.132954
+Dense: 1910 5692
+edge map time: 0.132024
+Dense: 1930 5780
+edge map time: 0.133213
+Dense: 1964 5680
+edge map time: 0.133335
+Dense: 1865 5500
+edge map time: 0.131739
+Dense: 1869 5528
+edge map time: 0.131785
+Dense: 1862 5410
+edge map time: 0.133548
+Dense: 1824 5376
+edge map time: 0.132874
+Dense: 1832 5362
+edge map time: 0.133417
+Dense: 1894 5618
+edge map time: 0.132910
+Dense: 1911 5635
+edge map time: 0.133308
+Dense: 1849 5395
+edge map time: 0.131965
+Dense: 1840 5382
+edge map time: 0.132587
+Dense: 1871 5528
+edge map time: 0.132819
+Dense: 1896 5615
+edge map time: 0.133320
+Dense: 1944 5742
+edge map time: 0.132084
+Dense: 1913 5620
+edge map time: 0.132650
+Dense: 1912 5677
+edge map time: 0.132709
+Dense: 1903 5599
+edge map time: 0.132787
+Dense: 1889 5586
+edge map time: 0.132772
+Dense: 1859 5577
+edge map time: 0.131883
+Dense: 1926 5584
+edge map time: 0.133166
+Dense: 1900 5662
+edge map time: 0.131567
+Dense: 1929 5618
+edge map time: 0.132134
+Dense: 1940 5671
+edge map time: 0.132486
+Dense: 1918 5561
+edge map time: 0.131547
+Dense: 1851 5437
+edge map time: 0.132219
+Dense: 1889 5564
+edge map time: 0.132120
+Dense: 1964 5765
+edge map time: 0.132356
+Dense: 1987 5869
+edge map time: 0.131919
+Dense: 1996 5893
+edge map time: 0.132293
+Dense: 1991 5856
+edge map time: 0.131157
+Dense: 1941 5789
+edge map time: 0.131585
+Dense: 2005 5888
+edge map time: 0.132187
+Dense: 2035 6008
+edge map time: 0.131378
+Dense: 2077 6128
+edge map time: 0.132218
+Dense: 2165 6355
+edge map time: 0.131484
+Dense: 2107 6399
+edge map time: 0.131280
+Dense: 2166 6464
+edge map time: 0.131631
+Dense: 2150 6303
+edge map time: 0.132119
+Dense: 2144 6266
+edge map time: 0.132279
+Dense: 2151 6342
+edge map time: 0.131770
+Dense: 2198 6527
+edge map time: 0.131912
+Dense: 2191 6540
+edge map time: 0.131736
+Dense: 2135 6287
+edge map time: 0.132244
+Dense: 2115 6362
+edge map time: 0.131298
+Dense: 2205 6574
+edge map time: 0.132235
+Dense: 2214 6550
+edge map time: 0.131411
+Dense: 2147 6310
+edge map time: 0.132079
+Dense: 2118 6301
+edge map time: 0.131225
+Dense: 2123 6203
+edge map time: 0.131395
+Dense: 2112 6245
+edge map time: 0.130748
+Dense: 2150 6263
+edge map time: 0.131703
+Dense: 2163 6458
+edge map time: 0.132343
+Dense: 2214 6558
+edge map time: 0.132164
+Dense: 2251 6565
+edge map time: 0.131570
+Dense: 2221 6574
+edge map time: 0.131009
+Dense: 2277 6709
+edge map time: 0.131503
+Dense: 2233 6652
+edge map time: 0.131389
+Dense: 2187 6362
+edge map time: 0.132388
+Dense: 2152 6339
+edge map time: 0.131121
+Dense: 2155 6283
+edge map time: 0.131277
+Dense: 2087 6111
+edge map time: 0.130556
+Dense: 2035 6008
+edge map time: 0.131016
+Dense: 2050 5949
+edge map time: 0.131330
+Dense: 1949 5725
+edge map time: 0.130565
+Dense: 1930 5639
+edge map time: 0.131532
+Dense: 1940 5636
+edge map time: 0.130969
+Dense: 1945 5709
+edge map time: 0.130752
+Dense: 1986 5860
+edge map time: 0.131124
+Dense: 2022 6055
+edge map time: 0.131114
+Dense: 2091 6120
+edge map time: 0.130848
+Dense: 2016 6004
+edge map time: 0.131357
+Dense: 2094 6150
+edge map time: 0.130793
+Dense: 2038 6057
+edge map time: 0.131236
+Dense: 2082 6204
+edge map time: 0.131548
+Dense: 2122 6256
+edge map time: 0.130900
+Dense: 2110 6334
+edge map time: 0.130474
+Dense: 2133 6307
+edge map time: 0.130638
+Dense: 2124 6313
+edge map time: 0.129942
+Dense: 2152 6352
+edge map time: 0.130414
+Dense: 2120 6238
+edge map time: 0.131324
+Dense: 2104 6107
+edge map time: 0.130517
+Dense: 2085 6110
+edge map time: 0.130248
+Dense: 2106 6182
+edge map time: 0.130707
+Dense: 2106 6181
+edge map time: 0.130652
+Dense: 2110 6250
+edge map time: 0.130844
+Dense: 2164 6268
+edge map time: 0.131091
+Dense: 2169 6396
+edge map time: 0.130843
+Dense: 2149 6287
+edge map time: 0.130700
+Dense: 2163 6264
+edge map time: 0.130222
+Dense: 2135 6174
+edge map time: 0.131065
+Dense: 2088 6176
+edge map time: 0.131341
+Dense: 2134 6383
+edge map time: 0.130657
+Dense: 2203 6473
+edge map time: 0.130454
+Dense: 2205 6410
+edge map time: 0.130482
+Dense: 2165 6352
+edge map time: 0.130530
+Dense: 2259 6646
+edge map time: 0.130177
+Dense: 2283 6743
+edge map time: 0.130030
+Dense: 2225 6520
+edge map time: 0.130561
+Dense: 2260 6610
+edge map time: 0.130348
+Dense: 2266 6650
+edge map time: 0.129834
+Dense: 2284 6714
+edge map time: 0.130728
+Dense: 2279 6546
+edge map time: 0.130406
+Dense: 2184 6386
+edge map time: 0.130372
+Dense: 2189 6447
+edge map time: 0.129901
+Dense: 2203 6402
+edge map time: 0.129362
+Dense: 2199 6448
+edge map time: 0.129661
+Dense: 2208 6459
+edge map time: 0.129586
+Dense: 2265 6693
+edge map time: 0.130191
+Dense: 2234 6567
+edge map time: 0.130074
+Dense: 2170 6453
+edge map time: 0.130956
+Dense: 2197 6531
+edge map time: 0.130502
+Dense: 2139 6287
+edge map time: 0.129697
+Dense: 2143 6412
+edge map time: 0.131213
+Dense: 2176 6555
+edge map time: 0.129487
+Dense: 2219 6418
+edge map time: 0.130157
+Dense: 2216 6527
+edge map time: 0.129780
+Dense: 2174 6411
+edge map time: 0.129555
+Dense: 2136 6286
+edge map time: 0.130405
+Dense: 2154 6307
+edge map time: 0.129574
+Dense: 2129 6343
+edge map time: 0.130164
+Dense: 2090 6246
+edge map time: 0.129314
+Dense: 2126 6333
+edge map time: 0.130909
+Dense: 2254 6725
+edge map time: 0.129945
+Dense: 2398 6977
+edge map time: 0.129951
+Dense: 2351 7056
+edge map time: 0.129691
+Dense: 2452 7113
+edge map time: 0.129458
+Dense: 2414 7112
+edge map time: 0.129449
+Dense: 2455 7302
+edge map time: 0.129883
+Dense: 2482 7267
+edge map time: 0.130578
+Dense: 2433 7195
+edge map time: 0.128780
+Dense: 2462 7208
+edge map time: 0.130023
+Dense: 2363 6835
+edge map time: 0.129248
+Dense: 2340 6886
+edge map time: 0.129285
+Dense: 2320 6703
+edge map time: 0.129875
+Dense: 2301 6748
+edge map time: 0.129366
+Dense: 2359 6850
+edge map time: 0.128786
+Dense: 2364 7021
+edge map time: 0.129745
+Dense: 2488 7303
+edge map time: 0.128488
+Dense: 2445 7260
+edge map time: 0.129905
+Dense: 2486 7293
+edge map time: 0.129960
+Dense: 2469 7251
+edge map time: 0.129309
+Dense: 2439 7104
+edge map time: 0.129168
+Dense: 2408 6976
+edge map time: 0.129815
+Dense: 2371 7104
+edge map time: 0.129565
+Dense: 2465 7297
+edge map time: 0.129533
+Dense: 2471 7195
+edge map time: 0.129035
+Dense: 2471 7196
+edge map time: 0.129525
+Dense: 2463 7195
+edge map time: 0.129039
+Dense: 2485 7288
+edge map time: 0.128571
+Dense: 2475 7290
+edge map time: 0.129261
+Dense: 2486 7306
+edge map time: 0.128870
+Dense: 2562 7471
+edge map time: 0.128856
+Dense: 2490 7388
+edge map time: 0.128306
+Dense: 2539 7484
+edge map time: 0.128612
+Dense: 2540 7378
+edge map time: 0.128906
+Dense: 2520 7463
+edge map time: 0.129196
+Dense: 2633 7775
+edge map time: 0.128609
+Dense: 2670 7838
+edge map time: 0.128925
+Dense: 2616 7643
+edge map time: 0.127933
+Dense: 2578 7580
+edge map time: 0.128506
+Dense: 2582 7633
+edge map time: 0.129200
+Dense: 2640 7705
+edge map time: 0.128848
+Dense: 2626 7774
+edge map time: 0.128085
+Dense: 2655 7806
+edge map time: 0.129344
+Dense: 2695 7847
+edge map time: 0.128086
+Dense: 2629 7673
+edge map time: 0.128869
+Dense: 2591 7653
+edge map time: 0.129043
+Dense: 2690 7866
+edge map time: 0.128620
+Dense: 2654 7797
+edge map time: 0.128731
+Dense: 2657 7790
+edge map time: 0.128968
+Dense: 2650 7764
+edge map time: 0.128591
+Dense: 2618 7680
+edge map time: 0.128107
+Dense: 2638 7758
+edge map time: 0.128949
+Dense: 2713 7987
+edge map time: 0.128988
+Dense: 2773 8057
+edge map time: 0.128303
+Dense: 2753 8174
+edge map time: 0.128536
+Dense: 2896 8480
+edge map time: 0.128453
+Dense: 2931 8655
+edge map time: 0.128149
+Dense: 2990 8783
+edge map time: 0.128358
+Dense: 2941 8508
+edge map time: 0.128394
+Dense: 2900 8466
+edge map time: 0.128621
+Dense: 2935 8514
+edge map time: 0.128032
+Dense: 2929 8516
+edge map time: 0.127912
+Dense: 2984 8821
+edge map time: 0.128083
+Dense: 3069 9122
+edge map time: 0.127981
+Dense: 3096 9152
+edge map time: 0.128011
+Dense: 3181 9284
+edge map time: 0.128139
+Dense: 3097 9107
+edge map time: 0.127840
+Dense: 3107 9159
+edge map time: 0.128207
+Dense: 3081 8989
+edge map time: 0.127317
+Dense: 3010 8815
+edge map time: 0.127951
+Dense: 2978 8821
+edge map time: 0.127604
+Dense: 3035 9047
+edge map time: 0.127296
+Dense: 3018 8767
+edge map time: 0.127899
+Dense: 2982 8777
+edge map time: 0.128401
+Dense: 3021 8827
+edge map time: 0.128612
+Dense: 3028 8884
+edge map time: 0.127840
+Dense: 3090 9113
+edge map time: 0.128247
+Dense: 3082 9052
+edge map time: 0.127834
+Dense: 3110 9220
+edge map time: 0.127154
+Dense: 3220 9649
+edge map time: 0.126910
+Dense: 3322 9787
+edge map time: 0.127105
+Dense: 3354 9846
+edge map time: 0.128011
+Dense: 3338 9850
+edge map time: 0.127760
+Dense: 3389 10099
+edge map time: 0.126856
+Dense: 3467 10313
+edge map time: 0.127584
+Dense: 3480 10238
+edge map time: 0.127405
+Dense: 3512 10278
+edge map time: 0.127215
+Dense: 3458 10151
+edge map time: 0.127492
+Dense: 3356 9784
+edge map time: 0.128070
+Dense: 3311 9663
+edge map time: 0.127434
+Dense: 3323 9802
+edge map time: 0.127646
+Dense: 3316 9719
+edge map time: 0.127147
+Dense: 3397 10123
+edge map time: 0.127274
+Dense: 3522 10317
+edge map time: 0.127163
+Dense: 3495 10192
+edge map time: 0.127474
+Dense: 3436 10089
+edge map time: 0.127509
+Dense: 3447 10121
+edge map time: 0.126935
+Dense: 3434 10092
+edge map time: 0.126937
+Dense: 3407 10087
+edge map time: 0.127000
+Dense: 3441 10160
+edge map time: 0.126824
+Dense: 3510 10265
+edge map time: 0.126285
+Dense: 3528 10300
+edge map time: 0.126415
+Dense: 3509 10417
+edge map time: 0.126589
+Dense: 3559 10519
+edge map time: 0.126927
+Dense: 3606 10621
+edge map time: 0.126349
+Dense: 3613 10710
+edge map time: 0.126756
+Dense: 3754 11078
+edge map time: 0.127123
+Dense: 3644 10795
+edge map time: 0.126209
+Dense: 3588 10444
+edge map time: 0.126117
+Dense: 3570 10739
+edge map time: 0.126736
+Dense: 3650 10913
+edge map time: 0.126784
+Dense: 3596 10680
+edge map time: 0.126467
+Dense: 3670 10698
+edge map time: 0.126784
+Dense: 3542 10480
+edge map time: 0.125983
+Dense: 3581 10475
+edge map time: 0.126047
+Dense: 3552 10353
+edge map time: 0.126411
+Dense: 3460 10207
+edge map time: 0.125905
+Dense: 3489 10360
+edge map time: 0.126368
+Dense: 3549 10477
+edge map time: 0.126844
+Dense: 3524 10420
+edge map time: 0.126080
+Dense: 3594 10717
+edge map time: 0.125513
+Dense: 3693 10799
+edge map time: 0.126380
+Dense: 3639 10651
+edge map time: 0.126010
+Dense: 3543 10492
+edge map time: 0.126371
+Dense: 3665 10867
+edge map time: 0.125667
+Dense: 3796 11214
+edge map time: 0.125566
+Dense: 3770 11100
+edge map time: 0.126461
+Dense: 3750 10933
+edge map time: 0.126012
+Dense: 3680 10786
+edge map time: 0.125365
+Dense: 3657 10775
+edge map time: 0.125585
+Dense: 3706 10883
+edge map time: 0.126142
+Dense: 3654 10765
+edge map time: 0.125344
+Dense: 3608 10765
+edge map time: 0.125012
+Dense: 3620 10799
+edge map time: 0.125195
+Dense: 3618 10558
+edge map time: 0.125614
+Dense: 3481 10237
+edge map time: 0.125028
+Dense: 3412 10112
+edge map time: 0.125427
+Dense: 3446 10096
+edge map time: 0.125461
+Dense: 3428 10103
+edge map time: 0.125053
+Dense: 3403 10084
+edge map time: 0.124879
+Dense: 3401 9950
+edge map time: 0.124931
+Dense: 3379 10032
+edge map time: 0.126181
+Dense: 3398 10021
+edge map time: 0.124954
+Dense: 3406 10032
+edge map time: 0.125375
+Dense: 3413 10079
+edge map time: 0.124947
+Dense: 3478 10273
+edge map time: 0.125499
+Dense: 3441 10012
+edge map time: 0.125110
+Dense: 3342 9919
+edge map time: 0.125035
+Dense: 3399 10052
+edge map time: 0.124899
+Dense: 3378 9911
+edge map time: 0.125086
+Dense: 3371 10124
+edge map time: 0.124606
+Dense: 3402 10115
+edge map time: 0.125549
+Dense: 3403 9998
+edge map time: 0.125400
+Dense: 3337 9735
+edge map time: 0.124429
+Dense: 3301 9846
+edge map time: 0.124447
+Dense: 3306 9698
+edge map time: 0.124623
+Dense: 3289 9805
+edge map time: 0.124346
+Dense: 3358 9999
+edge map time: 0.124523
+Dense: 3383 9942
+edge map time: 0.124370
+Dense: 3359 9959
+edge map time: 0.124912
+Dense: 3368 9964
+edge map time: 0.124627
+Dense: 3405 10030
+edge map time: 0.123948
+Dense: 3383 9836
+edge map time: 0.125129
+Dense: 3308 9740
+edge map time: 0.124074
+Dense: 3248 9595
+edge map time: 0.124647
+Dense: 3318 9759
+edge map time: 0.124856
+Dense: 3278 9710
+edge map time: 0.124015
+Dense: 3259 9503
+edge map time: 0.124098
+Dense: 3299 9772
+edge map time: 0.124301
+Dense: 3328 9756
+edge map time: 0.123882
+Dense: 3334 9840
+edge map time: 0.124139
+Dense: 3427 10047
+edge map time: 0.123875
+Dense: 3401 10152
+edge map time: 0.124462
+Dense: 3453 10102
+edge map time: 0.123821
+Dense: 3432 10242
+edge map time: 0.123766
+Dense: 3477 10248
+edge map time: 0.124410
+Dense: 3453 10169
+edge map time: 0.123491
+Dense: 3407 10066
+edge map time: 0.123686
+Dense: 3444 10197
+edge map time: 0.124718
+Dense: 3465 10215
+edge map time: 0.123744
+Dense: 3502 10243
+edge map time: 0.123828
+Dense: 3482 10369
+edge map time: 0.123468
+Dense: 3557 10439
+edge map time: 0.123812
+Dense: 3512 10330
+edge map time: 0.123922
+Dense: 3452 10128
+edge map time: 0.123426
+Dense: 3439 10197
+edge map time: 0.123507
+Dense: 3470 10141
+edge map time: 0.123748
+Dense: 3452 10158
+edge map time: 0.123383
+Dense: 3446 10071
+edge map time: 0.123417
+Dense: 3359 9954
+edge map time: 0.124498
+Dense: 3419 10123
+edge map time: 0.123878
+Dense: 3434 9986
+edge map time: 0.123848
+Dense: 3362 9902
+edge map time: 0.123631
+Dense: 3401 10001
+edge map time: 0.123266
+Dense: 3406 10092
+edge map time: 0.123615
+Dense: 3402 10110
+edge map time: 0.123337
+Dense: 3402 10016
+edge map time: 0.123119
+Dense: 3465 10107
+edge map time: 0.123500
+Dense: 3384 9761
+edge map time: 0.123513
+Dense: 3306 9818
+edge map time: 0.123224
+Dense: 3393 9831
+edge map time: 0.123030
+Dense: 3271 9724
+edge map time: 0.123172
+Dense: 3343 9900
+edge map time: 0.122878
+Dense: 3333 9806
+edge map time: 0.123049
+Dense: 3338 9712
+edge map time: 0.123894
+Dense: 3247 9572
+edge map time: 0.122866
+Dense: 3308 9799
+edge map time: 0.122994
+Dense: 3358 9977
+edge map time: 0.122733
+Dense: 3378 9914
+edge map time: 0.123060
+Dense: 3376 9938
+edge map time: 0.123209
+Dense: 3418 10074
+edge map time: 0.123106
+Dense: 3343 9875
+edge map time: 0.123126
+Dense: 3320 9587
+edge map time: 0.123137
+Dense: 3271 9681
+edge map time: 0.122803
+Dense: 3291 9692
+edge map time: 0.122740
+Dense: 3301 9723
+edge map time: 0.122388
+Dense: 3229 9529
+edge map time: 0.122113
+Dense: 3239 9555
+edge map time: 0.122461
+Dense: 3233 9541
+edge map time: 0.122398
+Dense: 3219 9597
+edge map time: 0.122612
+Dense: 3302 9667
+edge map time: 0.122441
+Dense: 3229 9554
+edge map time: 0.122165
+Dense: 3282 9834
+edge map time: 0.123303
+Dense: 3352 10021
+edge map time: 0.122561
+Dense: 3332 9861
+edge map time: 0.122285
+Dense: 3337 9936
+edge map time: 0.122731
+Dense: 3370 9971
+edge map time: 0.122365
+Dense: 3373 9920
+edge map time: 0.122578
+Dense: 3394 10169
+edge map time: 0.122001
+Dense: 3419 9990
+edge map time: 0.122303
+Dense: 3383 10005
+edge map time: 0.122302
+Dense: 3464 10127
+edge map time: 0.122071
+Dense: 3435 10098
+edge map time: 0.122854
+Dense: 3335 9842
+edge map time: 0.122147
+Dense: 3383 9985
+edge map time: 0.122131
+Dense: 3371 9888
+edge map time: 0.122133
+Dense: 3354 9817
+edge map time: 0.122244
+Dense: 3355 9932
+edge map time: 0.121876
+Dense: 3399 10004
+edge map time: 0.122093
+Dense: 3431 10168
+edge map time: 0.121380
+Dense: 3373 9976
+edge map time: 0.121609
+Dense: 3355 9811
+edge map time: 0.122155
+Dense: 3234 9486
+edge map time: 0.121930
+Dense: 3244 9487
+edge map time: 0.122369
+Dense: 3232 9495
+edge map time: 0.121337
+Dense: 3231 9655
+edge map time: 0.121418
+Dense: 3265 9618
+edge map time: 0.121701
+Dense: 3252 9582
+edge map time: 0.122007
+Dense: 3276 9828
+edge map time: 0.121451
+Dense: 3374 9900
+edge map time: 0.121596
+Dense: 3315 9861
+edge map time: 0.121314
+Dense: 3342 9875
+edge map time: 0.121300
+Dense: 3324 9678
+edge map time: 0.121327
+Dense: 3263 9663
+edge map time: 0.121880
+Dense: 3275 9576
+edge map time: 0.121473
+Dense: 3169 9317
+edge map time: 0.121824
+Dense: 3108 9264
+edge map time: 0.121071
+Dense: 3091 9220
+edge map time: 0.121245
+Dense: 3185 9405
+edge map time: 0.121135
+Dense: 3112 9223
+edge map time: 0.121083
+Dense: 3155 9181
+edge map time: 0.121166
+Dense: 3061 8953
+edge map time: 0.121621
+Dense: 3035 8916
+edge map time: 0.121072
+Dense: 3036 9059
+edge map time: 0.121006
+Dense: 3040 9100
+edge map time: 0.121376
+Dense: 3095 9175
+edge map time: 0.120638
+Dense: 3060 9090
+edge map time: 0.120432
+Dense: 3050 9037
+edge map time: 0.121300
+Dense: 2974 8627
+edge map time: 0.120905
+Dense: 2909 8588
+edge map time: 0.120969
+Dense: 2870 8388
+edge map time: 0.120786
+Dense: 2796 8274
+edge map time: 0.120800
+Dense: 2820 8451
+edge map time: 0.121000
+Dense: 2795 8167
+edge map time: 0.120686
+Dense: 2773 8154
+edge map time: 0.121142
+Dense: 2782 8311
+edge map time: 0.120409
+Dense: 2856 8408
+edge map time: 0.121260
+Dense: 2820 8314
+edge map time: 0.120919
+Dense: 2795 8318
+edge map time: 0.120770
+Dense: 2829 8367
+edge map time: 0.120483
+Dense: 2765 8015
+edge map time: 0.120693
+Dense: 2756 8023
+edge map time: 0.120721
+Dense: 2743 8173
+edge map time: 0.120731
+Dense: 2792 8144
+edge map time: 0.120469
+Dense: 2721 7991
+edge map time: 0.120805
+Dense: 2722 8079
+edge map time: 0.120883
+Dense: 2786 8234
+edge map time: 0.120782
+Dense: 2810 8331
+edge map time: 0.120642
+Dense: 2956 8662
+edge map time: 0.120882
+Dense: 2912 8678
+edge map time: 0.120905
+Dense: 2962 8768
+edge map time: 0.120202
+Dense: 3012 8955
+edge map time: 0.120130
+Dense: 3036 8933
+edge map time: 0.120451
+Dense: 3044 8932
+edge map time: 0.119952
+Dense: 2974 8727
+edge map time: 0.120660
+Dense: 2869 8463
+edge map time: 0.120004
+Dense: 2888 8445
+edge map time: 0.120564
+Dense: 2842 8418
+edge map time: 0.120083
+Dense: 2843 8432
+edge map time: 0.120436
+Dense: 2922 8595
+edge map time: 0.119893
+Dense: 2947 8672
+edge map time: 0.120368
+Dense: 2935 8579
+edge map time: 0.120181
+Dense: 2918 8515
+edge map time: 0.119836
+Dense: 2837 8392
+edge map time: 0.119910
+Dense: 2902 8539
+edge map time: 0.120527
+Dense: 2895 8674
+edge map time: 0.119650
+Dense: 3022 8819
+edge map time: 0.120338
+Dense: 2997 8855
+edge map time: 0.119547
+Dense: 3018 8849
+edge map time: 0.119962
+Dense: 3039 8974
+edge map time: 0.119928
+Dense: 3097 9043
+edge map time: 0.120035
+Dense: 3141 9193
+edge map time: 0.119814
+Dense: 3160 9250
+edge map time: 0.120079
+Dense: 3154 9180
+edge map time: 0.119956
+Dense: 3101 9085
+edge map time: 0.119916
+Dense: 3081 9109
+edge map time: 0.119772
+Dense: 3143 9317
+edge map time: 0.119816
+Dense: 3179 9081
+edge map time: 0.119504
+Dense: 2979 8742
+edge map time: 0.119493
+Dense: 3043 8943
+edge map time: 0.119257
+Dense: 3138 9191
+edge map time: 0.119326
+Dense: 3172 9279
+edge map time: 0.119852
+Dense: 3161 9254
+edge map time: 0.119612
+Dense: 3100 9061
+edge map time: 0.119498
+Dense: 3003 8807
+edge map time: 0.119744
+Dense: 3029 8860
+edge map time: 0.118804
+Dense: 3044 8946
+edge map time: 0.119214
+Dense: 3077 9010
+edge map time: 0.119278
+Dense: 3047 8923
+edge map time: 0.119531
+Dense: 3054 9087
+edge map time: 0.119055
+Dense: 3174 9437
+edge map time: 0.118888
+Dense: 3251 9601
+edge map time: 0.119068
+Dense: 3250 9653
+edge map time: 0.118987
+Dense: 3309 9810
+edge map time: 0.119119
+Dense: 3338 9698
+edge map time: 0.118967
+Dense: 3196 9512
+edge map time: 0.118719
+Dense: 3210 9474
+edge map time: 0.118875
+Dense: 3204 9365
+edge map time: 0.118681
+Dense: 3127 9222
+edge map time: 0.119145
+Dense: 3119 9142
+edge map time: 0.118415
+Dense: 3048 8888
+edge map time: 0.118760
+Dense: 3001 8820
+edge map time: 0.118341
+Dense: 3005 8764
+edge map time: 0.119381
+Dense: 2985 8691
+edge map time: 0.119090
+Dense: 2986 8813
+edge map time: 0.118864
+Dense: 3049 8959
+edge map time: 0.118573
+Dense: 3034 8834
+edge map time: 0.118126
+Dense: 3004 8717
+edge map time: 0.118335
+Dense: 2956 8630
+edge map time: 0.118912
+Dense: 3012 8879
+edge map time: 0.117989
+Dense: 2970 8782
+edge map time: 0.118224
+Dense: 3035 8916
+edge map time: 0.118290
+Dense: 3045 9030
+edge map time: 0.117831
+Dense: 3035 8944
+edge map time: 0.118169
+Dense: 3030 8861
+edge map time: 0.118068
+Dense: 3002 8804
+edge map time: 0.118672
+Dense: 2967 8745
+edge map time: 0.118411
+Dense: 3026 8967
+edge map time: 0.117970
+Dense: 3117 9157
+edge map time: 0.117797
+Dense: 3118 9110
+edge map time: 0.118085
+Dense: 3128 9169
+edge map time: 0.118019
+Dense: 3074 9008
+edge map time: 0.118336
+Dense: 3060 9118
+edge map time: 0.118048
+Dense: 3190 9364
+edge map time: 0.118876
+Dense: 3140 9359
+edge map time: 0.117860
+Dense: 3215 9382
+edge map time: 0.118356
+Dense: 3185 9427
+edge map time: 0.117464
+Dense: 3193 9436
+edge map time: 0.118186
+Dense: 3190 9345
+edge map time: 0.117850
+Dense: 3166 9316
+edge map time: 0.117783
+Dense: 3189 9283
+edge map time: 0.118234
+Dense: 3144 9270
+edge map time: 0.118142
+Dense: 3177 9383
+edge map time: 0.118102
+Dense: 3097 9265
+edge map time: 0.117651
+Dense: 3189 9545
+edge map time: 0.117732
+Dense: 3326 9801
+edge map time: 0.117975
+Dense: 3330 9834
+edge map time: 0.117788
+Dense: 3291 9732
+edge map time: 0.117535
+Dense: 3284 9729
+edge map time: 0.117455
+Dense: 3310 9730
+edge map time: 0.118057
+Dense: 3241 9609
+edge map time: 0.118426
+Dense: 3284 9668
+edge map time: 0.117761
+Dense: 3224 9383
+edge map time: 0.117514
+Dense: 3171 9353
+edge map time: 0.117031
+Dense: 3128 9253
+edge map time: 0.117958
+Dense: 3090 9097
+edge map time: 0.117310
+Dense: 3074 9089
+edge map time: 0.117136
+Dense: 3089 9038
+edge map time: 0.117310
+Dense: 3088 9053
+edge map time: 0.117539
+Dense: 3059 9079
+edge map time: 0.117609
+Dense: 3099 9032
+edge map time: 0.116922
+Dense: 3084 9083
+edge map time: 0.117194
+Dense: 3133 9154
+edge map time: 0.116672
+Dense: 3068 9116
+edge map time: 0.116753
+Dense: 3112 9231
+edge map time: 0.117160
+Dense: 3193 9343
+edge map time: 0.117455
+Dense: 3235 9572
+edge map time: 0.116567
+Dense: 3291 9597
+edge map time: 0.116980
+Dense: 3288 9684
+edge map time: 0.117511
+Dense: 3302 9773
+edge map time: 0.116795
+Dense: 3296 9590
+edge map time: 0.116476
+Dense: 3267 9671
+edge map time: 0.116517
+Dense: 3372 9779
+edge map time: 0.116989
+Dense: 3328 9763
+edge map time: 0.116926
+Dense: 3315 9806
+edge map time: 0.116876
+Dense: 3422 9929
+edge map time: 0.116768
+Dense: 3350 9742
+edge map time: 0.116335
+Dense: 3342 9762
+edge map time: 0.116596
+Dense: 3324 9671
+edge map time: 0.116707
+Dense: 3338 9725
+edge map time: 0.116639
+Dense: 3353 9927
+edge map time: 0.116877
+Dense: 3360 10010
+edge map time: 0.116332
+Dense: 3453 10193
+edge map time: 0.116381
+Dense: 3498 10272
+edge map time: 0.116968
+Dense: 3510 10448
+edge map time: 0.116625
+Dense: 3561 10369
+edge map time: 0.116274
+Dense: 3489 10417
+edge map time: 0.116017
+Dense: 3550 10511
+edge map time: 0.116628
+Dense: 3478 10285
+edge map time: 0.116201
+Dense: 3451 10292
+edge map time: 0.116229
+Dense: 3412 10086
+edge map time: 0.116353
+Dense: 3359 10037
+edge map time: 0.116311
+Dense: 3441 10098
+edge map time: 0.116573
+Dense: 3314 9870
+edge map time: 0.116001
+Dense: 3288 9663
+edge map time: 0.116287
+Dense: 3242 9527
+edge map time: 0.116112
+Dense: 3268 9606
+edge map time: 0.116406
+Dense: 3212 9506
+edge map time: 0.116325
+Dense: 3217 9670
+edge map time: 0.116047
+Dense: 3272 9800
+edge map time: 0.115536
+Dense: 3271 9690
+edge map time: 0.116294
+Dense: 3161 9339
+edge map time: 0.115652
+Dense: 3085 9167
+edge map time: 0.115837
+Dense: 3108 9010
+edge map time: 0.115583
+Dense: 2944 8691
+edge map time: 0.115298
+Dense: 3033 8865
+edge map time: 0.115878
+Dense: 2989 8642
+edge map time: 0.115200
+Dense: 2896 8720
+edge map time: 0.115450
+Dense: 2906 8562
+edge map time: 0.115533
+Dense: 2793 8394
+edge map time: 0.115402
+Dense: 2865 8378
+edge map time: 0.115061
+Dense: 2838 8363
+edge map time: 0.115248
+Dense: 2821 8320
+edge map time: 0.115782
+Dense: 2809 8289
+edge map time: 0.115362
+Dense: 2836 8394
+edge map time: 0.115659
+Dense: 2933 8661
+edge map time: 0.115132
+Dense: 2869 8428
+edge map time: 0.115844
+Dense: 2868 8452
+edge map time: 0.115460
+Dense: 2904 8547
+edge map time: 0.115615
+Dense: 2858 8431
+edge map time: 0.114663
+Dense: 2892 8456
+edge map time: 0.115676
+Dense: 2887 8508
+edge map time: 0.114480
+Dense: 2819 8313
+edge map time: 0.114860
+Dense: 2796 8264
+edge map time: 0.115208
+Dense: 2815 8243
+edge map time: 0.114793
+Dense: 2778 8179
+edge map time: 0.115213
+Dense: 2775 8191
+edge map time: 0.115272
+Dense: 2851 8369
+edge map time: 0.114815
+Dense: 2865 8416
+edge map time: 0.114762
+Dense: 2882 8348
+edge map time: 0.114664
+Dense: 2793 8299
+edge map time: 0.114636
+Dense: 2783 8263
+edge map time: 0.114767
+Dense: 2776 8072
+edge map time: 0.114792
+Dense: 2682 7900
+edge map time: 0.114165
+Dense: 2734 8003
+edge map time: 0.115585
+Dense: 2742 8123
+edge map time: 0.114835
+Dense: 2742 8127
+edge map time: 0.114493
+Dense: 2760 8096
+edge map time: 0.114343
+Dense: 2746 8016
+edge map time: 0.114548
+Dense: 2653 7866
+edge map time: 0.114098
+Dense: 2676 7928
+edge map time: 0.114564
+Dense: 2676 7856
+edge map time: 0.114163
+Dense: 2718 8009
+edge map time: 0.114195
+Dense: 2717 8010
+edge map time: 0.114062
+Dense: 2707 8005
+edge map time: 0.114021
+Dense: 2725 8039
+edge map time: 0.114201
+Dense: 2721 7958
+edge map time: 0.114183
+Dense: 2785 8269
+edge map time: 0.113946
+Dense: 2761 8070
+edge map time: 0.114597
+Dense: 2766 8144
+edge map time: 0.114419
+Dense: 2773 8235
+edge map time: 0.114101
+Dense: 2847 8533
+edge map time: 0.114510
+Dense: 2929 8658
+edge map time: 0.113979
+Dense: 2905 8637
+edge map time: 0.114434
+Dense: 2939 8638
+edge map time: 0.113980
+Dense: 2824 8200
+edge map time: 0.113906
+Dense: 2765 8102
+edge map time: 0.113703
+Dense: 2771 8175
+edge map time: 0.114086
+Dense: 2795 8357
+edge map time: 0.113980
+Dense: 2842 8415
+edge map time: 0.113831
+Dense: 2924 8535
+edge map time: 0.113743
+Dense: 2839 8443
+edge map time: 0.113667
+Dense: 2836 8356
+edge map time: 0.113709
+Dense: 2825 8489
+edge map time: 0.113563
+Dense: 2899 8497
+edge map time: 0.114321
+Dense: 2836 8361
+edge map time: 0.113393
+Dense: 2852 8361
+edge map time: 0.114027
+Dense: 2827 8283
+edge map time: 0.113164
+Dense: 2843 8409
+edge map time: 0.113461
+Dense: 2904 8554
+edge map time: 0.113735
+Dense: 2930 8589
+edge map time: 0.113765
+Dense: 2868 8518
+edge map time: 0.113518
+Dense: 2884 8370
+edge map time: 0.113404
+Dense: 2893 8607
+edge map time: 0.113126
+Dense: 2957 8727
+edge map time: 0.114047
+Dense: 2959 8758
+edge map time: 0.113568
+Dense: 2968 8904
+edge map time: 0.113397
+Dense: 3027 8969
+edge map time: 0.113861
+Dense: 3055 8969
+edge map time: 0.112833
+Dense: 3008 8829
+edge map time: 0.113759
+Dense: 2931 8708
+edge map time: 0.113431
+Dense: 2941 8657
+edge map time: 0.113457
+Dense: 2923 8666
+edge map time: 0.112926
+Dense: 2921 8587
+edge map time: 0.113055
+Dense: 2893 8532
+edge map time: 0.112986
+Dense: 2947 8580
+edge map time: 0.113094
+Dense: 2868 8411
+edge map time: 0.113472
+Dense: 2814 8181
+edge map time: 0.113482
+Dense: 2819 8153
+edge map time: 0.112850
+Dense: 2772 8013
+edge map time: 0.112274
+Dense: 2774 8113
+edge map time: 0.113369
+Dense: 2823 8385
+edge map time: 0.113102
+Dense: 2906 8717
+edge map time: 0.113017
+Dense: 2928 8599
+edge map time: 0.113214
+Dense: 2864 8427
+edge map time: 0.112511
+Dense: 2853 8405
+edge map time: 0.113045
+Dense: 2853 8430
+edge map time: 0.112807
+Dense: 2833 8405
+edge map time: 0.112776
+Dense: 2928 8642
+edge map time: 0.112677
+Dense: 2917 8631
+edge map time: 0.112348
+Dense: 2924 8601
+edge map time: 0.112445
+Dense: 2930 8619
+edge map time: 0.112441
+Dense: 2972 8784
+edge map time: 0.112527
+Dense: 2994 8944
+edge map time: 0.112527
+Dense: 3062 9086
+edge map time: 0.112421
+Dense: 3043 8947
+edge map time: 0.112182
+Dense: 2896 8525
+edge map time: 0.112172
+Dense: 2842 8531
+edge map time: 0.112374
+Dense: 2891 8608
+edge map time: 0.112754
+Dense: 2963 8663
+edge map time: 0.112616
+Dense: 2867 8456
+edge map time: 0.112223
+Dense: 2881 8550
+edge map time: 0.112318
+Dense: 2947 8630
+edge map time: 0.112312
+Dense: 2971 8663
+edge map time: 0.111997
+Dense: 2887 8523
+edge map time: 0.112048
+Dense: 2829 8396
+edge map time: 0.112002
+Dense: 2854 8389
+edge map time: 0.112022
+Dense: 2784 8161
+edge map time: 0.112614
+Dense: 2787 8219
+edge map time: 0.112577
+Dense: 2781 8209
+edge map time: 0.111845
+Dense: 2727 8035
+edge map time: 0.112100
+Dense: 2754 8296
+edge map time: 0.112288
+Dense: 2779 8177
+edge map time: 0.112077
+Dense: 2710 8002
+edge map time: 0.112676
+Dense: 2662 7815
+edge map time: 0.112111
+Dense: 2688 7890
+edge map time: 0.112104
+Dense: 2699 7924
+edge map time: 0.112130
+Dense: 2657 7729
+edge map time: 0.112011
+Dense: 2606 7736
+edge map time: 0.112417
+Dense: 2643 7771
+edge map time: 0.112300
+Dense: 2614 7770
+edge map time: 0.112039
+Dense: 2615 7662
+edge map time: 0.111684
+Dense: 2603 7700
+edge map time: 0.111943
+Dense: 2557 7429
+edge map time: 0.111842
+Dense: 2528 7458
+edge map time: 0.111896
+Dense: 2611 7637
+edge map time: 0.111323
+Dense: 2590 7713
+edge map time: 0.111442
+Dense: 2647 7742
+edge map time: 0.111754
+Dense: 2684 7724
+edge map time: 0.111540
+Dense: 2553 7428
+edge map time: 0.111253
+Dense: 2570 7610
+edge map time: 0.111456
+Dense: 2520 7366
+edge map time: 0.111510
+Dense: 2487 7260
+edge map time: 0.111843
+Dense: 2464 7186
+edge map time: 0.111711
+Dense: 2383 7078
+edge map time: 0.111426
+Dense: 2400 7109
+edge map time: 0.111814
+Dense: 2467 7345
+edge map time: 0.111173
+Dense: 2495 7392
+edge map time: 0.111159
+Dense: 2492 7368
+edge map time: 0.111475
+Dense: 2437 7252
+edge map time: 0.111286
+Dense: 2451 7244
+edge map time: 0.111648
+Dense: 2477 7257
+edge map time: 0.111610
+Dense: 2467 7218
+edge map time: 0.111627
+Dense: 2457 7251
+edge map time: 0.111663
+Dense: 2498 7240
+edge map time: 0.111069
+Dense: 2420 7230
+edge map time: 0.111421
+Dense: 2456 7222
+edge map time: 0.111371
+Dense: 2503 7369
+edge map time: 0.110791
+Dense: 2549 7637
+edge map time: 0.111468
+Dense: 2665 7948
+edge map time: 0.110888
+Dense: 2789 8144
+edge map time: 0.110948
+Dense: 2739 8029
+edge map time: 0.110944
+Dense: 2703 7996
+edge map time: 0.110936
+Dense: 2742 7986
+edge map time: 0.111063
+Dense: 2665 7856
+edge map time: 0.110895
+Dense: 2668 7915
+edge map time: 0.110834
+Dense: 2702 7924
+edge map time: 0.110779
+Dense: 2682 7957
+edge map time: 0.110958
+Dense: 2648 7720
+edge map time: 0.111238
+Dense: 2638 7850
+edge map time: 0.110459
+Dense: 2675 7878
+edge map time: 0.110666
+Dense: 2639 7855
+edge map time: 0.110470
+Dense: 2727 8012
+edge map time: 0.110394
+Dense: 2642 7840
+edge map time: 0.110287
+Dense: 2653 7941
+edge map time: 0.110246
+Dense: 2691 7936
+edge map time: 0.110525
+Dense: 2764 8180
+edge map time: 0.110590
+Dense: 2700 7866
+edge map time: 0.110559
+Dense: 2658 7891
+edge map time: 0.110745
+Dense: 2734 8050
+edge map time: 0.110717
+Dense: 2727 7966
+edge map time: 0.110411
+Dense: 2687 7852
+edge map time: 0.110283
+Dense: 2684 7948
+edge map time: 0.110243
+Dense: 2725 8082
+edge map time: 0.110577
+Dense: 2794 8292
+edge map time: 0.110683
+Dense: 2818 8315
+edge map time: 0.110460
+Dense: 2834 8304
+edge map time: 0.110758
+Dense: 2856 8559
+edge map time: 0.110234
+Dense: 2875 8439
+edge map time: 0.110174
+Dense: 2813 8273
+edge map time: 0.110083
+Dense: 2812 8309
+edge map time: 0.110212
+Dense: 2825 8324
+edge map time: 0.109883
+Dense: 2805 8315
+edge map time: 0.109924
+Dense: 2884 8426
+edge map time: 0.110427
+Dense: 2874 8450
+edge map time: 0.109855
+Dense: 2827 8361
+edge map time: 0.110346
+Dense: 2859 8403
+edge map time: 0.109838
+Dense: 2908 8550
+edge map time: 0.110002
+Dense: 2854 8373
+edge map time: 0.109624
+Dense: 2829 8367
+edge map time: 0.109791
+Dense: 2805 8319
+edge map time: 0.109709
+Dense: 2777 8057
+edge map time: 0.109786
+Dense: 2752 8097
+edge map time: 0.110317
+Dense: 2757 8082
+edge map time: 0.110075
+Dense: 2719 8005
+edge map time: 0.109605
+Dense: 2685 7965
+edge map time: 0.110027
+Dense: 2722 7892
+edge map time: 0.110186
+Dense: 2650 7840
+edge map time: 0.109713
+Dense: 2743 8039
+edge map time: 0.109495
+Dense: 2732 8053
+edge map time: 0.109419
+Dense: 2661 7737
+edge map time: 0.109649
+Dense: 2645 7903
+edge map time: 0.109495
+Dense: 2730 7997
+edge map time: 0.109485
+Dense: 2701 7984
+edge map time: 0.109472
+Dense: 2681 7914
+edge map time: 0.109384
+Dense: 2702 7961
+edge map time: 0.109734
+Dense: 2650 7777
+edge map time: 0.109227
+Dense: 2615 7656
+edge map time: 0.109514
+Dense: 2626 7765
+edge map time: 0.109831
+Dense: 2612 7654
+edge map time: 0.109127
+Dense: 2604 7587
+edge map time: 0.109315
+Dense: 2609 7616
+edge map time: 0.109169
+Dense: 2595 7628
+edge map time: 0.109072
+Dense: 2648 7862
+edge map time: 0.109120
+Dense: 2682 7800
+edge map time: 0.108897
+Dense: 2611 7724
+edge map time: 0.109357
+Dense: 2647 7821
+edge map time: 0.108962
+Dense: 2675 7940
+edge map time: 0.108951
+Dense: 2679 7961
+edge map time: 0.108853
+Dense: 2646 7752
+edge map time: 0.109013
+Dense: 2617 7688
+edge map time: 0.109065
+Dense: 2634 7661
+edge map time: 0.108693
+Dense: 2564 7604
+edge map time: 0.108613
+Dense: 2623 7783
+edge map time: 0.108807
+Dense: 2641 7699
+edge map time: 0.109122
+Dense: 2615 7678
+edge map time: 0.108677
+Dense: 2549 7572
+edge map time: 0.108811
+Dense: 2538 7504
+edge map time: 0.109159
+Dense: 2452 7290
+edge map time: 0.108940
+Dense: 2463 7284
+edge map time: 0.109122
+Dense: 2477 7247
+edge map time: 0.108613
+Dense: 2486 7334
+edge map time: 0.108742
+Dense: 2489 7237
+edge map time: 0.108810
+Dense: 2377 7041
+edge map time: 0.108672
+Dense: 2425 7178
+edge map time: 0.109042
+Dense: 2426 7261
+edge map time: 0.108383
+Dense: 2496 7390
+edge map time: 0.108441
+Dense: 2432 7270
+edge map time: 0.108161
+Dense: 2469 7275
+edge map time: 0.108820
+Dense: 2411 7132
+edge map time: 0.108524
+Dense: 2401 7012
+edge map time: 0.108600
+Dense: 2331 6976
+edge map time: 0.108398
+Dense: 2338 6885
+edge map time: 0.108307
+Dense: 2305 6842
+edge map time: 0.108472
+Dense: 2319 6788
+edge map time: 0.108343
+Dense: 2273 6755
+edge map time: 0.108072
+Dense: 2301 6789
+edge map time: 0.108232
+Dense: 2295 6672
+edge map time: 0.108487
+Dense: 2285 6839
+edge map time: 0.108226
+Dense: 2365 6843
+edge map time: 0.108117
+Dense: 2302 6819
+edge map time: 0.108112
+Dense: 2321 6914
+edge map time: 0.108113
+Dense: 2366 6818
+edge map time: 0.108516
+Dense: 2279 6770
+edge map time: 0.108425
+Dense: 2337 6884
+edge map time: 0.108205
+Dense: 2305 6823
+edge map time: 0.108022
+Dense: 2240 6557
+edge map time: 0.108478
+Dense: 2214 6578
+edge map time: 0.108196
+Dense: 2266 6627
+edge map time: 0.107998
+Dense: 2235 6635
+edge map time: 0.108349
+Dense: 2280 6652
+edge map time: 0.107659
+Dense: 2163 6379
+edge map time: 0.107979
+Dense: 2167 6336
+edge map time: 0.108285
+Dense: 2160 6384
+edge map time: 0.107670
+Dense: 2152 6270
+edge map time: 0.107740
+Dense: 2134 6172
+edge map time: 0.107758
+Dense: 2129 6162
+edge map time: 0.107700
+Dense: 2100 6277
+edge map time: 0.107449
+Dense: 2140 6342
+edge map time: 0.107554
+Dense: 2106 6259
+edge map time: 0.107739
+Dense: 2095 6204
+edge map time: 0.107519
+Dense: 2095 6085
+edge map time: 0.107629
+Dense: 2057 6069
+edge map time: 0.107482
+Dense: 2054 6044
+edge map time: 0.107573
+Dense: 2043 5975
+edge map time: 0.107505
+Dense: 2057 6045
+edge map time: 0.107427
+Dense: 2068 6278
+edge map time: 0.107449
+Dense: 2139 6203
+edge map time: 0.107502
+Dense: 2094 6129
+edge map time: 0.107424
+Dense: 2104 6221
+edge map time: 0.107464
+Dense: 2138 6319
+edge map time: 0.107440
+Dense: 2162 6233
+edge map time: 0.107420
+Dense: 2057 5950
+edge map time: 0.107381
+Dense: 2007 5893
+edge map time: 0.107500
+Dense: 1997 5840
+edge map time: 0.107466
+Dense: 1982 5823
+edge map time: 0.107279
+Dense: 1965 5792
+edge map time: 0.107861
+Dense: 1986 5927
+edge map time: 0.107540
+Dense: 2101 6196
+edge map time: 0.106991
+Dense: 2127 6241
+edge map time: 0.107567
+Dense: 2064 6029
+edge map time: 0.107303
+Dense: 1950 5874
+edge map time: 0.107008
+Dense: 1973 5714
+edge map time: 0.107479
+Dense: 1910 5608
+edge map time: 0.107175
+Dense: 1887 5611
+edge map time: 0.107282
+Dense: 1916 5683
+edge map time: 0.107166
+Dense: 1919 5637
+edge map time: 0.106834
+Dense: 1897 5574
+edge map time: 0.107606
+Dense: 1930 5586
+edge map time: 0.107742
+Dense: 1875 5503
+edge map time: 0.106987
+Dense: 1886 5518
+edge map time: 0.107035
+Dense: 1941 5705
+edge map time: 0.107059
+Dense: 1951 5728
+edge map time: 0.107113
+Dense: 1978 5883
+edge map time: 0.106579
+Dense: 2055 5875
+edge map time: 0.106968
+Dense: 2018 5954
+edge map time: 0.107174
+Dense: 2035 6020
+edge map time: 0.107093
+Dense: 2090 6060
+edge map time: 0.106680
+Dense: 2022 5913
+edge map time: 0.106978
+Dense: 2050 6054
+edge map time: 0.106859
+Dense: 2078 6188
+edge map time: 0.106745
+Dense: 2110 6286
+edge map time: 0.107205
+Dense: 2188 6475
+edge map time: 0.106888
+Dense: 2223 6483
+edge map time: 0.106706
+Dense: 2227 6535
+edge map time: 0.106610
+Dense: 2267 6514
+edge map time: 0.106787
+Dense: 2158 6428
+edge map time: 0.106687
+Dense: 2225 6515
+edge map time: 0.106810
+Dense: 2198 6651
+edge map time: 0.106913
+Dense: 2272 6706
+edge map time: 0.106532
+Dense: 2293 6824
+edge map time: 0.106444
+Dense: 2283 6763
+edge map time: 0.106652
+Dense: 2315 6901
+edge map time: 0.106631
+Dense: 2286 6657
+edge map time: 0.106534
+Dense: 2202 6441
+edge map time: 0.106444
+Dense: 2189 6377
+edge map time: 0.106207
+Dense: 2136 6278
+edge map time: 0.106469
+Dense: 2127 6321
+edge map time: 0.106275
+Dense: 2175 6580
+edge map time: 0.106793
+Dense: 2278 6769
+edge map time: 0.106239
+Dense: 2311 6825
+edge map time: 0.105964
+Dense: 2262 6684
+edge map time: 0.106301
+Dense: 2223 6513
+edge map time: 0.106375
+Dense: 2181 6471
+edge map time: 0.106129
+Dense: 2193 6455
+edge map time: 0.106165
+Dense: 2234 6613
+edge map time: 0.106102
+Dense: 2285 6699
+edge map time: 0.106284
+Dense: 2349 6897
+edge map time: 0.106031
+Dense: 2342 6895
+edge map time: 0.106250
+Dense: 2334 6895
+edge map time: 0.106177
+Dense: 2383 6987
+edge map time: 0.106048
+Dense: 2371 7056
+edge map time: 0.105986
+Dense: 2409 7127
+edge map time: 0.106027
+Dense: 2451 7237
+edge map time: 0.105748
+Dense: 2388 7096
+edge map time: 0.105976
+Dense: 2360 7086
+edge map time: 0.105907
+Dense: 2405 6964
+edge map time: 0.105810
+Dense: 2330 6793
+edge map time: 0.106370
+Dense: 2310 6836
+edge map time: 0.105652
+Dense: 2341 6971
+edge map time: 0.105776
+Dense: 2373 6999
+edge map time: 0.105664
+Dense: 2373 7021
+edge map time: 0.105615
+Dense: 2369 6986
+edge map time: 0.105869
+Dense: 2370 7027
+edge map time: 0.105570
+Dense: 2391 7157
+edge map time: 0.106021
+Dense: 2458 7244
+edge map time: 0.105972
+Dense: 2450 7203
+edge map time: 0.105354
+Dense: 2479 7152
+edge map time: 0.105609
+Dense: 2355 6906
+edge map time: 0.105412
+Dense: 2344 6850
+edge map time: 0.105678
+Dense: 2299 6719
+edge map time: 0.105588
+Dense: 2292 6674
+edge map time: 0.105512
+Dense: 2278 6687
+edge map time: 0.105615
+Dense: 2246 6705
+edge map time: 0.105034
+Dense: 2317 6817
+edge map time: 0.105453
+Dense: 2241 6556
+edge map time: 0.105496
+Dense: 2222 6544
+edge map time: 0.105714
+Dense: 2198 6417
+edge map time: 0.105329
+Dense: 2217 6596
+edge map time: 0.105525
+Dense: 2247 6651
+edge map time: 0.105549
+Dense: 2251 6604
+edge map time: 0.105244
+Dense: 2236 6523
+edge map time: 0.105191
+Dense: 2194 6265
+edge map time: 0.105525
+Dense: 2158 6282
+edge map time: 0.105343
+Dense: 2161 6364
+edge map time: 0.105347
+Dense: 2250 6551
+edge map time: 0.104904
+Dense: 2275 6675
+edge map time: 0.105637
+Dense: 2284 6756
+edge map time: 0.105359
+Dense: 2354 6884
+edge map time: 0.105320
+Dense: 2369 6947
+edge map time: 0.104897
+Dense: 2376 6993
+edge map time: 0.104920
+Dense: 2413 7101
+edge map time: 0.105013
+Dense: 2352 6911
+edge map time: 0.104657
+Dense: 2395 7001
+edge map time: 0.105053
+Dense: 2426 7131
+edge map time: 0.104989
+Dense: 2454 7165
+edge map time: 0.105303
+Dense: 2434 7167
+edge map time: 0.104856
+Dense: 2529 7472
+edge map time: 0.104917
+Dense: 2568 7587
+edge map time: 0.104549
+Dense: 2562 7595
+edge map time: 0.104663
+Dense: 2571 7523
+edge map time: 0.105111
+Dense: 2542 7361
+edge map time: 0.104745
+Dense: 2494 7350
+edge map time: 0.104923
+Dense: 2533 7530
+edge map time: 0.104511
+Dense: 2605 7677
+edge map time: 0.104729
+Dense: 2512 7439
+edge map time: 0.104135
+Dense: 2551 7563
+edge map time: 0.104858
+Dense: 2537 7433
+edge map time: 0.104826
+Dense: 2475 7349
+edge map time: 0.104483
+Dense: 2546 7459
+edge map time: 0.104628
+Dense: 2528 7338
+edge map time: 0.104463
+Dense: 2552 7481
+edge map time: 0.104560
+Dense: 2523 7451
+edge map time: 0.104398
+Dense: 2494 7484
+edge map time: 0.104506
+Dense: 2562 7641
+edge map time: 0.104235
+Dense: 2556 7526
+edge map time: 0.104270
+Dense: 2581 7599
+edge map time: 0.104307
+Dense: 2544 7516
+edge map time: 0.104202
+Dense: 2536 7521
+edge map time: 0.104544
+Dense: 2586 7628
+edge map time: 0.104190
+Dense: 2504 7357
+edge map time: 0.104133
+Dense: 2485 7310
+edge map time: 0.103952
+Dense: 2556 7573
+edge map time: 0.104076
+Dense: 2601 7679
+edge map time: 0.104143
+Dense: 2571 7514
+edge map time: 0.104347
+Dense: 2569 7572
+edge map time: 0.103867
+Dense: 2566 7613
+edge map time: 0.104226
+Dense: 2619 7731
+edge map time: 0.103950
+Dense: 2605 7757
+edge map time: 0.103652
+Dense: 2642 7792
+edge map time: 0.103937
+Dense: 2563 7516
+edge map time: 0.103836
+Dense: 2582 7561
+edge map time: 0.104004
+Dense: 2544 7426
+edge map time: 0.103817
+Dense: 2537 7482
+edge map time: 0.103835
+Dense: 2658 7833
+edge map time: 0.103599
+Dense: 2683 7819
+edge map time: 0.103979
+Dense: 2614 7632
+edge map time: 0.103872
+Dense: 2572 7607
+edge map time: 0.103575
+Dense: 2612 7674
+edge map time: 0.103434
+Dense: 2704 7852
+edge map time: 0.103684
+Dense: 2626 7692
+edge map time: 0.103539
+Dense: 2624 7632
+edge map time: 0.103396
+Dense: 2554 7456
+edge map time: 0.103594
+Dense: 2456 7155
+edge map time: 0.103603
+Dense: 2463 7218
+edge map time: 0.103548
+Dense: 2487 7254
+edge map time: 0.103524
+Dense: 2457 7177
+edge map time: 0.103057
+Dense: 2504 7373
+edge map time: 0.103232
+Dense: 2540 7484
+edge map time: 0.103461
+Dense: 2556 7530
+edge map time: 0.103275
+Dense: 2585 7627
+edge map time: 0.103571
+Dense: 2588 7698
+edge map time: 0.103169
+Dense: 2599 7535
+edge map time: 0.103192
+Dense: 2500 7472
+edge map time: 0.103228
+Dense: 2569 7636
+edge map time: 0.103330
+Dense: 2603 7614
+edge map time: 0.103226
+Dense: 2547 7537
+edge map time: 0.103122
+Dense: 2558 7479
+edge map time: 0.102633
+Dense: 2590 7638
+edge map time: 0.102883
+Dense: 2642 7878
+edge map time: 0.103109
+Dense: 2703 8015
+edge map time: 0.102751
+Dense: 2670 7974
+edge map time: 0.102725
+Dense: 2692 7949
+edge map time: 0.102837
+Dense: 2729 8082
+edge map time: 0.102547
+Dense: 2734 8072
+edge map time: 0.102802
+Dense: 2682 7947
+edge map time: 0.102865
+Dense: 2679 7926
+edge map time: 0.103041
+Dense: 2644 7752
+edge map time: 0.102774
+Dense: 2566 7575
+edge map time: 0.102909
+Dense: 2544 7490
+edge map time: 0.102658
+Dense: 2616 7718
+edge map time: 0.102685
+Dense: 2631 7871
+edge map time: 0.102786
+Dense: 2690 7886
+edge map time: 0.102940
+Dense: 2635 7895
+edge map time: 0.102323
+Dense: 2669 7932
+edge map time: 0.102401
+Dense: 2662 7965
+edge map time: 0.102726
+Dense: 2776 8056
+edge map time: 0.102479
+Dense: 2658 7844
+edge map time: 0.102722
+Dense: 2681 7922
+edge map time: 0.102671
+Dense: 2691 7977
+edge map time: 0.101970
+Dense: 2712 7923
+edge map time: 0.102241
+Dense: 2694 7988
+edge map time: 0.102299
+Dense: 2735 7995
+edge map time: 0.102426
+Dense: 2737 8113
+edge map time: 0.101978
+Dense: 2788 8161
+edge map time: 0.102166
+Dense: 2800 8227
+edge map time: 0.102052
+Dense: 2738 7989
+edge map time: 0.102317
+Dense: 2667 7920
+edge map time: 0.102418
+Dense: 2778 8074
+edge map time: 0.102299
+Dense: 2734 7967
+edge map time: 0.102253
+Dense: 2623 7709
+edge map time: 0.101897
+Dense: 2643 7723
+edge map time: 0.101670
+Dense: 2568 7625
+edge map time: 0.101980
+Dense: 2625 7696
+edge map time: 0.101829
+Dense: 2533 7373
+edge map time: 0.102473
+Dense: 2451 7234
+edge map time: 0.102100
+Dense: 2555 7545
+edge map time: 0.101570
+Dense: 2601 7708
+edge map time: 0.101658
+Dense: 2631 7894
+edge map time: 0.101913
+Dense: 2717 8151
+edge map time: 0.101687
+Dense: 2747 8085
+edge map time: 0.101763
+Dense: 2714 7991
+edge map time: 0.101732
+Dense: 2750 8012
+edge map time: 0.101389
+Dense: 2658 7888
+edge map time: 0.101653
+Dense: 2714 7898
+edge map time: 0.101546
+Dense: 2696 7866
+edge map time: 0.101497
+Dense: 2696 7877
+edge map time: 0.101701
+Dense: 2704 7871
+edge map time: 0.101480
+Dense: 2581 7717
+edge map time: 0.101746
+Dense: 2594 7612
+edge map time: 0.101327
+Dense: 2577 7669
+edge map time: 0.101474
+Dense: 2643 7695
+edge map time: 0.101342
+Dense: 2588 7506
+edge map time: 0.101033
+Dense: 2510 7338
+edge map time: 0.101717
+Dense: 2561 7593
+edge map time: 0.101232
+Dense: 2641 7787
+edge map time: 0.101477
+Dense: 2661 7902
+edge map time: 0.101391
+Dense: 2744 8149
+edge map time: 0.100977
+Dense: 2773 8170
+edge map time: 0.101152
+Dense: 2810 8254
+edge map time: 0.101188
+Dense: 2765 8050
+edge map time: 0.101420
+Dense: 2720 8169
+edge map time: 0.100964
+Dense: 2840 8353
+edge map time: 0.100860
+Dense: 2819 8253
+edge map time: 0.101108
+Dense: 2783 8229
+edge map time: 0.101164
+Dense: 2779 8187
+edge map time: 0.101033
+Dense: 2835 8415
+edge map time: 0.100936
+Dense: 2930 8614
+edge map time: 0.101102
+Dense: 2952 8739
+edge map time: 0.100593
+Dense: 2996 8882
+edge map time: 0.100811
+Dense: 2935 8622
+edge map time: 0.100989
+Dense: 2849 8432
+edge map time: 0.100727
+Dense: 2838 8196
+edge map time: 0.100880
+Dense: 2726 8020
+edge map time: 0.100496
+Dense: 2711 7892
+edge map time: 0.100777
+Dense: 2656 7924
+edge map time: 0.100476
+Dense: 2804 8265
+edge map time: 0.100561
+Dense: 2779 8193
+edge map time: 0.100518
+Dense: 2786 8137
+edge map time: 0.100566
+Dense: 2748 8101
+edge map time: 0.100488
+Dense: 2751 8195
+edge map time: 0.100310
+Dense: 2819 8293
+edge map time: 0.100307
+Dense: 2827 8260
+edge map time: 0.100336
+Dense: 2844 8291
+edge map time: 0.100073
+Dense: 2753 8163
+edge map time: 0.100613
+Dense: 2800 8282
+edge map time: 0.100360
+Dense: 2795 8099
+edge map time: 0.100262
+Dense: 2691 7995
+edge map time: 0.100320
+Dense: 2684 7848
+edge map time: 0.099885
+Dense: 2593 7599
+edge map time: 0.100105
+Dense: 2532 7496
+edge map time: 0.100108
+Dense: 2522 7341
+edge map time: 0.100073
+Dense: 2460 7190
+edge map time: 0.100149
+Dense: 2416 7063
+edge map time: 0.099624
+Dense: 2404 7143
+edge map time: 0.100094
+Dense: 2401 7035
+edge map time: 0.099936
+Dense: 2386 7006
+edge map time: 0.099765
+Dense: 2408 7100
+edge map time: 0.099866
+Dense: 2414 7054
+edge map time: 0.099884
+Dense: 2322 6808
+edge map time: 0.099950
+Dense: 2313 6658
+edge map time: 0.099810
+Dense: 2281 6718
+edge map time: 0.100081
+Dense: 2334 6869
+edge map time: 0.099778
+Dense: 2411 7071
+edge map time: 0.099688
+Dense: 2392 7031
+edge map time: 0.100089
+Dense: 2377 6999
+edge map time: 0.100126
+Dense: 2420 7204
+edge map time: 0.099957
+Dense: 2413 6997
+edge map time: 0.099878
+Dense: 2326 6839
+edge map time: 0.099588
+Dense: 2314 6721
+edge map time: 0.099636
+Dense: 2305 6767
+edge map time: 0.099485
+Dense: 2371 6924
+edge map time: 0.099426
+Dense: 2402 7080
+edge map time: 0.099795
+Dense: 2401 6998
+edge map time: 0.099339
+Dense: 2404 7022
+edge map time: 0.099415
+Dense: 2357 6994
+edge map time: 0.099267
+Dense: 2401 7049
+edge map time: 0.099500
+Dense: 2382 7090
+edge map time: 0.099130
+Dense: 2408 7100
+edge map time: 0.099099
+Dense: 2419 7145
+edge map time: 0.099511
+Dense: 2407 7087
+edge map time: 0.099525
+Dense: 2397 7088
+edge map time: 0.099265
+Dense: 2410 7180
+edge map time: 0.099217
+Dense: 2436 7131
+edge map time: 0.099155
+Dense: 2418 7161
+edge map time: 0.099146
+Dense: 2469 7246
+edge map time: 0.099207
+Dense: 2458 7278
+edge map time: 0.099158
+Dense: 2482 7289
+edge map time: 0.099241
+Dense: 2468 7304
+edge map time: 0.098795
+Dense: 2543 7454
+edge map time: 0.098990
+Dense: 2496 7446
+edge map time: 0.098913
+Dense: 2588 7540
+edge map time: 0.098871
+Dense: 2556 7490
+edge map time: 0.098930
+Dense: 2547 7565
+edge map time: 0.098696
+Dense: 2619 7698
+edge map time: 0.098992
+Dense: 2593 7697
+edge map time: 0.099008
+Dense: 2636 7755
+edge map time: 0.098832
+Dense: 2630 7662
+edge map time: 0.098692
+Dense: 2550 7597
+edge map time: 0.098965
+Dense: 2547 7566
+edge map time: 0.099023
+Dense: 2633 7678
+edge map time: 0.098844
+Dense: 2619 7742
+edge map time: 0.098779
+Dense: 2651 7760
+edge map time: 0.098334
+Dense: 2526 7522
+edge map time: 0.098864
+Dense: 2618 7708
+edge map time: 0.098511
+Dense: 2592 7610
+edge map time: 0.098774
+Dense: 2557 7571
+edge map time: 0.098662
+Dense: 2673 7890
+edge map time: 0.098283
+Dense: 2706 8136
+edge map time: 0.098403
+Dense: 2806 8266
+edge map time: 0.098288
+Dense: 2785 8118
+edge map time: 0.098506
+Dense: 2766 8188
+edge map time: 0.098368
+Dense: 2792 8250
+edge map time: 0.098068
+Dense: 2805 8232
+edge map time: 0.098213
+Dense: 2821 8306
+edge map time: 0.098220
+Dense: 2809 8196
+edge map time: 0.098214
+Dense: 2733 8080
+edge map time: 0.098247
+Dense: 2735 8151
+edge map time: 0.098431
+Dense: 2746 8196
+edge map time: 0.098400
+Dense: 2795 8203
+edge map time: 0.098346
+Dense: 2671 7861
+edge map time: 0.098108
+Dense: 2678 7903
+edge map time: 0.097830
+Dense: 2677 7965
+edge map time: 0.097938
+Dense: 2695 8007
+edge map time: 0.097619
+Dense: 2694 8054
+edge map time: 0.098063
+Dense: 2701 8050
+edge map time: 0.097765
+Dense: 2717 7962
+edge map time: 0.097898
+Dense: 2686 7964
+edge map time: 0.098017
+Dense: 2720 8012
+edge map time: 0.098151
+Dense: 2663 7767
+edge map time: 0.097731
+Dense: 2619 7786
+edge map time: 0.097630
+Dense: 2656 7667
+edge map time: 0.097914
+Dense: 2571 7586
+edge map time: 0.098084
+Dense: 2592 7602
+edge map time: 0.097536
+Dense: 2558 7610
+edge map time: 0.097800
+Dense: 2505 7411
+edge map time: 0.097544
+Dense: 2442 7240
+edge map time: 0.097641
+Dense: 2461 7310
+edge map time: 0.097858
+Dense: 2432 7194
+edge map time: 0.097566
+Dense: 2420 7127
+edge map time: 0.097106
+Dense: 2318 6861
+edge map time: 0.097419
+Dense: 2311 6824
+edge map time: 0.097384
+Dense: 2327 6871
+edge map time: 0.097355
+Dense: 2324 6724
+edge map time: 0.097406
+Dense: 2302 6722
+edge map time: 0.097043
+Dense: 2258 6680
+edge map time: 0.097418
+Dense: 2291 6698
+edge map time: 0.097708
+Dense: 2271 6628
+edge map time: 0.097163
+Dense: 2239 6597
+edge map time: 0.097191
+Dense: 2325 6779
+edge map time: 0.097212
+Dense: 2326 6862
+edge map time: 0.097169
+Dense: 2315 6677
+edge map time: 0.097296
+Dense: 2242 6549
+edge map time: 0.097253
+Dense: 2215 6616
+edge map time: 0.096687
+Dense: 2227 6436
+edge map time: 0.097119
+Dense: 2202 6340
+edge map time: 0.097209
+Dense: 2192 6345
+edge map time: 0.097193
+Dense: 2193 6407
+edge map time: 0.096885
+Dense: 2195 6420
+edge map time: 0.097055
+Dense: 2185 6557
+edge map time: 0.097153
+Dense: 2272 6692
+edge map time: 0.097277
+Dense: 2289 6760
+edge map time: 0.096885
+Dense: 2362 6879
+edge map time: 0.097057
+Dense: 2361 6851
+edge map time: 0.097235
+Dense: 2380 6961
+edge map time: 0.096749
+Dense: 2335 7022
+edge map time: 0.096854
+Dense: 2422 7186
+edge map time: 0.096735
+Dense: 2428 7195
+edge map time: 0.096717
+Dense: 2360 6912
+edge map time: 0.096932
+Dense: 2334 6990
+edge map time: 0.096800
+Dense: 2367 7008
+edge map time: 0.096672
+Dense: 2340 7000
+edge map time: 0.096400
+Dense: 2351 7018
+edge map time: 0.096706
+Dense: 2362 6964
+edge map time: 0.096498
+Dense: 2362 6953
+edge map time: 0.096843
+Dense: 2365 6932
+edge map time: 0.096299
+Dense: 2329 6939
+edge map time: 0.096760
+Dense: 2341 6912
+edge map time: 0.096768
+Dense: 2307 6864
+edge map time: 0.096487
+Dense: 2309 6835
+edge map time: 0.096134
+Dense: 2299 6861
+edge map time: 0.096447
+Dense: 2361 6965
+edge map time: 0.096400
+Dense: 2305 6823
+edge map time: 0.096648
+Dense: 2306 6662
+edge map time: 0.096265
+Dense: 2251 6511
+edge map time: 0.096113
+Dense: 2179 6475
+edge map time: 0.096321
+Dense: 2152 6406
+edge map time: 0.096514
+Dense: 2152 6380
+edge map time: 0.096226
+Dense: 2134 6251
+edge map time: 0.096226
+Dense: 2105 6178
+edge map time: 0.096385
+Dense: 2132 6312
+edge map time: 0.096058
+Dense: 2150 6325
+edge map time: 0.096217
+Dense: 2109 6126
+edge map time: 0.096028
+Dense: 2090 6024
+edge map time: 0.096133
+Dense: 2033 6100
+edge map time: 0.096018
+Dense: 2118 6263
+edge map time: 0.096228
+Dense: 2101 6208
+edge map time: 0.096248
+Dense: 2118 6219
+edge map time: 0.095961
+Dense: 2119 6262
+edge map time: 0.095980
+Dense: 2122 6312
+edge map time: 0.095889
+Dense: 2183 6372
+edge map time: 0.096214
+Dense: 2094 6199
+edge map time: 0.095550
+Dense: 2156 6306
+edge map time: 0.095942
+Dense: 2147 6447
+edge map time: 0.095989
+Dense: 2212 6586
+edge map time: 0.095891
+Dense: 2192 6517
+edge map time: 0.095458
+Dense: 2163 6278
+edge map time: 0.095692
+Dense: 2042 6027
+edge map time: 0.095919
+Dense: 2069 6166
+edge map time: 0.095871
+Dense: 2132 6327
+edge map time: 0.095573
+Dense: 2127 6371
+edge map time: 0.095670
+Dense: 2217 6603
+edge map time: 0.095584
+Dense: 2167 6477
+edge map time: 0.095580
+Dense: 2165 6370
+edge map time: 0.095732
+Dense: 2126 6297
+edge map time: 0.095620
+Dense: 2155 6426
+edge map time: 0.095353
+Dense: 2189 6486
+edge map time: 0.095509
+Dense: 2178 6461
+edge map time: 0.095398
+Dense: 2146 6384
+edge map time: 0.095441
+Dense: 2176 6417
+edge map time: 0.095640
+Dense: 2101 6296
+edge map time: 0.095651
+Dense: 2076 6186
+edge map time: 0.095290
+Dense: 2100 6239
+edge map time: 0.095300
+Dense: 2032 6078
+edge map time: 0.095205
+Dense: 2048 6035
+edge map time: 0.095524
+Dense: 1991 5863
+edge map time: 0.095431
+Dense: 1957 5699
+edge map time: 0.095202
+Dense: 1899 5590
+edge map time: 0.094960
+Dense: 1898 5645
+edge map time: 0.095462
+Dense: 1883 5597
+edge map time: 0.095401
+Dense: 1875 5578
+edge map time: 0.095245
+Dense: 1862 5513
+edge map time: 0.095151
+Dense: 1834 5440
+edge map time: 0.095285
+Dense: 1762 5269
+edge map time: 0.095087
+Dense: 1791 5319
+edge map time: 0.095248
+Dense: 1775 5256
+edge map time: 0.094833
+Dense: 1701 5038
+edge map time: 0.095056
+Dense: 1689 5034
+edge map time: 0.094862
+Dense: 1661 4906
+edge map time: 0.095085
+Dense: 1657 4945
+edge map time: 0.094904
+Dense: 1676 4895
+edge map time: 0.095058
+Dense: 1638 4935
+edge map time: 0.095176
+Dense: 1667 4913
+edge map time: 0.095010
+Dense: 1697 4992
+edge map time: 0.094632
+Dense: 1717 5019
+edge map time: 0.095055
+Dense: 1683 5012
+edge map time: 0.095172
+Dense: 1711 5031
+edge map time: 0.095108
+Dense: 1644 4854
+edge map time: 0.094890
+Dense: 1680 5045
+edge map time: 0.094663
+Dense: 1715 5090
+edge map time: 0.094960
+Dense: 1732 5082
+edge map time: 0.095080
+Dense: 1666 4860
+edge map time: 0.094757
+Dense: 1646 4824
+edge map time: 0.094842
+Dense: 1603 4735
+edge map time: 0.094627
+Dense: 1627 4813
+edge map time: 0.094730
+Dense: 1642 4939
+edge map time: 0.094726
+Dense: 1670 4890
+edge map time: 0.094359
+Dense: 1647 4877
+edge map time: 0.094655
+Dense: 1630 4893
+edge map time: 0.094485
+Dense: 1662 4939
+edge map time: 0.094841
+Dense: 1626 4870
+edge map time: 0.094721
+Dense: 1662 4825
+edge map time: 0.094513
+Dense: 1611 4834
+edge map time: 0.094436
+Dense: 1613 4780
+edge map time: 0.094505
+Dense: 1592 4743
+edge map time: 0.094296
+Dense: 1599 4702
+edge map time: 0.094665
+Dense: 1571 4605
+edge map time: 0.094630
+Dense: 1526 4657
+edge map time: 0.094727
+Dense: 1570 4689
+edge map time: 0.094529
+Dense: 1514 4522
+edge map time: 0.094644
+Dense: 1548 4615
+edge map time: 0.094560
+Dense: 1497 4384
+edge map time: 0.094339
+Dense: 1416 4198
+edge map time: 0.094255
+Dense: 1440 4236
+edge map time: 0.094500
+Dense: 1441 4356
+edge map time: 0.094596
+Dense: 1450 4339
+edge map time: 0.094590
+Dense: 1423 4227
+edge map time: 0.094302
+Dense: 1438 4241
+edge map time: 0.094372
+Dense: 1397 4143
+edge map time: 0.094505
+Dense: 1372 4046
+edge map time: 0.094467
+Dense: 1344 3949
+edge map time: 0.094207
+Dense: 1342 4088
+edge map time: 0.094376
+Dense: 1428 4351
+edge map time: 0.094443
+Dense: 1430 4238
+edge map time: 0.094301
+Dense: 1407 4203
+edge map time: 0.093777
+Dense: 1421 4291
+edge map time: 0.094211
+Dense: 1440 4267
+edge map time: 0.094332
+Dense: 1412 4200
+edge map time: 0.094084
+Dense: 1416 4222
+edge map time: 0.094367
+Dense: 1410 4122
+edge map time: 0.094113
+Dense: 1370 3997
+edge map time: 0.094008
+Dense: 1310 3890
+edge map time: 0.094024
+Dense: 1352 4068
+edge map time: 0.094056
+Dense: 1404 4143
+edge map time: 0.093707
+Dense: 1352 3987
+edge map time: 0.094202
+Dense: 1333 3940
+edge map time: 0.094149
+Dense: 1326 3920
+edge map time: 0.093947
+Dense: 1304 3827
+edge map time: 0.093678
+Dense: 1268 3733
+edge map time: 0.094205
+Dense: 1216 3646
+edge map time: 0.094132
+Dense: 1249 3696
+edge map time: 0.093853
+Dense: 1195 3580
+edge map time: 0.093603
+Dense: 1193 3545
+edge map time: 0.093978
+Dense: 1230 3710
+edge map time: 0.093978
+Dense: 1225 3610
+edge map time: 0.093891
+Dense: 1193 3564
+edge map time: 0.093596
+Dense: 1190 3536
+edge map time: 0.093944
+Dense: 1199 3579
+edge map time: 0.093873
+Dense: 1229 3746
+edge map time: 0.094030
+Dense: 1294 3777
+edge map time: 0.093495
+Dense: 1250 3703
+edge map time: 0.093699
+Dense: 1263 3720
+edge map time: 0.093957
+Dense: 1255 3768
+edge map time: 0.093944
+Dense: 1292 3823
+edge map time: 0.093563
+Dense: 1290 3821
+edge map time: 0.093797
+Dense: 1284 3813
+edge map time: 0.093941
+Dense: 1279 3756
+edge map time: 0.093949
+Dense: 1279 3828
+edge map time: 0.093490
+Dense: 1311 3951
+edge map time: 0.093693
+Dense: 1342 3986
+edge map time: 0.093756
+Dense: 1290 3818
+edge map time: 0.093843
+Dense: 1278 3749
+edge map time: 0.093459
+Dense: 1251 3647
+edge map time: 0.093802
+Dense: 1245 3693
+edge map time: 0.093767
+Dense: 1267 3718
+edge map time: 0.093846
+Dense: 1279 3848
+edge map time: 0.093309
+Dense: 1372 4028
+edge map time: 0.093604
+Dense: 1340 3963
+edge map time: 0.093531
+Dense: 1363 4011
+edge map time: 0.093564
+Dense: 1366 4018
+edge map time: 0.093477
+Dense: 1317 3876
+edge map time: 0.093530
+Dense: 1306 3803
+edge map time: 0.093676
+Dense: 1266 3721
+edge map time: 0.093633
+Dense: 1242 3707
+edge map time: 0.093163
+Dense: 1264 3688
+edge map time: 0.093516
+Dense: 1193 3582
+edge map time: 0.093310
+Dense: 1258 3739
+edge map time: 0.093565
+Dense: 1264 3743
+edge map time: 0.093072
+Dense: 1283 3774
+edge map time: 0.093631
+Dense: 1270 3736
+edge map time: 0.093472
+Dense: 1220 3531
+edge map time: 0.093372
+Dense: 1144 3371
+edge map time: 0.093021
+Dense: 1134 3291
+edge map time: 0.093258
+Dense: 1138 3333
+edge map time: 0.093363
+Dense: 1149 3397
+edge map time: 0.092980
+Dense: 1158 3464
+edge map time: 0.093447
+Dense: 1181 3430
+edge map time: 0.093497
+Dense: 1172 3498
+edge map time: 0.093143
+Dense: 1198 3564
+edge map time: 0.093056
+Dense: 1153 3392
+edge map time: 0.093296
+Dense: 1140 3471
+edge map time: 0.093234
+Dense: 1251 3761
+edge map time: 0.093500
+Dense: 1277 3791
+edge map time: 0.093127
+Dense: 1235 3617
+edge map time: 0.093430
+Dense: 1196 3599
+edge map time: 0.093425
+Dense: 1212 3518
+edge map time: 0.093183
+Dense: 1191 3492
+edge map time: 0.093310
+Dense: 1200 3647
+edge map time: 0.093087
+Dense: 1255 3744
+edge map time: 0.093248
+Dense: 1248 3685
+edge map time: 0.093352
+Dense: 1273 3746
+edge map time: 0.092990
+Dense: 1208 3577
+edge map time: 0.093305
+Dense: 1155 3348
+edge map time: 0.093247
+Dense: 1116 3365
+edge map time: 0.092881
+Dense: 1112 3282
+edge map time: 0.093177
+Dense: 1098 3241
+edge map time: 0.093073
+Dense: 1100 3306
+edge map time: 0.092950
+Dense: 1094 3270
+edge map time: 0.093262
+Dense: 1133 3381
+edge map time: 0.092771
+Dense: 1116 3383
+edge map time: 0.093129
+Dense: 1105 3312
+edge map time: 0.093348
+Dense: 1122 3286
+edge map time: 0.093124
+Dense: 1136 3347
+edge map time: 0.092717
+Dense: 1097 3259
+edge map time: 0.093181
+Dense: 1081 3213
+edge map time: 0.093003
+Dense: 1068 3161
+edge map time: 0.092884
+Dense: 1048 3035
+edge map time: 0.092697
+Dense: 1010 2947
+edge map time: 0.092760
+Dense: 989 2966
+edge map time: 0.092724
+Dense: 1000 2965
+edge map time: 0.093007
+Dense: 991 2940
+edge map time: 0.093720
+Dense: 993 2924
+edge map time: 0.092779
+Dense: 974 2879
+edge map time: 0.092865
+Dense: 926 2741
+edge map time: 0.092926
+Dense: 910 2726
+edge map time: 0.092764
+Dense: 932 2699
+edge map time: 0.092977
+Dense: 932 2754
+edge map time: 0.092742
+Dense: 919 2674
+edge map time: 0.093013
+Dense: 902 2666
+edge map time: 0.092718
+Dense: 931 2742
+edge map time: 0.092809
+Dense: 942 2802
+edge map time: 0.092869
+Dense: 976 2955
+edge map time: 0.092596
+Dense: 962 2861
+edge map time: 0.093085
+Dense: 917 2690
+edge map time: 0.092578
+Dense: 893 2637
+edge map time: 0.092758
+Dense: 938 2869
+edge map time: 0.092446
+Dense: 978 2831
+edge map time: 0.092907
+Dense: 948 2812
+edge map time: 0.092687
+Dense: 974 2931
+edge map time: 0.092701
+Dense: 992 2883
+edge map time: 0.092458
+Dense: 1007 3034
+edge map time: 0.092825
+Dense: 983 2903
+edge map time: 0.093055
+Dense: 912 2703
+edge map time: 0.092676
+Dense: 910 2669
+edge map time: 0.092504
+Dense: 865 2559
+edge map time: 0.092722
+Dense: 883 2610
+edge map time: 0.092705
+Dense: 895 2668
+edge map time: 0.092919
+Dense: 925 2735
+edge map time: 0.092187
+Dense: 914 2722
+edge map time: 0.092888
+Dense: 923 2741
+edge map time: 0.092667
+Dense: 933 2742
+edge map time: 0.092952
+Dense: 897 2679
+edge map time: 0.092436
+Dense: 943 2751
+edge map time: 0.092459
+Dense: 935 2778
+edge map time: 0.092731
+Dense: 944 2810
+edge map time: 0.092847
+Dense: 936 2780
+edge map time: 0.092213
+Dense: 968 2840
+edge map time: 0.092739
+Dense: 954 2762
+edge map time: 0.092393
+Dense: 919 2701
+edge map time: 0.093109
+Dense: 948 2799
+edge map time: 0.093116
+Dense: 931 2743
+edge map time: 0.092698
+Dense: 927 2713
+edge map time: 0.093170
+Dense: 927 2698
+edge map time: 0.093169
+Dense: 943 2776
+edge map time: 0.092803
+Dense: 896 2536
+edge map time: 0.093207
+Dense: 857 2528
+edge map time: 0.092729
+Dense: 925 2674
+edge map time: 0.092125
+Dense: 889 2653
+edge map time: 0.092471
+Dense: 895 2642
+edge map time: 0.093063
+Dense: 897 2675
+edge map time: 0.093163
+Dense: 906 2639
+edge map time: 0.092599
+Dense: 886 2575
+edge map time: 0.092581
+Dense: 873 2553
+edge map time: 0.093077
+Dense: 862 2577
+edge map time: 0.093371
+Dense: 904 2675
+edge map time: 0.092210
+Dense: 919 2663
+edge map time: 0.092291
+Dense: 914 2745
+edge map time: 0.092298
+Dense: 943 2786
+edge map time: 0.092540
+Dense: 917 2681
+edge map time: 0.092144
+Dense: 899 2736
+edge map time: 0.092245
+Dense: 910 2636
+edge map time: 0.092844
+Dense: 840 2566
+edge map time: 0.092825
+Dense: 889 2615
+edge map time: 0.093681
+Dense: 889 2613
+edge map time: 0.092600
+Dense: 911 2648
+edge map time: 0.093205
+Dense: 888 2591
+edge map time: 0.092610
+Dense: 915 2690
+edge map time: 0.092258
+Dense: 943 2701
+edge map time: 0.092440
+Dense: 932 2719
+edge map time: 0.092333
+Dense: 900 2643
+edge map time: 0.092203
+Dense: 924 2731
+edge map time: 0.092028
+Dense: 946 2795
+edge map time: 0.092728
+Dense: 933 2776
+edge map time: 0.092554
+Dense: 965 2843
+edge map time: 0.092426
+Dense: 922 2738
+edge map time: 0.092806
+Dense: 891 2701
+edge map time: 0.093577
+Dense: 923 2739
+edge map time: 0.092545
+Dense: 909 2711
+edge map time: 0.092857
+Dense: 910 2661
+edge map time: 0.092381
+Dense: 902 2671
+edge map time: 0.092924
+Dense: 893 2614
+edge map time: 0.093119
+Dense: 890 2617
+edge map time: 0.092878
+Dense: 916 2718
+edge map time: 0.092599
+Dense: 955 2796
+edge map time: 0.092477
+Dense: 920 2701
+edge map time: 0.092386
+Dense: 946 2766
+edge map time: 0.092519
+Dense: 948 2803
+edge map time: 0.092418
+Dense: 877 2557
+edge map time: 0.092227
+Dense: 823 2439
+edge map time: 0.092429
+Dense: 839 2522
+edge map time: 0.092134
+Dense: 884 2663
+edge map time: 0.092392
+Dense: 900 2632
+edge map time: 0.092696
+Dense: 873 2539
+edge map time: 0.092378
+Dense: 854 2533
+edge map time: 0.092743
+Dense: 860 2553
+edge map time: 0.093137
+Dense: 859 2504
+edge map time: 0.092312
+Dense: 872 2560
+edge map time: 0.092678
+Dense: 862 2508
+edge map time: 0.092026
+Dense: 816 2496
+edge map time: 0.093640
+Dense: 846 2545
+edge map time: 0.092354
+Dense: 857 2528
+edge map time: 0.092620
+Dense: 802 2426
+edge map time: 0.092390
+Dense: 815 2388
+edge map time: 0.092450
+Dense: 807 2384
+edge map time: 0.092199
+Dense: 809 2334
+edge map time: 0.092274
+Dense: 760 2285
+edge map time: 0.092832
+Dense: 757 2227
+edge map time: 0.092371
+Dense: 751 2175
+edge map time: 0.092807
+Dense: 747 2228
+edge map time: 0.092111
+Dense: 755 2268
+edge map time: 0.092325
+Dense: 728 2126
+edge map time: 0.093109
+Dense: 682 2031
+edge map time: 0.092248
+Dense: 689 2038
+edge map time: 0.092146
+Dense: 721 2097
+edge map time: 0.092496
+Dense: 707 2134
+edge map time: 0.092832
+Dense: 719 2195
+edge map time: 0.092357
+Dense: 742 2192
+edge map time: 0.092149
+Dense: 753 2240
+edge map time: 0.092523
+Dense: 757 2233
+edge map time: 0.092614
+Dense: 771 2212
+edge map time: 0.092492
+Dense: 770 2292
+edge map time: 0.092291
+Dense: 801 2387
+edge map time: 0.092132
+Dense: 787 2321
+edge map time: 0.092344
+Dense: 722 2192
+edge map time: 0.092561
+Dense: 726 2149
+edge map time: 0.093381
+Dense: 701 2095
+edge map time: 0.092157
+Dense: 730 2113
+edge map time: 0.092379
+Dense: 727 2183
+edge map time: 0.091991
+Dense: 772 2307
+edge map time: 0.092679
+Dense: 768 2278
+edge map time: 0.093184
+Dense: 781 2283
+edge map time: 0.092741
+Dense: 761 2262
+edge map time: 0.092627
+Dense: 733 2140
+edge map time: 0.093014
+Dense: 707 2064
+edge map time: 0.092726
+Dense: 711 2105
+edge map time: 0.093165
+Dense: 746 2178
+edge map time: 0.092075
+Dense: 722 2171
+edge map time: 0.092302
+Dense: 742 2210
+edge map time: 0.092327
+Dense: 723 2204
+edge map time: 0.092705
+Dense: 754 2232
+edge map time: 0.093596
+Dense: 733 2169
+edge map time: 0.093103
+Dense: 740 2166
+edge map time: 0.093044
+Dense: 725 2124
+edge map time: 0.092888
+Dense: 682 1974
+edge map time: 0.092696
+Dense: 662 1936
+edge map time: 0.093311
+Dense: 620 1848
+edge map time: 0.092421
+Dense: 618 1857
+edge map time: 0.092327
+Dense: 605 1815
+edge map time: 0.092075
+Dense: 597 1805
+edge map time: 0.093352
+Dense: 615 1827
+edge map time: 0.092390
+Dense: 585 1770
+edge map time: 0.092749
+Dense: 589 1760
+edge map time: 0.092347
+Dense: 615 1838
+edge map time: 0.093727
+Dense: 608 1836
+edge map time: 0.092205
+Dense: 636 1934
+edge map time: 0.092334
+Dense: 642 1893
+edge map time: 0.092824
+Dense: 611 1752
+edge map time: 0.092774
+Dense: 593 1761
+edge map time: 0.092811
+Dense: 564 1704
+edge map time: 0.092446
+Dense: 563 1703
+edge map time: 0.092599
+Dense: 556 1630
+edge map time: 0.093645
+Dense: 505 1468
+edge map time: 0.092738
+Dense: 501 1487
+edge map time: 0.092878
+Dense: 501 1461
+edge map time: 0.092669
+Dense: 454 1319
+edge map time: 0.092800
+Dense: 440 1310
+edge map time: 0.093643
+Dense: 444 1312
+edge map time: 0.092570
+Dense: 467 1347
+edge map time: 0.092241
+Dense: 458 1341
+edge map time: 0.092410
+Dense: 456 1352
+edge map time: 0.092457
+Dense: 450 1301
+edge map time: 0.092423
+Dense: 435 1318
+edge map time: 0.092688
+Dense: 421 1255
+edge map time: 0.092966
+Dense: 405 1206
+edge map time: 0.093119
+Dense: 402 1209
+edge map time: 0.092684
+Dense: 431 1315
+edge map time: 0.093067
+Dense: 411 1257
+edge map time: 0.093162
+Dense: 387 1168
+edge map time: 0.092999
+Dense: 367 1032
+edge map time: 0.092122
+Dense: 322 983
+edge map time: 0.092503
+Dense: 363 1066
+edge map time: 0.093579
+Dense: 348 1083
+edge map time: 0.093463
+Dense: 414 1205
+edge map time: 0.093469
+Dense: 385 1136
+edge map time: 0.092215
+Dense: 384 1205
+edge map time: 0.092477
+Dense: 412 1168
+edge map time: 0.091982
+Dense: 356 1075
+edge map time: 0.092486
+Dense: 388 1127
+edge map time: 0.092225
+Dense: 387 1097
+edge map time: 0.093291
+Dense: 372 1078
+edge map time: 0.092105
+Dense: 381 1101
+edge map time: 0.092301
+Dense: 389 1078
+edge map time: 0.092492
+Dense: 367 1138
+edge map time: 0.092524
+Dense: 435 1238
+edge map time: 0.092853
+Dense: 406 1166
+edge map time: 0.092543
+Dense: 410 1227
+edge map time: 0.093774
+Dense: 447 1309
+edge map time: 0.093063
+Dense: 436 1285
+edge map time: 0.092945
+Dense: 438 1318
+edge map time: 0.092530
+Dense: 478 1427
+edge map time: 0.093110
+Dense: 458 1337
+edge map time: 0.093074
+Dense: 408 1229
+edge map time: 0.091937
+Dense: 413 1212
+edge map time: 0.093269
+Dense: 405 1207
+edge map time: 0.092286
+Dense: 386 1139
+edge map time: 0.092829
+Dense: 368 1089
+edge map time: 0.092088
+Dense: 372 1086
+edge map time: 0.092472
+Dense: 376 1114
+edge map time: 0.092435
+Dense: 357 1054
+edge map time: 0.092358
+Dense: 363 1096
+edge map time: 0.092338
+Dense: 378 1142
+edge map time: 0.092334
+Dense: 401 1198
+edge map time: 0.092099
+Dense: 397 1193
+edge map time: 0.092166
+Dense: 408 1221
+edge map time: 0.092917
+Dense: 412 1238
+edge map time: 0.093477
+Dense: 427 1245
+edge map time: 0.092228
+Dense: 428 1257
+edge map time: 0.092141
+Dense: 405 1160
+edge map time: 0.092635
+Dense: 407 1183
+edge map time: 0.092612
+Dense: 414 1271
+edge map time: 0.092489
+Dense: 434 1252
+edge map time: 0.093380
+Dense: 407 1175
+edge map time: 0.092483
+Dense: 378 1149
+edge map time: 0.092301
+Dense: 429 1282
+edge map time: 0.093168
+Dense: 454 1352
+edge map time: 0.092931
+Dense: 465 1396
+edge map time: 0.092732
+Dense: 465 1376
+edge map time: 0.093350
+Dense: 451 1344
+edge map time: 0.092454
+Dense: 433 1245
+edge map time: 0.092156
+Dense: 411 1271
+edge map time: 0.092348
+Dense: 434 1291
+edge map time: 0.092889
+Dense: 447 1281
+edge map time: 0.092314
+Dense: 448 1282
+edge map time: 0.092149
+Dense: 412 1188
+edge map time: 0.093271
+Dense: 408 1166
+edge map time: 0.092544
+Dense: 397 1135
+edge map time: 0.092212
+Dense: 429 1266
+edge map time: 0.093265
+Dense: 457 1381
+edge map time: 0.093541
+Dense: 468 1392
+edge map time: 0.092397
+Dense: 484 1389
+edge map time: 0.092341
+Dense: 462 1357
+edge map time: 0.093322
+Dense: 484 1381
+edge map time: 0.092537
+Dense: 503 1464
+edge map time: 0.092535
+Dense: 495 1452
+edge map time: 0.091885
+Dense: 497 1449
+edge map time: 0.093488
+Dense: 516 1536
+edge map time: 0.092722
+Dense: 518 1494
+edge map time: 0.093572
+Dense: 513 1502
+edge map time: 0.092565
+Dense: 524 1506
+edge map time: 0.093465
+Dense: 495 1461
+edge map time: 0.092194
+Dense: 518 1538
+edge map time: 0.092314
+Dense: 527 1535
+edge map time: 0.091916
+Dense: 489 1408
+edge map time: 0.093565
+Dense: 465 1362
+edge map time: 0.093030
+Dense: 480 1460
+edge map time: 0.093267
+Dense: 529 1527
+edge map time: 0.092022
+Dense: 506 1526
+edge map time: 0.092524
+Dense: 537 1555
+edge map time: 0.093368
+Dense: 532 1599
+edge map time: 0.092516
+Dense: 569 1665
+edge map time: 0.092009
+Dense: 586 1733
+edge map time: 0.092765
+Dense: 575 1712
+edge map time: 0.092343
+Dense: 566 1621
+edge map time: 0.092416
+Dense: 564 1699
+edge map time: 0.092513
+Dense: 582 1704
+edge map time: 0.092605
+Dense: 591 1698
+edge map time: 0.092251
+Dense: 583 1699
+edge map time: 0.092410
+Dense: 566 1684
+edge map time: 0.092036
+Dense: 587 1719
+edge map time: 0.092482
+Dense: 605 1745
+edge map time: 0.093048
+Dense: 583 1687
+edge map time: 0.092177
+Dense: 593 1682
+edge map time: 0.092308
+Dense: 551 1644
+edge map time: 0.092345
+Dense: 571 1710
+edge map time: 0.092272
+Dense: 619 1817
+edge map time: 0.092337
+Dense: 581 1712
+edge map time: 0.092930
+Dense: 587 1722
+edge map time: 0.092705
+Dense: 591 1732
+edge map time: 0.092266
+Dense: 589 1736
+edge map time: 0.092391
+Dense: 610 1829
+edge map time: 0.093200
+Dense: 603 1762
+edge map time: 0.093339
+Dense: 566 1719
+edge map time: 0.092526
+Dense: 597 1731
+edge map time: 0.092764
+Dense: 551 1631
+edge map time: 0.092337
+Dense: 569 1752
+edge map time: 0.092364
+Dense: 601 1776
+edge map time: 0.092269
+Dense: 560 1653
+edge map time: 0.092979
+Dense: 535 1541
+edge map time: 0.092251
+Dense: 512 1573
+edge map time: 0.093054
+Dense: 590 1733
+edge map time: 0.092205
+Dense: 576 1705
+edge map time: 0.092091
+Dense: 597 1797
+edge map time: 0.092370
+Dense: 586 1711
+edge map time: 0.092734
+Dense: 576 1774
+edge map time: 0.092835
+Dense: 631 1874
+edge map time: 0.093132
+Dense: 633 1833
+edge map time: 0.092298
+Dense: 638 1896
+edge map time: 0.092723
+Dense: 610 1785
+edge map time: 0.092584
+Dense: 600 1769
+edge map time: 0.092236
+Dense: 559 1636
+edge map time: 0.092561
+Dense: 590 1755
+edge map time: 0.093398
+Dense: 611 1843
+edge map time: 0.092178
+Dense: 598 1776
+edge map time: 0.092377
+Dense: 597 1771
+edge map time: 0.093086
+Dense: 638 1864
+edge map time: 0.092399
+Dense: 674 1958
+edge map time: 0.092269
+Dense: 667 1966
+edge map time: 0.092476
+Dense: 676 1969
+edge map time: 0.093336
+Dense: 676 2033
+edge map time: 0.092391
+Dense: 688 2076
+edge map time: 0.092036
+Dense: 708 2070
+edge map time: 0.093375
+Dense: 722 2134
+edge map time: 0.093638
+Dense: 712 2109
+edge map time: 0.092875
+Dense: 728 2179
+edge map time: 0.092638
+Dense: 736 2213
+edge map time: 0.093501
+Dense: 740 2136
+edge map time: 0.092790
+Dense: 697 2026
+edge map time: 0.092365
+Dense: 656 2009
+edge map time: 0.092391
+Dense: 703 1976
+edge map time: 0.092839
+Dense: 681 1998
+edge map time: 0.092118
+Dense: 692 2073
+edge map time: 0.092485
+Dense: 704 1995
+edge map time: 0.092069
+Dense: 687 1981
+edge map time: 0.093241
+Dense: 737 2191
+edge map time: 0.092194
+Dense: 767 2247
+edge map time: 0.092526
+Dense: 820 2459
+edge map time: 0.092782
+Dense: 856 2508
+edge map time: 0.092957
+Dense: 865 2591
+edge map time: 0.092648
+Dense: 921 2660
+edge map time: 0.093021
+Dense: 857 2529
+edge map time: 0.092211
+Dense: 874 2524
+edge map time: 0.092865
+Dense: 830 2425
+edge map time: 0.093444
+Dense: 801 2382
+edge map time: 0.092599
+Dense: 819 2328
+edge map time: 0.092869
+Dense: 778 2301
+edge map time: 0.092537
+Dense: 754 2248
+edge map time: 0.092276
+Dense: 759 2207
+edge map time: 0.092362
+Dense: 738 2192
+edge map time: 0.092360
+Dense: 720 2181
+edge map time: 0.092751
+Dense: 735 2148
+edge map time: 0.092891
+Dense: 720 2171
+edge map time: 0.092027
+Dense: 719 2126
+edge map time: 0.093291
+Dense: 714 2149
+edge map time: 0.092620
+Dense: 738 2142
+edge map time: 0.092819
+Dense: 688 2002
+edge map time: 0.092202
+Dense: 682 1996
+edge map time: 0.092697
+Dense: 709 2105
+edge map time: 0.092419
+Dense: 719 2084
+edge map time: 0.092742
+Dense: 727 2152
+edge map time: 0.092838
+Dense: 734 2224
+edge map time: 0.092409
+Dense: 770 2328
+edge map time: 0.093624
+Dense: 784 2260
+edge map time: 0.092095
+Dense: 709 2099
+edge map time: 0.092463
+Dense: 681 2014
+edge map time: 0.092633
+Dense: 709 2077
+edge map time: 0.092783
+Dense: 687 2016
+edge map time: 0.091992
+Dense: 686 1990
+edge map time: 0.092660
+Dense: 684 1896
+edge map time: 0.093121
+Dense: 626 1789
+edge map time: 0.092311
+Dense: 651 1923
+edge map time: 0.092235
+Dense: 661 1955
+edge map time: 0.092462
+Dense: 685 1993
+edge map time: 0.092728
+Dense: 663 1921
+edge map time: 0.092363
+Dense: 650 1909
+edge map time: 0.092241
+Dense: 634 1860
+edge map time: 0.092502
+Dense: 626 1883
+edge map time: 0.092232
+Dense: 648 1890
+edge map time: 0.092450
+Dense: 663 1933
+edge map time: 0.092191
+Dense: 679 1961
+edge map time: 0.092466
+Dense: 680 2019
+edge map time: 0.092386
+Dense: 690 1999
+edge map time: 0.092937
+Dense: 660 1953
+edge map time: 0.092125
+Dense: 680 1956
+edge map time: 0.093295
+Dense: 624 1855
+edge map time: 0.093300
+Dense: 635 1854
+edge map time: 0.092728
+Dense: 645 1897
+edge map time: 0.092371
+Dense: 615 1816
+edge map time: 0.092731
+Dense: 639 1935
+edge map time: 0.092211
+Dense: 674 1986
+edge map time: 0.092280
+Dense: 671 2008
+edge map time: 0.092176
+Dense: 659 1929
+edge map time: 0.093419
+Dense: 642 1899
+edge map time: 0.092288
+Dense: 631 1892
+edge map time: 0.092722
+Dense: 636 1888
+edge map time: 0.092635
+Dense: 650 1925
+edge map time: 0.093017
+Dense: 631 1890
+edge map time: 0.093127
+Dense: 634 1856
+edge map time: 0.092103
+Dense: 662 1966
+edge map time: 0.092869
+Dense: 693 2044
+edge map time: 0.092818
+Dense: 700 2043
+edge map time: 0.093041
+Dense: 676 1971
+edge map time: 0.093299
+Dense: 652 1920
+edge map time: 0.092274
+Dense: 672 2012
+edge map time: 0.092857
+Dense: 719 2190
+edge map time: 0.093097
+Dense: 780 2335
+edge map time: 0.092366
+Dense: 763 2267
+edge map time: 0.093243
+Dense: 745 2169
+edge map time: 0.093272
+Dense: 721 2138
+edge map time: 0.092232
+Dense: 733 2157
+edge map time: 0.092132
+Dense: 716 2159
+edge map time: 0.092465
+Dense: 721 2201
+edge map time: 0.092488
+Dense: 761 2225
+edge map time: 0.092199
+Dense: 738 2177
+edge map time: 0.092524
+Dense: 703 2068
+edge map time: 0.092372
+Dense: 675 2022
+edge map time: 0.092534
+Dense: 679 2052
+edge map time: 0.092146
+Dense: 714 2153
+edge map time: 0.092501
+Dense: 734 2150
+edge map time: 0.093337
+Dense: 702 2046
+edge map time: 0.092518
+Dense: 710 2049
+edge map time: 0.092079
+Dense: 699 2099
+edge map time: 0.092273
+Dense: 755 2261
+edge map time: 0.092551
+Dense: 789 2313
+edge map time: 0.092384
+Dense: 771 2260
+edge map time: 0.092237
+Dense: 774 2207
+edge map time: 0.092482
+Dense: 757 2148
+edge map time: 0.092183
+Dense: 735 2181
+edge map time: 0.092295
+Dense: 787 2271
+edge map time: 0.092550
+Dense: 792 2292
+edge map time: 0.093111
+Dense: 772 2246
+edge map time: 0.092827
+Dense: 804 2364
+edge map time: 0.093428
+Dense: 835 2466
+edge map time: 0.093237
+Dense: 827 2377
+edge map time: 0.092503
+Dense: 805 2377
+edge map time: 0.093116
+Dense: 777 2337
+edge map time: 0.092454
+Dense: 813 2387
+edge map time: 0.092670
+Dense: 796 2389
+edge map time: 0.092460
+Dense: 785 2345
+edge map time: 0.093796
+Dense: 804 2310
+edge map time: 0.093212
+Dense: 756 2236
+edge map time: 0.092636
+Dense: 786 2338
+edge map time: 0.092999
+Dense: 765 2203
+edge map time: 0.092421
+Dense: 759 2264
+edge map time: 0.092669
+Dense: 774 2242
+edge map time: 0.092511
+Dense: 788 2324
+edge map time: 0.092804
+Dense: 792 2328
+edge map time: 0.092919
+Dense: 781 2288
+edge map time: 0.093001
+Dense: 775 2336
+edge map time: 0.092048
+Dense: 799 2418
+edge map time: 0.092398
+Dense: 821 2464
+edge map time: 0.093242
+Dense: 863 2568
+edge map time: 0.092145
+Dense: 897 2709
+edge map time: 0.092591
+Dense: 961 2805
+edge map time: 0.092650
+Dense: 968 2918
+edge map time: 0.092158
+Dense: 1040 3074
+edge map time: 0.092703
+Dense: 1021 2997
+edge map time: 0.093558
+Dense: 1035 3114
+edge map time: 0.092770
+Dense: 1080 3224
+edge map time: 0.092807
+Dense: 1077 3109
+edge map time: 0.092588
+Dense: 1003 2932
+edge map time: 0.093430
+Dense: 974 2825
+edge map time: 0.092456
+Dense: 957 2799
+edge map time: 0.092341
+Dense: 973 2911
+edge map time: 0.093540
+Dense: 993 2962
+edge map time: 0.092199
+Dense: 999 2946
+edge map time: 0.092806
+Dense: 984 2940
+edge map time: 0.092233
+Dense: 1020 2991
+edge map time: 0.093044
+Dense: 995 2899
+edge map time: 0.092911
+Dense: 969 2894
+edge map time: 0.092311
+Dense: 952 2851
+edge map time: 0.092199
+Dense: 948 2800
+edge map time: 0.092125
+Dense: 907 2757
+edge map time: 0.092450
+Dense: 963 2845
+edge map time: 0.092917
+Dense: 952 2821
+edge map time: 0.093302
+Dense: 962 2859
+edge map time: 0.092102
+Dense: 1006 2899
+edge map time: 0.093497
+Dense: 974 2833
+edge map time: 0.092569
+Dense: 985 2894
+edge map time: 0.092257
+Dense: 1027 2985
+edge map time: 0.093010
+Dense: 1018 2981
+edge map time: 0.093663
+Dense: 1038 3103
+edge map time: 0.093197
+Dense: 1053 3114
+edge map time: 0.092141
+Dense: 1037 3053
+edge map time: 0.092446
+Dense: 1046 3076
+edge map time: 0.093238
+Dense: 1078 3200
+edge map time: 0.092493
+Dense: 1071 3113
+edge map time: 0.092337
+Dense: 1063 3039
+edge map time: 0.092961
+Dense: 963 2860
+edge map time: 0.092359
+Dense: 979 2858
+edge map time: 0.092838
+Dense: 963 2837
+edge map time: 0.092948
+Dense: 968 2899
+edge map time: 0.092555
+Dense: 1003 3008
+edge map time: 0.092667
+Dense: 985 2804
+edge map time: 0.092422
+Dense: 925 2721
+edge map time: 0.092547
+Dense: 949 2842
+edge map time: 0.092794
+Dense: 999 2897
+edge map time: 0.092922
+Dense: 975 2832
+edge map time: 0.092798
+Dense: 941 2800
+edge map time: 0.092502
+Dense: 1008 2977
+edge map time: 0.093130
+Dense: 1010 2970
+edge map time: 0.092631
+Dense: 1022 3041
+edge map time: 0.092478
+Dense: 1042 3021
+edge map time: 0.091976
+Dense: 1028 3126
+edge map time: 0.092429
+Dense: 1066 3144
+edge map time: 0.092234
+Dense: 1088 3260
+edge map time: 0.092446
+Dense: 1142 3334
+edge map time: 0.092962
+Dense: 1096 3229
+edge map time: 0.092687
+Dense: 1100 3206
+edge map time: 0.092268
+Dense: 1090 3222
+edge map time: 0.092807
+Dense: 1072 3167
+edge map time: 0.093242
+Dense: 1043 3137
+edge map time: 0.092599
+Dense: 1029 2997
+edge map time: 0.092511
+Dense: 1011 3024
+edge map time: 0.092820
+Dense: 1032 3055
+edge map time: 0.092521
+Dense: 1031 2998
+edge map time: 0.092432
+Dense: 1017 3036
+edge map time: 0.092306
+Dense: 1055 2963
+edge map time: 0.092605
+Dense: 1001 2911
+edge map time: 0.092871
+Dense: 1021 3021
+edge map time: 0.092409
+Dense: 1046 3018
+edge map time: 0.093250
+Dense: 1026 3015
+edge map time: 0.092380
+Dense: 977 2914
+edge map time: 0.092858
+Dense: 1017 3011
+edge map time: 0.093305
+Dense: 1007 2949
+edge map time: 0.092269
+Dense: 1000 2929
+edge map time: 0.092161
+Dense: 972 2873
+edge map time: 0.092940
+Dense: 951 2768
+edge map time: 0.092579
+Dense: 926 2771
+edge map time: 0.092861
+Dense: 950 2723
+edge map time: 0.092597
+Dense: 896 2678
+edge map time: 0.092962
+Dense: 854 2496
+edge map time: 0.092327
+Dense: 826 2486
+edge map time: 0.093399
+Dense: 857 2529
+edge map time: 0.093276
+Dense: 873 2614
+edge map time: 0.092478
+Dense: 874 2583
+edge map time: 0.092735
+Dense: 843 2549
+edge map time: 0.092167
+Dense: 826 2415
+edge map time: 0.092480
+Dense: 830 2389
+edge map time: 0.092495
+Dense: 808 2401
+edge map time: 0.093991
+Dense: 810 2409
+edge map time: 0.092409
+Dense: 809 2435
+edge map time: 0.093060
+Dense: 818 2386
+edge map time: 0.092503
+Dense: 794 2348
+edge map time: 0.092350
+Dense: 770 2293
+edge map time: 0.093117
+Dense: 792 2349
+edge map time: 0.092490
+Dense: 782 2404
+edge map time: 0.093051
+Dense: 781 2261
+edge map time: 0.092526
+Dense: 755 2268
+edge map time: 0.092564
+Dense: 768 2246
+edge map time: 0.093191
+Dense: 775 2276
+edge map time: 0.092423
+Dense: 749 2254
+edge map time: 0.092406
+Dense: 769 2252
+edge map time: 0.092008
+Dense: 763 2234
+edge map time: 0.092418
+Dense: 701 2032
+edge map time: 0.092402
+Dense: 674 1952
+edge map time: 0.092459
+Dense: 633 1899
+edge map time: 0.093202
+Dense: 671 2029
+edge map time: 0.092371
+Dense: 708 2080
+edge map time: 0.092615
+Dense: 713 2102
+edge map time: 0.092295
+Dense: 751 2186
+edge map time: 0.092212
+Dense: 740 2089
+edge map time: 0.092276
+Dense: 708 2141
+edge map time: 0.092274
+Dense: 778 2286
+edge map time: 0.093543
+Dense: 794 2328
+edge map time: 0.092759
+Dense: 810 2365
+edge map time: 0.092441
+Dense: 778 2321
+edge map time: 0.092578
+Dense: 764 2230
+edge map time: 0.092048
+Dense: 766 2353
+edge map time: 0.092215
+Dense: 826 2401
+edge map time: 0.093157
+Dense: 810 2338
+edge map time: 0.092405
+Dense: 782 2279
+edge map time: 0.092170
+Dense: 752 2246
+edge map time: 0.093322
+Dense: 757 2210
+edge map time: 0.093103
+Dense: 739 2226
+edge map time: 0.093542
+Dense: 735 2187
+edge map time: 0.092736
+Dense: 758 2232
+edge map time: 0.092757
+Dense: 774 2286
+edge map time: 0.093034
+Dense: 786 2320
+edge map time: 0.092842
+Dense: 786 2328
+edge map time: 0.092136
+Dense: 802 2362
+edge map time: 0.092412
+Dense: 809 2345
+edge map time: 0.092431
+Dense: 795 2340
+edge map time: 0.092301
+Dense: 792 2348
+edge map time: 0.093024
+Dense: 788 2320
+edge map time: 0.092321
+Dense: 754 2170
+edge map time: 0.092486
+Dense: 705 2095
+edge map time: 0.093090
+Dense: 715 2138
+edge map time: 0.092090
+Dense: 720 2096
+edge map time: 0.093018
+Dense: 727 2084
+edge map time: 0.093049
+Dense: 719 2133
+edge map time: 0.092734
+Dense: 713 2118
+edge map time: 0.092123
+Dense: 738 2216
+edge map time: 0.092256
+Dense: 780 2306
+edge map time: 0.092355
+Dense: 752 2223
+edge map time: 0.093661
+Dense: 759 2270
+edge map time: 0.092683
+Dense: 754 2190
+edge map time: 0.092653
+Dense: 725 2127
+edge map time: 0.092601
+Dense: 701 2044
+edge map time: 0.092865
+Dense: 711 2045
+edge map time: 0.093641
+Dense: 636 1869
+edge map time: 0.092306
+Dense: 630 1916
+edge map time: 0.092750
+Dense: 676 2045
+edge map time: 0.092294
+Dense: 697 2089
+edge map time: 0.092646
+Dense: 718 2105
+edge map time: 0.092244
+Dense: 692 2051
+edge map time: 0.092407
+Dense: 683 2032
+edge map time: 0.092757
+Dense: 658 1922
+edge map time: 0.092851
+Dense: 652 1927
+edge map time: 0.093243
+Dense: 650 1938
+edge map time: 0.092621
+Dense: 686 2089
+edge map time: 0.092187
+Dense: 742 2177
+edge map time: 0.093515
+Dense: 742 2183
+edge map time: 0.092991
+Dense: 734 2131
+edge map time: 0.092844
+Dense: 726 2226
+edge map time: 0.092206
+Dense: 759 2195
+edge map time: 0.092355
+Dense: 711 2130
+edge map time: 0.093844
+Dense: 691 2049
+edge map time: 0.092593
+Dense: 695 2050
+edge map time: 0.092496
+Dense: 690 2085
+edge map time: 0.092651
+Dense: 750 2208
+edge map time: 0.093526
+Dense: 763 2218
+edge map time: 0.093792
+Dense: 744 2221
+edge map time: 0.092244
+Dense: 791 2333
+edge map time: 0.092414
+Dense: 755 2236
+edge map time: 0.092604
+Dense: 743 2229
+edge map time: 0.092562
+Dense: 749 2154
+edge map time: 0.092328
+Dense: 672 2050
+edge map time: 0.092626
+Dense: 701 2053
+edge map time: 0.092200
+Dense: 677 2004
+edge map time: 0.092091
+Dense: 672 1955
+edge map time: 0.092279
+Dense: 642 1911
+edge map time: 0.092375
+Dense: 650 1936
+edge map time: 0.092873
+Dense: 663 1987
+edge map time: 0.092422
+Dense: 700 2033
+edge map time: 0.093126
+Dense: 691 2045
+edge map time: 0.093319
+Dense: 663 1930
+edge map time: 0.092277
+Dense: 614 1844
+edge map time: 0.092691
+Dense: 651 1963
+edge map time: 0.093402
+Dense: 661 1906
+edge map time: 0.093302
+Dense: 612 1817
+edge map time: 0.092549
+Dense: 591 1706
+edge map time: 0.092142
+Dense: 573 1666
+edge map time: 0.093301
+Dense: 558 1608
+edge map time: 0.093055
+Dense: 544 1604
+edge map time: 0.092494
+Dense: 524 1522
+edge map time: 0.093154
+Dense: 506 1485
+edge map time: 0.092266
+Dense: 485 1424
+edge map time: 0.092416
+Dense: 468 1390
+edge map time: 0.093432
+Dense: 490 1417
+edge map time: 0.092581
+Dense: 487 1412
+edge map time: 0.092507
+Dense: 491 1413
+edge map time: 0.092733
+Dense: 474 1423
+edge map time: 0.092470
+Dense: 511 1477
+edge map time: 0.093229
+Dense: 505 1416
+edge map time: 0.092356
+Dense: 501 1498
+edge map time: 0.093171
+Dense: 536 1547
+edge map time: 0.092260
+Dense: 544 1571
+edge map time: 0.092316
+Dense: 541 1566
+edge map time: 0.093174
+Dense: 541 1652
+edge map time: 0.092456
+Dense: 584 1718
+edge map time: 0.093585
+Dense: 608 1776
+edge map time: 0.092211
+Dense: 638 1921
+edge map time: 0.092219
+Dense: 633 1891
+edge map time: 0.093710
+Dense: 612 1831
+edge map time: 0.092149
+Dense: 627 1834
+edge map time: 0.092777
+Dense: 578 1758
+edge map time: 0.093593
+Dense: 597 1712
+edge map time: 0.092462
+Dense: 555 1674
+edge map time: 0.093049
+Dense: 577 1765
+edge map time: 0.092484
+Dense: 602 1787
+edge map time: 0.092895
+Dense: 597 1749
+edge map time: 0.092953
+Dense: 546 1632
+edge map time: 0.092587
+Dense: 558 1650
+edge map time: 0.092650
+Dense: 579 1779
+edge map time: 0.092809
+Dense: 596 1751
+edge map time: 0.092265
+Dense: 580 1720
+edge map time: 0.092341
+Dense: 568 1698
+edge map time: 0.093530
+Dense: 549 1672
+edge map time: 0.092866
+Dense: 591 1785
+edge map time: 0.092610
+Dense: 608 1772
+edge map time: 0.092647
+Dense: 579 1695
+edge map time: 0.093619
+Dense: 555 1629
+edge map time: 0.092898
+Dense: 522 1516
+edge map time: 0.092939
+Dense: 482 1447
+edge map time: 0.092494
+Dense: 496 1531
+edge map time: 0.092832
+Dense: 537 1562
+edge map time: 0.092546
+Dense: 487 1474
+edge map time: 0.092531
+Dense: 455 1348
+edge map time: 0.091907
+Dense: 465 1368
+edge map time: 0.093340
+Dense: 466 1366
+edge map time: 0.092744
+Dense: 475 1351
+edge map time: 0.092718
+Dense: 454 1344
+edge map time: 0.093255
+Dense: 445 1279
+edge map time: 0.092499
+Dense: 430 1226
+edge map time: 0.092554
+Dense: 440 1260
+edge map time: 0.092725
+Dense: 456 1316
+edge map time: 0.093006
+Dense: 456 1343
+edge map time: 0.092284
+Dense: 464 1408
+edge map time: 0.092857
+Dense: 501 1508
+edge map time: 0.092016
+Dense: 499 1519
+edge map time: 0.093110
+Dense: 523 1521
+edge map time: 0.093013
+Dense: 517 1515
+edge map time: 0.093222
+Dense: 503 1493
+edge map time: 0.092684
+Dense: 523 1579
+edge map time: 0.092846
+Dense: 527 1596
+edge map time: 0.092486
+Dense: 538 1612
+edge map time: 0.093440
+Dense: 529 1591
+edge map time: 0.092485
+Dense: 482 1449
+edge map time: 0.092413
+Dense: 511 1539
+edge map time: 0.092506
+Dense: 521 1573
+edge map time: 0.093009
+Dense: 538 1576
+edge map time: 0.093057
+Dense: 530 1603
+edge map time: 0.093856
+Dense: 531 1561
+edge map time: 0.092392
+Dense: 513 1515
+edge map time: 0.092447
+Dense: 521 1546
+edge map time: 0.092136
+Dense: 511 1513
+edge map time: 0.092288
+Dense: 528 1465
+edge map time: 0.092311
+Dense: 489 1455
+edge map time: 0.092193
+Dense: 509 1503
+edge map time: 0.092103
+Dense: 542 1600
+edge map time: 0.093165
+Dense: 536 1646
+edge map time: 0.093293
+Dense: 563 1654
+edge map time: 0.092595
+Dense: 585 1770
+edge map time: 0.092848
+Dense: 658 1911
+edge map time: 0.092148
+Dense: 635 1821
+edge map time: 0.092961
+Dense: 583 1674
+edge map time: 0.092068
+Dense: 566 1699
+edge map time: 0.093462
+Dense: 555 1640
+edge map time: 0.092267
+Dense: 568 1709
+edge map time: 0.093305
+Dense: 596 1782
+edge map time: 0.092219
+Dense: 615 1847
+edge map time: 0.092477
+Dense: 656 1900
+edge map time: 0.092402
+Dense: 623 1865
+edge map time: 0.092655
+Dense: 665 1924
+edge map time: 0.092187
+Dense: 646 1895
+edge map time: 0.092905
+Dense: 623 1821
+edge map time: 0.092470
+Dense: 601 1796
+edge map time: 0.092545
+Dense: 603 1779
+edge map time: 0.092708
+Dense: 608 1763
+edge map time: 0.092454
+Dense: 613 1746
+edge map time: 0.092234
+Dense: 584 1741
+edge map time: 0.092520
+Dense: 559 1675
+edge map time: 0.092453
+Dense: 564 1665
+edge map time: 0.092530
+Dense: 581 1698
+edge map time: 0.092269
+Dense: 552 1578
+edge map time: 0.093415
+Dense: 533 1603
+edge map time: 0.092884
+Dense: 536 1587
+edge map time: 0.093895
+Dense: 558 1656
+edge map time: 0.092691
+Dense: 569 1681
+edge map time: 0.092182
+Dense: 575 1729
+edge map time: 0.092462
+Dense: 552 1628
+edge map time: 0.092407
+Dense: 553 1574
+edge map time: 0.092296
+Dense: 523 1542
+edge map time: 0.093259
+Dense: 525 1529
+edge map time: 0.093261
+Dense: 515 1526
+edge map time: 0.092432
+Dense: 510 1506
+edge map time: 0.093684
+Dense: 518 1495
+edge map time: 0.092650
+Dense: 486 1408
+edge map time: 0.093141
+Dense: 461 1364
+edge map time: 0.093957
+Dense: 449 1328
+edge map time: 0.092650
+Dense: 436 1277
+edge map time: 0.093468
+Dense: 410 1263
+edge map time: 0.092526
+Dense: 428 1307
+edge map time: 0.092266
+Dense: 417 1224
+edge map time: 0.092219
+Dense: 409 1173
+edge map time: 0.093498
+Dense: 380 1147
+edge map time: 0.093746
+Dense: 409 1266
+edge map time: 0.093654
+Dense: 443 1335
+edge map time: 0.092325
+Dense: 442 1298
+edge map time: 0.092998
+Dense: 434 1246
+edge map time: 0.092282
+Dense: 412 1234
+edge map time: 0.092459
+Dense: 394 1145
+edge map time: 0.092209
+Dense: 395 1233
+edge map time: 0.092185
+Dense: 417 1276
+edge map time: 0.092638
+Dense: 431 1254
+edge map time: 0.092882
+Dense: 423 1257
+edge map time: 0.092494
+Dense: 400 1215
+edge map time: 0.092263
+Dense: 397 1143
+edge map time: 0.092630
+Dense: 364 1076
+edge map time: 0.092522
+Dense: 356 1081
+edge map time: 0.092044
+Dense: 357 1052
+edge map time: 0.092539
+Dense: 351 1040
+edge map time: 0.093073
+Dense: 328 930
+edge map time: 0.092315
+Dense: 313 939
+edge map time: 0.092526
+Dense: 309 880
+edge map time: 0.092362
+Dense: 298 895
+edge map time: 0.093330
+Dense: 313 900
+edge map time: 0.092296
+Dense: 319 922
+edge map time: 0.093061
+Dense: 310 956
+edge map time: 0.092383
+Dense: 336 1038
+edge map time: 0.092195
+Dense: 335 999
+edge map time: 0.093001
+Dense: 318 983
+edge map time: 0.093060
+Dense: 329 962
+edge map time: 0.092436
+Dense: 338 994
+edge map time: 0.092527
+Dense: 347 1003
+edge map time: 0.092735
+Dense: 338 1029
+edge map time: 0.092885
+Dense: 336 991
+edge map time: 0.092547
+Dense: 323 926
+edge map time: 0.092448
+Dense: 315 866
+edge map time: 0.092446
+Dense: 298 892
+edge map time: 0.092453
+Dense: 324 950
+edge map time: 0.092884
+Dense: 291 826
+edge map time: 0.092199
+Dense: 271 827
+edge map time: 0.092811
+Dense: 290 854
+edge map time: 0.092138
+Dense: 306 911
+edge map time: 0.092760
+Dense: 322 946
+edge map time: 0.093290
+Dense: 345 1027
+edge map time: 0.093773
+Dense: 327 984
+edge map time: 0.091929
+Dense: 310 936
+edge map time: 0.092429
+Dense: 289 864
+edge map time: 0.092376
+Dense: 298 890
+edge map time: 0.092110
+Dense: 292 843
+edge map time: 0.092336
+Dense: 282 854
+edge map time: 0.092317
+Dense: 286 852
+edge map time: 0.092677
+Dense: 272 775
+edge map time: 0.092015
+Dense: 258 721
+edge map time: 0.092876
+Dense: 249 716
+edge map time: 0.092692
+Dense: 261 784
+edge map time: 0.092861
+Dense: 268 796
+edge map time: 0.092397
+Dense: 278 846
+edge map time: 0.092241
+Dense: 293 864
+edge map time: 0.092634
+Dense: 300 874
+edge map time: 0.092947
+Dense: 271 801
+edge map time: 0.092124
+Dense: 277 856
+edge map time: 0.093060
+Dense: 318 955
+edge map time: 0.092992
+Dense: 282 805
+edge map time: 0.092555
+Dense: 254 766
+edge map time: 0.092359
+Dense: 262 801
+edge map time: 0.092392
+Dense: 280 795
+edge map time: 0.092622
+Dense: 255 713
+edge map time: 0.092872
+Dense: 225 644
+edge map time: 0.092347
+Dense: 224 706
+edge map time: 0.092831
+Dense: 252 707
+edge map time: 0.092635
+Dense: 227 702
+edge map time: 0.092634
+Dense: 268 774
+edge map time: 0.092281
+Dense: 239 679
+edge map time: 0.092230
+Dense: 230 680
+edge map time: 0.092415
+Dense: 241 708
+edge map time: 0.092514
+Dense: 235 680
+edge map time: 0.093162
+Dense: 207 591
+edge map time: 0.092624
+Dense: 194 601
+edge map time: 0.092440
+Dense: 217 614
+edge map time: 0.091958
+Dense: 195 569
+edge map time: 0.093351
+Dense: 191 571
+edge map time: 0.092810
+Dense: 196 595
+edge map time: 0.093714
+Dense: 206 610
+edge map time: 0.092313
+Dense: 217 642
+edge map time: 0.092897
+Dense: 219 623
+edge map time: 0.093239
+Dense: 198 556
+edge map time: 0.092912
+Dense: 177 524
+edge map time: 0.092075
+Dense: 181 558
+edge map time: 0.093737
+Dense: 192 545
+edge map time: 0.093511
+Dense: 178 520
+edge map time: 0.092401
+Dense: 163 491
+edge map time: 0.092842
+Dense: 179 542
+edge map time: 0.092715
+Dense: 201 580
+edge map time: 0.092618
+Dense: 183 548
+edge map time: 0.092471
+Dense: 183 570
+edge map time: 0.092225
+Dense: 186 525
+edge map time: 0.092468
+Dense: 169 508
+edge map time: 0.093272
+Dense: 191 581
+edge map time: 0.093364
+Dense: 200 569
+edge map time: 0.091964
+Dense: 184 558
+edge map time: 0.093313
+Dense: 201 603
+edge map time: 0.092535
+Dense: 191 577
+edge map time: 0.092258
+Dense: 194 556
+edge map time: 0.091951
+Dense: 176 535
+edge map time: 0.092353
+Dense: 175 514
+edge map time: 0.092476
+Dense: 164 495
+edge map time: 0.092770
+Dense: 179 534
+edge map time: 0.092367
+Dense: 162 489
+edge map time: 0.093203
+Dense: 158 455
+edge map time: 0.093136
+Dense: 135 413
+edge map time: 0.092356
+Dense: 147 448
+edge map time: 0.092346
+Dense: 165 501
+edge map time: 0.092473
+Dense: 171 469
+edge map time: 0.092309
+Dense: 145 430
+edge map time: 0.092355
+Dense: 140 419
+edge map time: 0.092399
+Dense: 148 450
+edge map time: 0.092819
+Dense: 125 385
+edge map time: 0.092406
+Dense: 141 448
+edge map time: 0.093084
+Dense: 156 466
+edge map time: 0.093442
+Dense: 146 409
+edge map time: 0.092998
+Dense: 127 352
+edge map time: 0.092285
+Dense: 128 382
+edge map time: 0.092255
+Dense: 135 390
+edge map time: 0.092254
+Dense: 136 385
+edge map time: 0.093456
+Dense: 121 360
+edge map time: 0.092792
+Dense: 127 374
+edge map time: 0.092407
+Dense: 116 359
+edge map time: 0.092668
+Dense: 130 381
+edge map time: 0.093019
+Dense: 144 434
+edge map time: 0.092329
+Dense: 157 451
+edge map time: 0.092891
+Dense: 154 441
+edge map time: 0.092396
+Dense: 153 445
+edge map time: 0.093500
+Dense: 163 475
+edge map time: 0.092007
+Dense: 152 441
+edge map time: 0.092673
+Dense: 142 393
+edge map time: 0.093691
+Dense: 124 360
+edge map time: 0.092340
+Dense: 135 370
+edge map time: 0.092124
+Dense: 120 342
+edge map time: 0.092870
+Dense: 137 412
+edge map time: 0.092786
+Dense: 147 418
+edge map time: 0.092514
+Dense: 152 457
+edge map time: 0.092578
+Dense: 171 498
+edge map time: 0.092539
+Dense: 162 480
+edge map time: 0.092412
+Dense: 169 516
+edge map time: 0.093559
+Dense: 180 492
+edge map time: 0.092751
+Dense: 166 462
+edge map time: 0.092275
+Dense: 151 407
+edge map time: 0.092433
+Dense: 146 434
+edge map time: 0.092350
+Dense: 155 457
+edge map time: 0.092819
+Dense: 161 481
+edge map time: 0.092737
+Dense: 182 519
+edge map time: 0.092579
+Dense: 176 502
+edge map time: 0.093624
+Dense: 175 535
+edge map time: 0.093310
+Dense: 191 521
+edge map time: 0.092835
+Dense: 171 484
+edge map time: 0.092311
+Dense: 156 458
+edge map time: 0.092552
+Dense: 156 453
+edge map time: 0.092113
+Dense: 161 474
+edge map time: 0.092972
+Dense: 170 515
+edge map time: 0.092256
+Dense: 170 483
+edge map time: 0.093793
+Dense: 161 485
+edge map time: 0.092310
+Dense: 165 479
+edge map time: 0.093656
+Dense: 165 462
+edge map time: 0.092893
+Dense: 162 477
+edge map time: 0.093364
+Dense: 170 487
+edge map time: 0.092215
+Dense: 171 511
+edge map time: 0.092321
+Dense: 174 501
+edge map time: 0.092334
+Dense: 187 519
+edge map time: 0.092118
+Dense: 178 529
+edge map time: 0.092296
+Dense: 167 479
+edge map time: 0.093426
+Dense: 154 444
+edge map time: 0.092653
+Dense: 154 434
+edge map time: 0.092175
+Dense: 146 413
+edge map time: 0.092256
+Dense: 140 428
+edge map time: 0.093446
+Dense: 149 450
+edge map time: 0.093477
+Dense: 151 437
+edge map time: 0.092092
+Dense: 146 418
+edge map time: 0.093294
+Dense: 149 443
+edge map time: 0.092456
+Dense: 149 463
+edge map time: 0.092599
+Dense: 169 474
+edge map time: 0.092706
+Dense: 159 475
+edge map time: 0.092520
+Dense: 179 523
+edge map time: 0.092501
+Dense: 173 517
+edge map time: 0.092386
+Dense: 172 509
+edge map time: 0.092644
+Dense: 184 538
+edge map time: 0.092573
+Dense: 189 576
+edge map time: 0.092338
+Dense: 181 542
+edge map time: 0.092526
+Dense: 175 509
+edge map time: 0.092696
+Dense: 177 521
+edge map time: 0.092694
+Dense: 171 535
+edge map time: 0.092422
+Dense: 189 554
+edge map time: 0.092094
+Dense: 171 524
+edge map time: 0.092600
+Dense: 182 531
+edge map time: 0.092424
+Dense: 171 478
+edge map time: 0.092376
+Dense: 158 446
+edge map time: 0.092459
+Dense: 142 431
+edge map time: 0.092456
+Dense: 150 426
+edge map time: 0.093482
+Dense: 154 434
+edge map time: 0.092446
+Dense: 151 444
+edge map time: 0.092124
+Dense: 161 478
+edge map time: 0.092653
+Dense: 166 496
+edge map time: 0.092327
+Dense: 177 529
+edge map time: 0.092419
+Dense: 167 486
+edge map time: 0.092930
+Dense: 175 525
+edge map time: 0.092560
+Dense: 165 491
+edge map time: 0.093125
+Dense: 164 497
+edge map time: 0.092358
+Dense: 161 473
+edge map time: 0.092254
+Dense: 169 523
+edge map time: 0.093442
+Dense: 178 530
+edge map time: 0.092666
+Dense: 157 467
+edge map time: 0.092513
+Dense: 140 444
+edge map time: 0.092743
+Dense: 163 489
+edge map time: 0.092690
+Dense: 166 516
+edge map time: 0.092492
+Dense: 174 519
+edge map time: 0.092342
+Dense: 155 477
+edge map time: 0.092225
+Dense: 154 459
+edge map time: 0.092419
+Dense: 139 413
+edge map time: 0.093605
+Dense: 138 426
+edge map time: 0.092115
+Dense: 157 480
+edge map time: 0.092286
+Dense: 161 485
+edge map time: 0.092501
+Dense: 164 480
+edge map time: 0.092450
+Dense: 148 455
+edge map time: 0.092194
+Dense: 142 417
+edge map time: 0.092621
+Dense: 135 408
+edge map time: 0.092391
+Dense: 141 434
+edge map time: 0.092416
+Dense: 157 458
+edge map time: 0.093486
+Dense: 153 466
+edge map time: 0.092381
+Dense: 163 470
+edge map time: 0.093052
+Dense: 137 415
+edge map time: 0.092924
+Dense: 132 403
+edge map time: 0.092921
+Dense: 126 371
+edge map time: 0.092308
+Dense: 104 306
+edge map time: 0.093270
+Dense: 101 298
+edge map time: 0.092602
+Dense: 94 282
+edge map time: 0.092189
+Dense: 85 255
+edge map time: 0.092918
+Dense: 82 239
+edge map time: 0.092561
+Dense: 68 195
+edge map time: 0.092669
+Dense: 59 168
+edge map time: 0.092143
+Dense: 53 159
+edge map time: 0.092586
+Dense: 58 165
+edge map time: 0.093197
+Dense: 53 172
+edge map time: 0.092227
+Dense: 63 202
+edge map time: 0.092375
+Dense: 73 223
+edge map time: 0.092460
+Dense: 86 243
+edge map time: 0.093256
+Dense: 79 246
+edge map time: 0.092113
+Dense: 95 280
+edge map time: 0.092498
+Dense: 93 277
+edge map time: 0.092450
+Dense: 96 283
+edge map time: 0.092351
+Dense: 103 320
+edge map time: 0.092007
+Dense: 100 277
+edge map time: 0.092371
+Dense: 91 279
+edge map time: 0.092408
+Dense: 91 279
+edge map time: 0.093661
+Dense: 99 302
+edge map time: 0.092484
+Dense: 79 233
+edge map time: 0.092548
+Dense: 79 236
+edge map time: 0.093043
+Dense: 90 274
+edge map time: 0.092464
+Dense: 92 263
+edge map time: 0.092174
+Dense: 83 248
+edge map time: 0.093086
+Dense: 84 241
+edge map time: 0.092580
+Dense: 83 240
+edge map time: 0.092986
+Dense: 91 254
+edge map time: 0.092650
+Dense: 84 232
+edge map time: 0.092625
+Dense: 80 237
+edge map time: 0.092225
+Dense: 81 250
+edge map time: 0.092599
+Dense: 101 307
+edge map time: 0.092123
+Dense: 108 305
+edge map time: 0.092393
+Dense: 106 300
+edge map time: 0.092969
+Dense: 108 330
+edge map time: 0.092802
+Dense: 113 340
+edge map time: 0.092152
+Dense: 125 360
+edge map time: 0.092839
+Dense: 115 327
+edge map time: 0.093004
+Dense: 110 348
+edge map time: 0.093085
+Dense: 127 376
+edge map time: 0.092076
+Dense: 138 422
+edge map time: 0.092565
+Dense: 145 434
+edge map time: 0.092966
+Dense: 138 388
+edge map time: 0.092634
+Dense: 113 348
+edge map time: 0.092846
+Dense: 107 310
+edge map time: 0.093129
+Dense: 100 287
+edge map time: 0.092756
+Dense: 90 264
+edge map time: 0.092303
+Dense: 96 305
+edge map time: 0.092991
+Dense: 104 289
+edge map time: 0.092546
+Dense: 97 297
+edge map time: 0.092325
+Dense: 108 337
+edge map time: 0.093040
+Dense: 117 321
+edge map time: 0.092974
+Dense: 94 286
+edge map time: 0.092608
+Dense: 99 299
+edge map time: 0.092228
+Dense: 105 321
+edge map time: 0.093166
+Dense: 99 296
+edge map time: 0.093255
+Dense: 90 277
+edge map time: 0.093638
+Dense: 93 263
+edge map time: 0.092690
+Dense: 82 246
+edge map time: 0.092226
+Dense: 92 276
+edge map time: 0.092380
+Dense: 90 267
+edge map time: 0.092338
+Dense: 71 219
+edge map time: 0.092238
+Dense: 62 185
+edge map time: 0.092468
+Dense: 49 150
+edge map time: 0.092748
+Dense: 54 162
+edge map time: 0.092885
+Dense: 49 132
+edge map time: 0.092211
+Dense: 42 137
+edge map time: 0.092454
+Dense: 51 144
+edge map time: 0.092206
+Dense: 41 125
+edge map time: 0.092350
+Dense: 43 112
+edge map time: 0.092048
+Dense: 30 76
+edge map time: 0.093542
+Dense: 24 79
+edge map time: 0.093778
+Dense: 35 108
+edge map time: 0.092568
+Dense: 35 95
+edge map time: 0.091930
+Dense: 31 91
+edge map time: 0.093719
+Dense: 39 107
+edge map time: 0.092992
+Dense: 36 110
+edge map time: 0.092524
+Dense: 42 113
+edge map time: 0.092042
+Dense: 40 117
+edge map time: 0.092372
+Dense: 45 121
+edge map time: 0.092373
+Dense: 29 93
+edge map time: 0.093116
+Dense: 33 88
+edge map time: 0.093609
+Dense: 24 72
+edge map time: 0.092476
+Dense: 30 86
+edge map time: 0.092223
+Dense: 27 84
+edge map time: 0.092274
+Dense: 35 111
+edge map time: 0.092270
+Dense: 43 132
+edge map time: 0.093185
+Dense: 42 122
+edge map time: 0.092985
+Dense: 29 92
+edge map time: 0.092292
+Dense: 27 71
+edge map time: 0.092304
+Dense: 24 79
+edge map time: 0.092435
+Dense: 30 86
+edge map time: 0.092737
+Dense: 25 71
+edge map time: 0.093007
+Dense: 20 69
+edge map time: 0.092320
+Dense: 24 67
+edge map time: 0.092327
+Dense: 14 49
+edge map time: 0.092890
+Dense: 19 42
+edge map time: 0.092143
+Dense: 12 44
+edge map time: 0.092947
+Dense: 15 44
+edge map time: 0.092974
+Dense: 15 49
+edge map time: 0.093129
+Dense: 12 37
+edge map time: 0.093459
+Dense: 7 21
+edge map time: 0.092534
+Dense: 8 19
+edge map time: 0.093338
+Dense: 5 9
+edge map time: 0.092752
+Dense: 3 11
+edge map time: 0.092396
+Dense: 7 20
+edge map time: 0.093206
+Dense: 5 15
+edge map time: 0.092710
+Dense: 4 11
+edge map time: 0.092212
+Dense: 5 17
+edge map time: 0.092154
+Dense: 8 27
+edge map time: 0.092836
+Dense: 10 30
+edge map time: 0.092559
+Dense: 8 29
+edge map time: 0.092992
+Dense: 8 24
+edge map time: 0.092130
+Dense: 7 23
+edge map time: 0.092226
+Dense: 10 36
+edge map time: 0.093780
+Dense: 15 45
+edge map time: 0.093249
+Dense: 14 45
+edge map time: 0.092133
+Dense: 16 47
+edge map time: 0.092246
+Dense: 11 30
+edge map time: 0.093617
+Dense: 12 29
+edge map time: 0.092525
+Dense: 9 28
+edge map time: 0.092546
+Dense: 8 27
+edge map time: 0.093301
+Dense: 9 20
+edge map time: 0.092917
+Dense: 6 14
+edge map time: 0.092243
+Dense: 7 17
+edge map time: 0.092129
+Dense: 7 21
+edge map time: 0.092704
+Dense: 6 20
+edge map time: 0.092384
+Dense: 7 21
+edge map time: 0.092067
+Dense: 8 20
+edge map time: 0.092415
+Dense: 5 16
+edge map time: 0.092568
+Dense: 9 22
+edge map time: 0.092330
+Dense: 5 10
+edge map time: 0.092140
+Dense: 4 8
+edge map time: 0.092399
+Dense: 3 9
+edge map time: 0.093116
+Dense: 5 15
+edge map time: 0.093549
+Dense: 7 14
+edge map time: 0.092177
+Dense: 5 15
+edge map time: 0.092616
+Dense: 8 25
+edge map time: 0.092348
+Dense: 12 40
+edge map time: 0.092316
+Dense: 13 40
+edge map time: 0.092799
+Dense: 14 36
+edge map time: 0.092747
+Dense: 15 38
+edge map time: 0.092257
+Dense: 12 34
+edge map time: 0.092694
+Dense: 9 33
+edge map time: 0.092365
+Dense: 9 32
+edge map time: 0.093119
+Dense: 12 43
+edge map time: 0.092252
+Dense: 16 54
+edge map time: 0.092709
+Dense: 16 49
+edge map time: 0.091917
+Dense: 14 41
+edge map time: 0.092628
+Dense: 10 32
+edge map time: 0.093168
+Dense: 9 26
+edge map time: 0.093470
+Dense: 10 31
+edge map time: 0.093464
+Dense: 12 34
+edge map time: 0.093187
+Dense: 8 23
+edge map time: 0.092500
+Dense: 5 18
+edge map time: 0.092561
+Dense: 2 4
+edge map time: 0.092006
+Dense: 1 4
+edge map time: 0.092330
+Dense: 1 2
+edge map time: 0.092394
+Vertices visited = 5265289
+Finished in 4034 iterations
+self counted time: 469.463544
+BFS : 469

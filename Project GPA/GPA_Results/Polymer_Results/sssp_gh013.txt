@@ -1,0 +1,544 @@
+0 shard: 27659124
+1 shard: 27652502
+start create 2 threads
+totalSize of 4923392: 27652502 55305004
+fake deg: 0
+totalSize of 0: 27659124 55318248
+fake deg: 0
+over filtering
+over filtering
+started
+all created
+Round 1: num of non zeros: 1	Sparse
+M is 1 and first ele is 4922874
+0x7fd46c003120
+iteration time: 0.017619
+Round 2: num of non zeros: 5	Sparse
+iteration time: 0.000019
+Round 3: num of non zeros: 49	Sparse
+iteration time: 0.000022
+Round 4: num of non zeros: 47	Sparse
+iteration time: 0.000017
+Round 5: num of non zeros: 5	Sparse
+iteration time: 0.000017
+Round 6: num of non zeros: 51	Sparse
+iteration time: 0.000018
+Round 7: num of non zeros: 21	Sparse
+iteration time: 0.000018
+Round 8: num of non zeros: 104	Sparse
+iteration time: 0.000037
+Round 9: num of non zeros: 649	Sparse
+iteration time: 0.000086
+Round 10: num of non zeros: 1893	Sparse
+iteration time: 0.000116
+Round 11: num of non zeros: 2964	Sparse
+iteration time: 0.000253
+Round 12: num of non zeros: 8165	Sparse
+iteration time: 0.000742
+Round 13: num of non zeros: 24250	Sparse
+iteration time: 0.002146
+Round 14: num of non zeros: 69020	Sparse
+iteration time: 0.004136
+Round 15: num of non zeros: 142854	Sparse
+iteration time: 0.008961
+Round 16: num of non zeros: 302153	Sparse
+iteration time: 0.015452
+Round 17: num of non zeros: 510381	Dense
+iteration time: 0.020882
+Round 18: num of non zeros: 787694	Dense
+iteration time: 0.008634
+Round 19: num of non zeros: 1004868	Dense
+iteration time: 0.009492
+Round 20: num of non zeros: 1167601	Dense
+iteration time: 0.010163
+Round 21: num of non zeros: 1327879	Dense
+iteration time: 0.010550
+Round 22: num of non zeros: 1387584	Dense
+iteration time: 0.011015
+Round 23: num of non zeros: 1443419	Dense
+iteration time: 0.011319
+Round 24: num of non zeros: 1427328	Dense
+iteration time: 0.011237
+Round 25: num of non zeros: 1400068	Dense
+iteration time: 0.011191
+Round 26: num of non zeros: 1373125	Dense
+iteration time: 0.011484
+Round 27: num of non zeros: 1317114	Dense
+iteration time: 0.011262
+Round 28: num of non zeros: 1266359	Dense
+iteration time: 0.010666
+Round 29: num of non zeros: 1193064	Dense
+iteration time: 0.010222
+Round 30: num of non zeros: 1168254	Dense
+iteration time: 0.010094
+Round 31: num of non zeros: 1063006	Dense
+iteration time: 0.009500
+Round 32: num of non zeros: 1021883	Dense
+iteration time: 0.009453
+Round 33: num of non zeros: 923131	Dense
+iteration time: 0.008777
+Round 34: num of non zeros: 860415	Dense
+iteration time: 0.008502
+Round 35: num of non zeros: 787495	Dense
+iteration time: 0.007809
+Round 36: num of non zeros: 702639	Dense
+iteration time: 0.007295
+Round 37: num of non zeros: 627850	Dense
+iteration time: 0.006845
+Round 38: num of non zeros: 558299	Dense
+iteration time: 0.006426
+Round 39: num of non zeros: 487839	Dense
+iteration time: 0.005929
+Round 40: num of non zeros: 426566	Dense
+iteration time: 0.005588
+Round 41: num of non zeros: 367659	Sparse
+M is 183997 and first ele is 302
+M is 183662 and first ele is 4923392
+iteration time: 0.027251
+Round 42: num of non zeros: 312100	Sparse
+iteration time: 0.008653
+Round 43: num of non zeros: 261726	Sparse
+iteration time: 0.006853
+Round 44: num of non zeros: 224496	Sparse
+iteration time: 0.006781
+Round 45: num of non zeros: 178083	Sparse
+iteration time: 0.004418
+Round 46: num of non zeros: 140245	Sparse
+iteration time: 0.003435
+Round 47: num of non zeros: 119392	Sparse
+iteration time: 0.003011
+Round 48: num of non zeros: 87263	Sparse
+iteration time: 0.001992
+Round 49: num of non zeros: 68410	Sparse
+iteration time: 0.001810
+Round 50: num of non zeros: 60829	Sparse
+iteration time: 0.001411
+Round 51: num of non zeros: 40500	Sparse
+iteration time: 0.001046
+Round 52: num of non zeros: 35052	Sparse
+iteration time: 0.000839
+Round 53: num of non zeros: 26122	Sparse
+iteration time: 0.000667
+Round 54: num of non zeros: 22433	Sparse
+iteration time: 0.000510
+Round 55: num of non zeros: 16904	Sparse
+iteration time: 0.000379
+Round 56: num of non zeros: 11357	Sparse
+iteration time: 0.000283
+Round 57: num of non zeros: 8865	Sparse
+iteration time: 0.000241
+Round 58: num of non zeros: 7499	Sparse
+iteration time: 0.000193
+Round 59: num of non zeros: 5947	Sparse
+iteration time: 0.000203
+Round 60: num of non zeros: 5907	Sparse
+iteration time: 0.000169
+Round 61: num of non zeros: 4992	Sparse
+iteration time: 0.000134
+Round 62: num of non zeros: 3650	Sparse
+iteration time: 0.000120
+Round 63: num of non zeros: 3347	Sparse
+iteration time: 0.000111
+Round 64: num of non zeros: 2886	Sparse
+iteration time: 0.000085
+Round 65: num of non zeros: 1945	Sparse
+iteration time: 0.000068
+Round 66: num of non zeros: 1405	Sparse
+iteration time: 0.000055
+Round 67: num of non zeros: 793	Sparse
+iteration time: 0.000039
+Round 68: num of non zeros: 547	Sparse
+iteration time: 0.000025
+Round 69: num of non zeros: 207	Sparse
+iteration time: 0.000018
+Round 70: num of non zeros: 82	Sparse
+iteration time: 0.000017
+Round 71: num of non zeros: 41	Sparse
+iteration time: 0.000016
+Round 72: num of non zeros: 23	Sparse
+iteration time: 0.000015
+Round 73: num of non zeros: 18	Sparse
+iteration time: 0.000015
+Round 74: num of non zeros: 18	Sparse
+iteration time: 0.000016
+Round 75: num of non zeros: 17	Sparse
+iteration time: 0.000017
+Round 76: num of non zeros: 17	Sparse
+iteration time: 0.000016
+Round 77: num of non zeros: 16	Sparse
+iteration time: 0.000016
+Round 78: num of non zeros: 16	Sparse
+iteration time: 0.000016
+Round 79: num of non zeros: 15	Sparse
+iteration time: 0.000016
+Round 80: num of non zeros: 15	Sparse
+iteration time: 0.000015
+Round 81: num of non zeros: 15	Sparse
+iteration time: 0.000017
+Round 82: num of non zeros: 14	Sparse
+iteration time: 0.000015
+Round 83: num of non zeros: 14	Sparse
+iteration time: 0.000016
+Round 84: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 85: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 86: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 87: num of non zeros: 13	Sparse
+iteration time: 0.000014
+Round 88: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 89: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 90: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 91: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 92: num of non zeros: 13	Sparse
+iteration time: 0.000014
+Round 93: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 94: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 95: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 96: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 97: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 98: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 99: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 100: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 101: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 102: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 103: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 104: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 105: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 106: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 107: num of non zeros: 13	Sparse
+iteration time: 0.000017
+Round 108: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 109: num of non zeros: 13	Sparse
+iteration time: 0.000017
+Round 110: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 111: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 112: num of non zeros: 13	Sparse
+iteration time: 0.000014
+Round 113: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 114: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 115: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 116: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 117: num of non zeros: 13	Sparse
+iteration time: 0.000018
+Round 118: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 119: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 120: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 121: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 122: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 123: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 124: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 125: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 126: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 127: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 128: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 129: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 130: num of non zeros: 13	Sparse
+iteration time: 0.000014
+Round 131: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 132: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 133: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 134: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 135: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 136: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 137: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 138: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 139: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 140: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 141: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 142: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 143: num of non zeros: 13	Sparse
+iteration time: 0.000017
+Round 144: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 145: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 146: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 147: num of non zeros: 13	Sparse
+iteration time: 0.000014
+Round 148: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 149: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 150: num of non zeros: 13	Sparse
+iteration time: 0.000015
+Round 151: num of non zeros: 13	Sparse
+iteration time: 0.000016
+Round 152: num of non zeros: 12	Sparse
+iteration time: 0.000016
+Round 153: num of non zeros: 12	Sparse
+iteration time: 0.000015
+Round 154: num of non zeros: 12	Sparse
+iteration time: 0.000015
+Round 155: num of non zeros: 11	Sparse
+iteration time: 0.000016
+Round 156: num of non zeros: 11	Sparse
+iteration time: 0.000017
+Round 157: num of non zeros: 10	Sparse
+iteration time: 0.000015
+Round 158: num of non zeros: 10	Sparse
+iteration time: 0.000015
+Round 159: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 160: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 161: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 162: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 163: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 164: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 165: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 166: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 167: num of non zeros: 9	Sparse
+iteration time: 0.000038
+Round 168: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 169: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 170: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 171: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 172: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 173: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 174: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 175: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 176: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 177: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 178: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 179: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 180: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 181: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 182: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 183: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 184: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 185: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 186: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 187: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 188: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 189: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 190: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 191: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 192: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 193: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 194: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 195: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 196: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 197: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 198: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 199: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 200: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 201: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 202: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 203: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 204: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 205: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 206: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 207: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 208: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 209: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 210: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 211: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 212: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 213: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 214: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 215: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 216: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 217: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 218: num of non zeros: 9	Sparse
+iteration time: 0.000019
+Round 219: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 220: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 221: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 222: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 223: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 224: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 225: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 226: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 227: num of non zeros: 9	Sparse
+iteration time: 0.000014
+Round 228: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 229: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 230: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 231: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 232: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 233: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 234: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 235: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 236: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 237: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 238: num of non zeros: 9	Sparse
+iteration time: 0.000017
+Round 239: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 240: num of non zeros: 9	Sparse
+iteration time: 0.000015
+Round 241: num of non zeros: 9	Sparse
+iteration time: 0.000016
+Round 242: num of non zeros: 8	Sparse
+iteration time: 0.000014
+Round 243: num of non zeros: 8	Sparse
+iteration time: 0.000016
+Round 244: num of non zeros: 8	Sparse
+iteration time: 0.000015
+Round 245: num of non zeros: 8	Sparse
+iteration time: 0.000016
+Round 246: num of non zeros: 7	Sparse
+iteration time: 0.000015
+Round 247: num of non zeros: 7	Sparse
+iteration time: 0.000016
+Round 248: num of non zeros: 6	Sparse
+iteration time: 0.000015
+Round 249: num of non zeros: 6	Sparse
+iteration time: 0.000015
+Round 250: num of non zeros: 6	Sparse
+iteration time: 0.000015
+Round 251: num of non zeros: 5	Sparse
+iteration time: 0.000015
+Round 252: num of non zeros: 5	Sparse
+iteration time: 0.000014
+Round 253: num of non zeros: 5	Sparse
+iteration time: 0.000016
+Round 254: num of non zeros: 4	Sparse
+iteration time: 0.000016
+Round 255: num of non zeros: 4	Sparse
+iteration time: 0.000016
+Round 256: num of non zeros: 4	Sparse
+iteration time: 0.000016
+Round 257: num of non zeros: 3	Sparse
+iteration time: 0.000015
+Round 258: num of non zeros: 3	Sparse
+iteration time: 0.000016
+Round 259: num of non zeros: 2	Sparse
+iteration time: 0.000015
+Round 260: num of non zeros: 2	Sparse
+iteration time: 0.000015
+Round 261: num of non zeros: 1	Sparse
+iteration time: 0.000016
+Round 262: num of non zeros: 1	Sparse
+iteration time: 0.000017
+Round 263: num of non zeros: 1	Sparse
+iteration time: 0.000014
+Vertices visited = 26808787
+Finished in 263 iterations
+BellmanFord : 0.366

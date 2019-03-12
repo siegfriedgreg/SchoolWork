@@ -1,0 +1,101 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'polymer test'
+polymer test
++ echo 'Start BFS'
+Start BFS
++ ./numa-BFS ../maps/gh001.adj 177
+/var/slurmd/job4221928/slurm_script: line 18: 21440 Segmentation fault      ./numa-BFS ../maps/gh001.adj 177 &>bfs_gh001.txt
++ ./numa-BFS ../maps/gh002.adj 522
++ ./numa-BFS ../maps/gh004.adj 189
+/var/slurmd/job4221928/slurm_script: line 20: 21541 Segmentation fault      ./numa-BFS ../maps/gh004.adj 189 &>bfs_gh004.txt
++ ./numa-BFS ../maps/gh005.adj 239
+/var/slurmd/job4221928/slurm_script: line 21: 21624 Segmentation fault      ./numa-BFS ../maps/gh005.adj 239 &>bfs_gh005.txt
++ ./numa-BFS ../maps/gh006.adj 507
++ ./numa-BFS ../maps/gh007.adj 155
+/var/slurmd/job4221928/slurm_script: line 23: 22051 Killed                  ./numa-BFS ../maps/gh007.adj 155 &>bfs_gh007.txt
++ ./numa-BFS ../maps/gh008.adj 481
++ ./numa-BFS ../maps/gh009.adj 474
++ ./numa-BFS ../maps/gh010.adj 464
++ ./numa-BFS ../maps/gh011.adj 481
++ ./numa-BFS ../maps/gh012.adj 481
++ ./numa-BFS ../maps/gh013.adj 71
+/var/slurmd/job4221928/slurm_script: line 29: 22599 Segmentation fault      ./numa-BFS ../maps/gh013.adj 71 &>bfs_gh013.txt
++ ./numa-BFS ../maps/gh014.adj 189
++ ./numa-BFS ../maps/gh015.adj 49599822
++ ./numa-BFS ../maps/gh016.adj 663
++ echo 'Done with BFS'
+Done with BFS
++ echo 'Start CC'
+Start CC
++ ./numa-Components ../maps/gh001.adj
+/var/slurmd/job4221928/slurm_script: line 40: 22934 Segmentation fault      ./numa-Components ../maps/gh001.adj &>cc_gh001.txt
++ ./numa-Components ../maps/gh002.adj
++ ./numa-Components ../maps/gh004.adj
+/var/slurmd/job4221928/slurm_script: line 42: 23129 Segmentation fault      ./numa-Components ../maps/gh004.adj &>cc_gh004.txt
++ ./numa-Components ../maps/gh005.adj
+/var/slurmd/job4221928/slurm_script: line 43: 23638 Segmentation fault      ./numa-Components ../maps/gh005.adj &>cc_gh005.txt
++ ./numa-Components ../maps/gh006.adj
++ ./numa-Components ../maps/gh007.adj
+/var/slurmd/job4221928/slurm_script: line 45: 23728 Killed                  ./numa-Components ../maps/gh007.adj &>cc_gh007.txt
++ ./numa-Components ../maps/gh008.adj
++ ./numa-Components ../maps/gh009.adj
++ ./numa-Components ../maps/gh010.adj
++ ./numa-Components ../maps/gh011.adj
++ ./numa-Components ../maps/gh012.adj
++ ./numa-Components ../maps/gh013.adj
+/var/slurmd/job4221928/slurm_script: line 51: 24087 Aborted                 ./numa-Components ../maps/gh013.adj &>cc_gh013.txt
++ ./numa-Components ../maps/gh014.adj
++ ./numa-Components ../maps/gh015.adj
++ ./numa-Components ../maps/gh016.adj
++ echo 'Done with CC'
+Done with CC
++ echo 'Start PR'
+Start PR
++ ./numa-PageRank ../maps/gh001.adj 10
+/var/slurmd/job4221928/slurm_script: line 62: 24297 Segmentation fault      ./numa-PageRank ../maps/gh001.adj 10 &>pr_gh001.txt
++ ./numa-PageRank ../maps/gh002.adj 10
++ ./numa-PageRank ../maps/gh004.adj 10
+/var/slurmd/job4221928/slurm_script: line 64: 24489 Segmentation fault      ./numa-PageRank ../maps/gh004.adj 10 &>pr_gh004.txt
++ ./numa-PageRank ../maps/gh005.adj 10
+/var/slurmd/job4221928/slurm_script: line 65: 25315 Segmentation fault      ./numa-PageRank ../maps/gh005.adj 10 &>pr_gh005.txt
++ ./numa-PageRank ../maps/gh006.adj 10
++ ./numa-PageRank ../maps/gh007.adj 10
+/var/slurmd/job4221928/slurm_script: line 67: 25460 Segmentation fault      ./numa-PageRank ../maps/gh007.adj 10 &>pr_gh007.txt
++ ./numa-PageRank ../maps/gh008.adj 10
++ ./numa-PageRank ../maps/gh009.adj 10
++ ./numa-PageRank ../maps/gh010.adj 10
++ ./numa-PageRank ../maps/gh011.adj 10
++ ./numa-PageRank ../maps/gh012.adj 10
++ ./numa-PageRank ../maps/gh013.adj 10
+/var/slurmd/job4221928/slurm_script: line 73: 26261 Aborted                 ./numa-PageRank ../maps/gh013.adj 10 &>pr_gh013.txt
++ ./numa-PageRank ../maps/gh014.adj 10
++ ./numa-PageRank ../maps/gh015.adj 10
++ ./numa-PageRank ../maps/gh016.adj 10
+/var/slurmd/job4221928/slurm_script: line 76: 26469 Segmentation fault      ./numa-PageRank ../maps/gh016.adj 10 &>pr_gh016.txt
++ echo 'Done with PR'
+Done with PR
++ echo 'Start SSSP'
+Start SSSP
++ ./numa-BellmanFord ../maps/gh001.wadj 126
++ ./numa-BellmanFord ../maps/gh002.wadj 113
++ ./numa-BellmanFord ../maps/gh004.wadj 983
+/var/slurmd/job4221928/slurm_script: line 86: 26622 Aborted                 ./numa-BellmanFord ../maps/gh004.wadj 983 &>sssp_gh004.txt
++ ./numa-BellmanFord ../maps/gh005.wadj 460
++ ./numa-BellmanFord ../maps/gh006.wadj 132
++ ./numa-BellmanFord ../maps/gh007.wadj 1022
++ ./numa-BellmanFord ../maps/gh008.wadj 2
++ ./numa-BellmanFord ../maps/gh009.wadj 3
++ ./numa-BellmanFord ../maps/gh010.wadj 3
++ ./numa-BellmanFord ../maps/gh011.wadj 8
++ ./numa-BellmanFord ../maps/gh012.wadj 10
++ ./numa-BellmanFord ../maps/gh013.wadj 23
++ ./numa-BellmanFord ../maps/gh014.wadj 2
++ ./numa-BellmanFord ../maps/gh015.wadj 24
++ ./numa-BellmanFord ../maps/gh016.wadj 619
++ echo 'Done with SSSP'
+Done with SSSP
++ wait
++ echo 'finished polymer!'
+finished polymer!
++ exit

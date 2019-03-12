@@ -1,0 +1,18 @@
+mbind: Invalid argument
+mbind: Invalid argument
+mbind: Invalid argument
+mbind: Invalid argument
+average is 34237705
+0: degree sum: 34237393
+1: degree sum: 34238017
+start create 2 threads
+average is: 34237704.000000
+0 : degree count: 34237393
+1 : degree count: 34238017
+totalInSize is 34240073
+fake deg: 5
+totalInSize is 34235337
+fake deg: 5
+over filtering
+over filtering
+partition over : 13.5

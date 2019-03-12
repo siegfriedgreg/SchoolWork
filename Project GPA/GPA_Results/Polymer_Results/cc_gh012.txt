@@ -1,0 +1,14 @@
+cores_per_node: 14
+average is 9041332
+start create 2 threads
+totalInSize is 9078918
+fake deg: 6
+totalInSize is 9003747
+fake deg: 475
+all created
+M is 2 and first ele is 1
+M is 5 and first ele is 9041090
+my first sparse
+time used 0.059026
+Finished in 6 iterations.
+Components : 0.118

@@ -1,0 +1,17 @@
+average is 9041332
+start create 2 threads
+totalInSize is 9078918
+fake deg: 6
+totalInSize is 9003747
+fake deg: 475
+average is 1808266
+average is 1808266
+all created
+Dense: 1 2
+edge map time: 0.042555
+Dense: 1 1
+edge map time: 0.028285
+Vertices visited = 2
+Finished in 2 iterations
+self counted time: 0.071026
+BFS : 0.0712

@@ -1,0 +1,16 @@
+average is 9041097
+0: degree sum: 9041079
+1: degree sum: 9041116
+start create 2 threads
+average is: 9041098.000000
+0 : degree count: 9041079
+1 : degree count: 9041116
+totalInSize is 9005985
+fake deg: 5
+totalInSize is 9076210
+fake deg: 6
+over filtering
+over filtering
+partition over : 1.17
+all created
+PageRank : 0.409

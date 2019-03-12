@@ -1,0 +1,18 @@
+0 shard: 318796810
+1 shard: 318794559
+start create 2 threads
+totalSize of 0: 318796810 637593620
+fake deg: 12
+totalSize of 19646464: 318794559 637589118
+fake deg: 0
+over filtering
+over filtering
+started
+all created
+Round 1: num of non zeros: 1	Sparse
+M is 1 and first ele is 230
+0x7ff8b8009e90
+iteration time: 0.044958
+Vertices visited = 1
+Finished in 1 iterations
+BellmanFord : 0.0461
