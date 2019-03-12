@@ -1,0 +1,132 @@
++ echo Hygraph
+Hygraph
++ echo 'BFS test'
+BFS test
++ ./main ../../maps/gh001.el bfs
+/var/slurmd/job4234796/slurm_script: line 13:  3879 Aborted                 ./main ../../maps/gh001.el bfs &>bfs_gh001.txt
++ ./main ../../maps/gh002.el bfs
+/var/slurmd/job4234796/slurm_script: line 14:  4341 Aborted                 ./main ../../maps/gh002.el bfs &>bfs_gh002.txt
++ ./main ../../maps/gh004.el bfs
+/var/slurmd/job4234796/slurm_script: line 15:  4413 Aborted                 ./main ../../maps/gh004.el bfs &>bfs_gh004.txt
++ ./main ../../maps/gh005.el bfs
+/var/slurmd/job4234796/slurm_script: line 16:  4613 Aborted                 ./main ../../maps/gh005.el bfs &>bfs_gh005.txt
++ ./main ../../maps/gh006.el bfs
+/var/slurmd/job4234796/slurm_script: line 17:  5202 Aborted                 ./main ../../maps/gh006.el bfs &>bfs_gh006.txt
++ ./main ../../maps/gh007.el bfs
+/var/slurmd/job4234796/slurm_script: line 18:  5262 Aborted                 ./main ../../maps/gh007.el bfs &>bfs_gh007.txt
++ ./main ../../maps/gh008.el bfs
+/var/slurmd/job4234796/slurm_script: line 19:  5396 Aborted                 ./main ../../maps/gh008.el bfs &>bfs_gh008.txt
++ ./main ../../maps/gh009.el bfs
+/var/slurmd/job4234796/slurm_script: line 20:  5459 Aborted                 ./main ../../maps/gh009.el bfs &>bfs_gh009.txt
++ ./main ../../maps/gh010.el bfs
+/var/slurmd/job4234796/slurm_script: line 21:  5521 Aborted                 ./main ../../maps/gh010.el bfs &>bfs_gh010.txt
++ ./main ../../maps/gh011.el bfs
+/var/slurmd/job4234796/slurm_script: line 22:  5582 Aborted                 ./main ../../maps/gh011.el bfs &>bfs_gh011.txt
++ ./main ../../maps/gh012.el bfs
+/var/slurmd/job4234796/slurm_script: line 23:  5640 Aborted                 ./main ../../maps/gh012.el bfs &>bfs_gh012.txt
++ ./main ../../maps/gh013.el bfs
+/var/slurmd/job4234796/slurm_script: line 24:  5700 Aborted                 ./main ../../maps/gh013.el bfs &>bfs_gh013.txt
++ ./main ../../maps/gh014.el bfs
+/var/slurmd/job4234796/slurm_script: line 25:  5758 Aborted                 ./main ../../maps/gh014.el bfs &>bfs_gh014.txt
++ ./main ../../maps/gh015.el bfs
+/var/slurmd/job4234796/slurm_script: line 26:  5960 Aborted                 ./main ../../maps/gh015.el bfs &>bfs_gh015.txt
++ ./main ../../maps/gh016.el bfs
+/var/slurmd/job4234796/slurm_script: line 27:  6478 Aborted                 ./main ../../maps/gh016.el bfs &>bfs_gh016.txt
++ echo 'CC test'
+CC test
++ ./main ../../maps/gh001.el cc
+/var/slurmd/job4234796/slurm_script: line 30:  6998 Aborted                 ./main ../../maps/gh001.el cc &>cc_gh001.txt
++ ./main ../../maps/gh002.el cc
+/var/slurmd/job4234796/slurm_script: line 31:  7103 Aborted                 ./main ../../maps/gh002.el cc &>cc_gh002.txt
++ ./main ../../maps/gh004.el cc
+/var/slurmd/job4234796/slurm_script: line 32:  7408 Aborted                 ./main ../../maps/gh004.el cc &>cc_gh004.txt
++ ./main ../../maps/gh005.el cc
+/var/slurmd/job4234796/slurm_script: line 33:  7783 Aborted                 ./main ../../maps/gh005.el cc &>cc_gh005.txt
++ ./main ../../maps/gh006.el cc
+/var/slurmd/job4234796/slurm_script: line 34:  7918 Aborted                 ./main ../../maps/gh006.el cc &>cc_gh006.txt
++ ./main ../../maps/gh007.el cc
+/var/slurmd/job4234796/slurm_script: line 35:  7978 Aborted                 ./main ../../maps/gh007.el cc &>cc_gh007.txt
++ ./main ../../maps/gh008.el cc
+/var/slurmd/job4234796/slurm_script: line 36:  8100 Aborted                 ./main ../../maps/gh008.el cc &>cc_gh008.txt
++ ./main ../../maps/gh009.el cc
+/var/slurmd/job4234796/slurm_script: line 37:  8162 Aborted                 ./main ../../maps/gh009.el cc &>cc_gh009.txt
++ ./main ../../maps/gh010.el cc
+/var/slurmd/job4234796/slurm_script: line 38:  8679 Aborted                 ./main ../../maps/gh010.el cc &>cc_gh010.txt
++ ./main ../../maps/gh011.el cc
+/var/slurmd/job4234796/slurm_script: line 39:  8740 Aborted                 ./main ../../maps/gh011.el cc &>cc_gh011.txt
++ ./main ../../maps/gh012.el cc
+/var/slurmd/job4234796/slurm_script: line 40:  8799 Aborted                 ./main ../../maps/gh012.el cc &>cc_gh012.txt
++ ./main ../../maps/gh013.el cc
+/var/slurmd/job4234796/slurm_script: line 41:  8858 Aborted                 ./main ../../maps/gh013.el cc &>cc_gh013.txt
++ ./main ../../maps/gh014.el cc
+/var/slurmd/job4234796/slurm_script: line 42:  9050 Aborted                 ./main ../../maps/gh014.el cc &>cc_gh014.txt
++ ./main ../../maps/gh015.el cc
+/var/slurmd/job4234796/slurm_script: line 43:  9110 Aborted                 ./main ../../maps/gh015.el cc &>cc_gh015.txt
++ ./main ../../maps/gh016.el cc
+/var/slurmd/job4234796/slurm_script: line 44:  9185 Aborted                 ./main ../../maps/gh016.el cc &>cc_gh016.txt
++ echo 'PR test'
+PR test
++ ./main ../../maps/gh001.el pr
+/var/slurmd/job4234796/slurm_script: line 47:  9243 Aborted                 ./main ../../maps/gh001.el pr &>pr_gh001.txt
++ ./main ../../maps/gh002.el pr
+/var/slurmd/job4234796/slurm_script: line 48:  9367 Aborted                 ./main ../../maps/gh002.el pr &>pr_gh002.txt
++ ./main ../../maps/gh004.el pr
+/var/slurmd/job4234796/slurm_script: line 49:  9428 Aborted                 ./main ../../maps/gh004.el pr &>pr_gh004.txt
++ ./main ../../maps/gh005.el pr
+/var/slurmd/job4234796/slurm_script: line 50: 10566 Aborted                 ./main ../../maps/gh005.el pr &>pr_gh005.txt
++ ./main ../../maps/gh006.el pr
+/var/slurmd/job4234796/slurm_script: line 51: 10674 Aborted                 ./main ../../maps/gh006.el pr &>pr_gh006.txt
++ ./main ../../maps/gh007.el pr
+/var/slurmd/job4234796/slurm_script: line 52: 11082 Aborted                 ./main ../../maps/gh007.el pr &>pr_gh007.txt
++ ./main ../../maps/gh008.el pr
+/var/slurmd/job4234796/slurm_script: line 53: 11315 Aborted                 ./main ../../maps/gh008.el pr &>pr_gh008.txt
++ ./main ../../maps/gh009.el pr
+/var/slurmd/job4234796/slurm_script: line 54: 11374 Aborted                 ./main ../../maps/gh009.el pr &>pr_gh009.txt
++ ./main ../../maps/gh010.el pr
+/var/slurmd/job4234796/slurm_script: line 55: 11435 Aborted                 ./main ../../maps/gh010.el pr &>pr_gh010.txt
++ ./main ../../maps/gh011.el pr
+/var/slurmd/job4234796/slurm_script: line 56: 11495 Aborted                 ./main ../../maps/gh011.el pr &>pr_gh011.txt
++ ./main ../../maps/gh012.el pr
+/var/slurmd/job4234796/slurm_script: line 57: 11555 Aborted                 ./main ../../maps/gh012.el pr &>pr_gh012.txt
++ ./main ../../maps/gh013.el pr
+/var/slurmd/job4234796/slurm_script: line 58: 11615 Aborted                 ./main ../../maps/gh013.el pr &>pr_gh013.txt
++ ./main ../../maps/gh014.el pr
+/var/slurmd/job4234796/slurm_script: line 59: 11675 Aborted                 ./main ../../maps/gh014.el pr &>pr_gh014.txt
++ ./main ../../maps/gh015.el pr
+/var/slurmd/job4234796/slurm_script: line 60: 11732 Aborted                 ./main ../../maps/gh015.el pr &>pr_gh015.txt
++ ./main ../../maps/gh016.el pr
+/var/slurmd/job4234796/slurm_script: line 61: 11793 Aborted                 ./main ../../maps/gh016.el pr &>pr_gh016.txt
++ echo 'SSSP test'
+SSSP test
++ ./main ../../maps/gh001.wel sssp
+/var/slurmd/job4234796/slurm_script: line 64: 11904 Aborted                 ./main ../../maps/gh001.wel sssp &>sssp_gh001.txt
++ ./main ../../maps/gh002.wel sssp
+/var/slurmd/job4234796/slurm_script: line 65: 11976 Aborted                 ./main ../../maps/gh002.wel sssp &>sssp_gh002.txt
++ ./main ../../maps/gh004.wel sssp
+/var/slurmd/job4234796/slurm_script: line 66: 12049 Aborted                 ./main ../../maps/gh004.wel sssp &>sssp_gh004.txt
++ ./main ../../maps/gh005.wel sssp
+/var/slurmd/job4234796/slurm_script: line 67: 12723 Aborted                 ./main ../../maps/gh005.wel sssp &>sssp_gh005.txt
++ ./main ../../maps/gh006.wel sssp
+/var/slurmd/job4234796/slurm_script: line 68: 13958 Aborted                 ./main ../../maps/gh006.wel sssp &>sssp_gh006.txt
++ ./main ../../maps/gh007.wel sssp
+/var/slurmd/job4234796/slurm_script: line 69: 14299 Aborted                 ./main ../../maps/gh007.wel sssp &>sssp_gh007.txt
++ ./main ../../maps/gh008.wel sssp
+/var/slurmd/job4234796/slurm_script: line 70: 14647 Aborted                 ./main ../../maps/gh008.wel sssp &>sssp_gh008.txt
++ ./main ../../maps/gh009.wel sssp
+/var/slurmd/job4234796/slurm_script: line 71: 14707 Aborted                 ./main ../../maps/gh009.wel sssp &>sssp_gh009.txt
++ ./main ../../maps/gh010.wel sssp
+/var/slurmd/job4234796/slurm_script: line 72: 14770 Aborted                 ./main ../../maps/gh010.wel sssp &>sssp_gh010.txt
++ ./main ../../maps/gh011.wel sssp
+/var/slurmd/job4234796/slurm_script: line 73: 14833 Aborted                 ./main ../../maps/gh011.wel sssp &>sssp_gh011.txt
++ ./main ../../maps/gh012.wel sssp
+/var/slurmd/job4234796/slurm_script: line 74: 14893 Aborted                 ./main ../../maps/gh012.wel sssp &>sssp_gh012.txt
++ ./main ../../maps/gh013.wel sssp
+/var/slurmd/job4234796/slurm_script: line 75: 15001 Aborted                 ./main ../../maps/gh013.wel sssp &>sssp_gh013.txt
++ ./main ../../maps/gh014.wel sssp
+/var/slurmd/job4234796/slurm_script: line 76: 15069 Aborted                 ./main ../../maps/gh014.wel sssp &>sssp_gh014.txt
++ ./main ../../maps/gh015.wel sssp
+/var/slurmd/job4234796/slurm_script: line 77: 15129 Aborted                 ./main ../../maps/gh015.wel sssp &>sssp_gh015.txt
++ ./main ../../maps/gh016.wel sssp
+/var/slurmd/job4234796/slurm_script: line 78: 15194 Aborted                 ./main ../../maps/gh016.wel sssp &>sssp_gh016.txt
++ wait
++ exit

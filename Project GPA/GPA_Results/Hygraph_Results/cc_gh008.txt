@@ -1,0 +1,49 @@
+[   0.00000] reading from file: ../../maps/gh008.el
+[   0.00160] reading graph from file '../../maps/gh008.el'
+[   0.36595] read 1000000 lines (2.68%)
+[   0.80451] read 2000000 lines (5.46%)
+[   1.34793] read 3000000 lines (8.44%)
+[   1.72041] read 4000000 lines (11.48%)
+[   2.50440] read 5000000 lines (14.51%)
+[   2.86670] read 6000000 lines (17.54%)
+[   3.26218] read 7000000 lines (20.61%)
+[   3.64543] read 8000000 lines (23.67%)
+[   4.05410] read 9000000 lines (26.71%)
+[   5.21347] read 10000000 lines (29.75%)
+[   5.49183] read 11000000 lines (32.79%)
+[   5.75244] read 12000000 lines (35.84%)
+[   6.10792] read 13000000 lines (38.91%)
+[   6.51159] read 14000000 lines (42.00%)
+[   6.91429] read 15000000 lines (45.10%)
+[   7.18528] read 16000000 lines (48.15%)
+[   7.45491] read 17000000 lines (51.17%)
+[   7.67046] read 18000000 lines (54.20%)
+[   7.90453] read 19000000 lines (57.28%)
+[   8.17830] read 20000000 lines (60.62%)
+[   8.42770] read 21000000 lines (63.96%)
+[   9.89783] read 22000000 lines (67.30%)
+[  10.14510] read 23000000 lines (70.64%)
+[  10.38087] read 24000000 lines (73.98%)
+[  10.62041] read 25000000 lines (77.32%)
+[  10.84931] read 26000000 lines (80.66%)
+[  11.12099] read 27000000 lines (84.00%)
+[  11.37338] read 28000000 lines (87.34%)
+[  11.70135] read 29000000 lines (90.68%)
+[  12.05683] read 30000000 lines (94.02%)
+[  12.41104] read 31000000 lines (97.36%)
+[  12.69972] done reading file, found 21198119 vertices and 31790179 edges
+[  13.68478] executing algorithm: cc
+[  15.70266] removed 0 edges
+[  35.77913] initializing block-format graph, found 21198119 vertices, 63580358 edges, 2588 blocks
+[  35.77925] copying vertex values
+[  36.15136] copying edges
+[  36.43678] sorting edges...
+[  39.76959] finished sorting edges
+[  39.76967] create blocks...
+[  41.22609] found device Tesla K80 (compute capability 3.7, 13 SMs, 11.17 GB)
+[  41.22619] initializing device
+[  41.22622] allocating device memory
+[  41.80122] finished initialization
+[  41.80904] copying vertices state to device
+terminate called after throwing an instance of 'hygraph::cuda_exception'
+  what():  kernel_process_block: too many resources requested for launch

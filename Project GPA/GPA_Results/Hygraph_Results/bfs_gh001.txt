@@ -1,0 +1,340 @@
+[   0.00000] reading from file: ../../maps/gh001.el
+[   0.12014] reading graph from file '../../maps/gh001.el'
+[   0.34311] read 1000000 lines (0.33%)
+[   0.51382] read 2000000 lines (0.70%)
+[   0.64783] read 3000000 lines (1.07%)
+[   0.75958] read 4000000 lines (1.44%)
+[   0.88926] read 5000000 lines (1.81%)
+[   1.04778] read 6000000 lines (2.18%)
+[   1.16322] read 7000000 lines (2.56%)
+[   1.29559] read 8000000 lines (2.98%)
+[   1.44443] read 9000000 lines (3.40%)
+[   1.55797] read 10000000 lines (3.82%)
+[   1.68080] read 11000000 lines (4.24%)
+[   1.87803] read 12000000 lines (4.65%)
+[   1.98839] read 13000000 lines (5.07%)
+[   2.09603] read 14000000 lines (5.49%)
+[   2.21801] read 15000000 lines (5.91%)
+[   2.35496] read 16000000 lines (6.32%)
+[   2.52479] read 17000000 lines (6.74%)
+[   2.63737] read 18000000 lines (7.16%)
+[   2.74279] read 19000000 lines (7.57%)
+[   2.84814] read 20000000 lines (7.99%)
+[   2.96104] read 21000000 lines (8.41%)
+[   3.07727] read 22000000 lines (8.82%)
+[   3.19613] read 23000000 lines (9.24%)
+[   3.32365] read 24000000 lines (9.66%)
+[   3.44116] read 25000000 lines (10.08%)
+[   3.57462] read 26000000 lines (10.49%)
+[   3.85442] read 27000000 lines (10.91%)
+[   3.96495] read 28000000 lines (11.33%)
+[   4.07561] read 29000000 lines (11.75%)
+[   4.19590] read 30000000 lines (12.16%)
+[   4.30385] read 31000000 lines (12.58%)
+[   4.42208] read 32000000 lines (13.00%)
+[   4.52984] read 33000000 lines (13.41%)
+[   4.74857] read 34000000 lines (13.83%)
+[   4.86431] read 35000000 lines (14.25%)
+[   4.99094] read 36000000 lines (14.66%)
+[   5.11574] read 37000000 lines (15.08%)
+[   5.23880] read 38000000 lines (15.50%)
+[   5.35673] read 39000000 lines (15.92%)
+[   5.46824] read 40000000 lines (16.33%)
+[   5.58248] read 41000000 lines (16.75%)
+[   5.69610] read 42000000 lines (17.17%)
+[   5.80345] read 43000000 lines (17.58%)
+[   5.91957] read 44000000 lines (18.00%)
+[   6.03749] read 45000000 lines (18.42%)
+[   6.14631] read 46000000 lines (18.84%)
+[   6.27178] read 47000000 lines (19.25%)
+[   6.38917] read 48000000 lines (19.67%)
+[   6.49792] read 49000000 lines (20.09%)
+[   6.59777] read 50000000 lines (20.50%)
+[   6.72733] read 51000000 lines (20.92%)
+[   6.84795] read 52000000 lines (21.34%)
+[   6.96056] read 53000000 lines (21.75%)
+[   7.09644] read 54000000 lines (22.17%)
+[   7.22234] read 55000000 lines (22.59%)
+[   7.38183] read 56000000 lines (23.01%)
+[   7.82419] read 57000000 lines (23.42%)
+[   7.93302] read 58000000 lines (23.84%)
+[   8.04904] read 59000000 lines (24.26%)
+[   8.15208] read 60000000 lines (24.67%)
+[   8.26571] read 61000000 lines (25.09%)
+[   8.36565] read 62000000 lines (25.51%)
+[   8.46948] read 63000000 lines (25.92%)
+[   8.58323] read 64000000 lines (26.34%)
+[   8.68891] read 65000000 lines (26.76%)
+[   8.79920] read 66000000 lines (27.17%)
+[   8.91341] read 67000000 lines (27.59%)
+[   9.25534] read 68000000 lines (28.01%)
+[   9.37419] read 69000000 lines (28.42%)
+[   9.48718] read 70000000 lines (28.84%)
+[   9.59863] read 71000000 lines (29.26%)
+[   9.71310] read 72000000 lines (29.68%)
+[   9.82314] read 73000000 lines (30.10%)
+[   9.93532] read 74000000 lines (30.57%)
+[  10.05165] read 75000000 lines (31.04%)
+[  10.16850] read 76000000 lines (31.50%)
+[  10.29416] read 77000000 lines (31.97%)
+[  10.41952] read 78000000 lines (32.44%)
+[  10.53333] read 79000000 lines (32.91%)
+[  10.64946] read 80000000 lines (33.37%)
+[  10.76655] read 81000000 lines (33.84%)
+[  10.87943] read 82000000 lines (34.31%)
+[  10.99130] read 83000000 lines (34.78%)
+[  11.10733] read 84000000 lines (35.24%)
+[  11.22710] read 85000000 lines (35.71%)
+[  11.35168] read 86000000 lines (36.18%)
+[  11.46756] read 87000000 lines (36.65%)
+[  11.58248] read 88000000 lines (37.11%)
+[  11.70648] read 89000000 lines (37.58%)
+[  11.82473] read 90000000 lines (38.05%)
+[  11.94391] read 91000000 lines (38.52%)
+[  12.06562] read 92000000 lines (38.98%)
+[  12.18270] read 93000000 lines (39.45%)
+[  12.30955] read 94000000 lines (39.92%)
+[  12.42550] read 95000000 lines (40.39%)
+[  12.54195] read 96000000 lines (40.86%)
+[  12.66395] read 97000000 lines (41.32%)
+[  12.77856] read 98000000 lines (41.79%)
+[  12.89955] read 99000000 lines (42.26%)
+[  13.02648] read 100000000 lines (42.73%)
+[  13.14619] read 101000000 lines (43.19%)
+[  13.28051] read 102000000 lines (43.66%)
+[  13.41537] read 103000000 lines (44.13%)
+[  13.52973] read 104000000 lines (44.60%)
+[  13.65117] read 105000000 lines (45.06%)
+[  13.76544] read 106000000 lines (45.53%)
+[  13.87688] read 107000000 lines (46.00%)
+[  13.99931] read 108000000 lines (46.47%)
+[  14.11984] read 109000000 lines (46.93%)
+[  14.24370] read 110000000 lines (47.40%)
+[  14.39979] read 111000000 lines (47.87%)
+[  14.52142] read 112000000 lines (48.34%)
+[  14.63031] read 113000000 lines (48.80%)
+[  14.74851] read 114000000 lines (49.27%)
+[  14.86660] read 115000000 lines (49.74%)
+[  14.98451] read 116000000 lines (50.21%)
+[  15.09146] read 117000000 lines (50.68%)
+[  15.20520] read 118000000 lines (51.14%)
+[  15.33191] read 119000000 lines (51.61%)
+[  16.15790] read 120000000 lines (52.08%)
+[  16.28409] read 121000000 lines (52.55%)
+[  16.39623] read 122000000 lines (53.01%)
+[  16.51296] read 123000000 lines (53.48%)
+[  16.62950] read 124000000 lines (53.95%)
+[  16.74461] read 125000000 lines (54.42%)
+[  16.85857] read 126000000 lines (54.88%)
+[  16.97278] read 127000000 lines (55.35%)
+[  17.08465] read 128000000 lines (55.82%)
+[  17.20159] read 129000000 lines (56.29%)
+[  17.32749] read 130000000 lines (56.75%)
+[  17.44678] read 131000000 lines (57.22%)
+[  17.55944] read 132000000 lines (57.69%)
+[  17.66963] read 133000000 lines (58.16%)
+[  17.78697] read 134000000 lines (58.62%)
+[  18.36532] read 135000000 lines (59.09%)
+[  18.47568] read 136000000 lines (59.56%)
+[  18.58640] read 137000000 lines (60.03%)
+[  18.70263] read 138000000 lines (60.49%)
+[  18.81557] read 139000000 lines (60.96%)
+[  18.92917] read 140000000 lines (61.43%)
+[  19.04381] read 141000000 lines (61.90%)
+[  19.15662] read 142000000 lines (62.36%)
+[  19.28003] read 143000000 lines (62.83%)
+[  19.40698] read 144000000 lines (63.30%)
+[  19.51755] read 145000000 lines (63.77%)
+[  19.63663] read 146000000 lines (64.23%)
+[  19.75630] read 147000000 lines (64.70%)
+[  19.87111] read 148000000 lines (65.17%)
+[  19.98384] read 149000000 lines (65.64%)
+[  20.09890] read 150000000 lines (66.11%)
+[  20.21322] read 151000000 lines (66.57%)
+[  20.32518] read 152000000 lines (67.04%)
+[  20.43819] read 153000000 lines (67.51%)
+[  20.54762] read 154000000 lines (67.98%)
+[  20.65706] read 155000000 lines (68.44%)
+[  20.76853] read 156000000 lines (68.91%)
+[  20.87929] read 157000000 lines (69.38%)
+[  20.98509] read 158000000 lines (69.85%)
+[  21.09159] read 159000000 lines (70.31%)
+[  21.21446] read 160000000 lines (70.78%)
+[  21.33486] read 161000000 lines (71.25%)
+[  21.45254] read 162000000 lines (71.72%)
+[  21.56081] read 163000000 lines (72.18%)
+[  21.67745] read 164000000 lines (72.65%)
+[  21.78748] read 165000000 lines (73.12%)
+[  21.90193] read 166000000 lines (73.59%)
+[  22.01225] read 167000000 lines (74.05%)
+[  22.12636] read 168000000 lines (74.52%)
+[  22.24391] read 169000000 lines (74.99%)
+[  22.35426] read 170000000 lines (75.46%)
+[  22.47407] read 171000000 lines (75.92%)
+[  22.58888] read 172000000 lines (76.39%)
+[  22.70322] read 173000000 lines (76.86%)
+[  22.81618] read 174000000 lines (77.33%)
+[  22.92805] read 175000000 lines (77.79%)
+[  23.03438] read 176000000 lines (78.26%)
+[  23.15168] read 177000000 lines (78.73%)
+[  23.27325] read 178000000 lines (79.20%)
+[  23.39075] read 179000000 lines (79.67%)
+[  23.50577] read 180000000 lines (80.13%)
+[  23.62095] read 181000000 lines (80.60%)
+[  23.73189] read 182000000 lines (81.07%)
+[  23.84409] read 183000000 lines (81.54%)
+[  23.95785] read 184000000 lines (82.00%)
+[  24.07646] read 185000000 lines (82.47%)
+[  24.18928] read 186000000 lines (82.94%)
+[  24.31673] read 187000000 lines (83.41%)
+[  24.42556] read 188000000 lines (83.87%)
+[  24.54082] read 189000000 lines (84.34%)
+[  24.65602] read 190000000 lines (84.81%)
+[  24.76977] read 191000000 lines (85.28%)
+[  24.88567] read 192000000 lines (85.74%)
+[  25.00280] read 193000000 lines (86.21%)
+[  25.12049] read 194000000 lines (86.68%)
+[  25.23877] read 195000000 lines (87.15%)
+[  25.35799] read 196000000 lines (87.61%)
+[  25.46434] read 197000000 lines (88.08%)
+[  25.58023] read 198000000 lines (88.55%)
+[  25.69322] read 199000000 lines (89.02%)
+[  25.80663] read 200000000 lines (89.48%)
+[  25.92393] read 201000000 lines (89.95%)
+[  26.02971] read 202000000 lines (90.42%)
+[  26.17324] read 203000000 lines (90.89%)
+[  26.30766] read 204000000 lines (91.36%)
+[  26.42545] read 205000000 lines (91.82%)
+[  26.54607] read 206000000 lines (92.29%)
+[  26.65789] read 207000000 lines (92.76%)
+[  26.76589] read 208000000 lines (93.23%)
+[  26.87912] read 209000000 lines (93.69%)
+[  26.99038] read 210000000 lines (94.16%)
+[  27.10514] read 211000000 lines (94.63%)
+[  27.22301] read 212000000 lines (95.10%)
+[  27.34284] read 213000000 lines (95.56%)
+[  27.45850] read 214000000 lines (96.03%)
+[  27.57395] read 215000000 lines (96.50%)
+[  27.68304] read 216000000 lines (96.97%)
+[  27.78890] read 217000000 lines (97.43%)
+[  27.89901] read 218000000 lines (97.90%)
+[  28.01049] read 219000000 lines (98.37%)
+[  28.12730] read 220000000 lines (98.84%)
+[  28.25132] read 221000000 lines (99.30%)
+[  28.38301] read 222000000 lines (99.77%)
+[  28.44134] done reading file, found 32458525 vertices and 222486112 edges
+[  29.27399] executing algorithm: bfs
+[  30.63891] attempt 20: root 3009236 covers 0.00%
+[  30.63916] attempt 3: root 11962447 covers 0.00%
+[  30.91467] attempt 0: root 2575842 covers 0.00%
+[  30.91478] attempt 2: root 19070508 covers 0.00%
+[  30.95760] attempt 28: root 2911417 covers 0.00%
+[  31.19844] attempt 26: root 2277510 covers 0.00%
+[  31.19854] attempt 7: root 4364090 covers 0.00%
+[  31.19863] attempt 14: root 5114736 covers 0.00%
+[  31.19892] attempt 5: root 18988087 covers 0.00%
+[  31.48068] attempt 11: root 5797836 covers 0.00%
+[  31.48078] attempt 13: root 19690502 covers 0.01%
+[  31.48084] attempt 4: root 12263199 covers 0.01%
+[  31.48092] attempt 1: root 6654604 covers 0.00%
+[  31.51726] attempt 35: root 22308317 covers 0.00%
+[  31.79910] attempt 15: root 6455448 covers 0.00%
+[  31.80889] attempt 38: root 11463036 covers 0.00%
+[  31.80898] attempt 40: root 27586379 covers 0.00%
+[  31.89178] attempt 32: root 17293022 covers 0.00%
+[  32.07460] attempt 21: root 21134521 covers 0.01%
+[  32.07473] attempt 34: root 5875019 covers 0.00%
+[  32.13284] attempt 42: root 15562771 covers 0.00%
+[  32.14348] attempt 43: root 31950469 covers 0.00%
+[  32.34617] attempt 23: root 20002426 covers 0.01%
+[  32.42182] attempt 47: root 26082824 covers 0.00%
+[  32.48302] attempt 31: root 16760927 covers 0.01%
+[  32.64033] attempt 9: root 17099880 covers 0.00%
+[  32.77552] attempt 51: root 22510901 covers 0.00%
+[  32.83181] attempt 52: root 23273791 covers 0.00%
+[  32.92347] attempt 36: root 21288593 covers 0.00%
+[  32.99251] attempt 53: root 28552405 covers 0.00%
+[  33.22732] attempt 29: root 14283785 covers 0.04%
+[  33.27925] attempt 56: root 7972762 covers 0.00%
+[  33.35271] attempt 57: root 10540645 covers 0.00%
+[  33.50123] attempt 55: root 2695798 covers 0.00%
+[  33.52399] attempt 30: root 30382604 covers 0.00%
+[  33.63760] attempt 59: root 5663181 covers 0.00%
+[  33.99530] attempt 63: root 9658927 covers 0.00%
+[  34.12123] attempt 45: root 10352462 covers 0.00%
+[  34.31677] attempt 46: root 14273373 covers 0.00%
+[  34.34281] attempt 48: root 19964215 covers 0.00%
+[  34.78884] attempt 61: root 7075325 covers 0.00%
+[  34.93759] attempt 41: root 30451123 covers 0.01%
+[  34.98036] attempt 60: root 24824430 covers 0.00%
+[  35.16985] attempt 58: root 9151246 covers 0.00%
+[  35.48398] attempt 68: root 29529988 covers 0.00%
+[  35.48548] attempt 62: root 22424109 covers 0.00%
+[  35.63628] attempt 66: root 26746246 covers 0.00%
+[  35.64064] attempt 70: root 5567749 covers 0.00%
+[  35.83879] attempt 72: root 30980882 covers 0.00%
+[  35.94236] attempt 69: root 5750757 covers 0.00%
+[  36.30525] attempt 77: root 27981164 covers 0.00%
+[  36.55589] attempt 49: root 26235820 covers 0.02%
+[  36.73068] attempt 16: root 11880532 covers 7.00%
+[  36.86565] attempt 67: root 9695479 covers 0.01%
+[  36.91129] attempt 79: root 13767675 covers 0.00%
+[  37.02858] attempt 24: root 26793615 covers 17.86%
+[  37.02870] attempt 22: root 10688 covers 17.67%
+[  37.02972] attempt 8: root 31388734 covers 15.68%
+[  37.12981] attempt 71: root 19436845 covers 0.00%
+[  37.17857] attempt 18: root 1922490 covers 18.58%
+[  37.18555] attempt 19: root 26834242 covers 18.41%
+[  37.25623] attempt 17: root 19054662 covers 18.81%
+[  37.25637] attempt 6: root 2258968 covers 19.21%
+[  37.28561] attempt 75: root 22682692 covers 0.00%
+[  37.38232] attempt 84: root 27935438 covers 0.00%
+[  37.41575] attempt 10: root 14832751 covers 19.63%
+[  37.41603] attempt 12: root 26308002 covers 19.42%
+[  37.44017] attempt 25: root 2546686 covers 19.43%
+[  37.49146] attempt 86: root 4827528 covers 0.00%
+[  37.60262] attempt 89: root 13978774 covers 0.00%
+[  37.60310] attempt 90: root 9112857 covers 0.00%
+[  37.64661] attempt 91: root 30671110 covers 0.00%
+[  37.64739] attempt 27: root 10236293 covers 20.03%
+[  37.73795] attempt 92: root 15833101 covers 0.00%
+[  37.77139] attempt 93: root 26315968 covers 0.00%
+[  37.79759] attempt 95: root 4239987 covers 0.00%
+[  37.84908] attempt 88: root 5846679 covers 0.00%
+[  37.89107] attempt 37: root 11672856 covers 3.49%
+[  37.94596] attempt 33: root 19011083 covers 16.82%
+[  37.99180] attempt 99: root 8786039 covers 0.00%
+[  38.00062] attempt 83: root 7352728 covers 0.00%
+[  38.05116] attempt 76: root 26261984 covers 0.00%
+[  38.06864] attempt 94: root 2650514 covers 0.00%
+[  38.43160] attempt 81: root 31841558 covers 0.01%
+[  38.69241] attempt 44: root 24160334 covers 16.82%
+[  38.71480] attempt 96: root 11714576 covers 0.00%
+[  38.71491] attempt 87: root 3449676 covers 0.00%
+[  38.71500] attempt 74: root 18928789 covers 0.00%
+[  38.72424] attempt 50: root 25976563 covers 4.47%
+[  38.74888] attempt 39: root 1093267 covers 19.71%
+[  39.11045] attempt 97: root 29396761 covers 0.01%
+[  39.61494] attempt 54: root 29165506 covers 17.26%
+[  40.46443] attempt 98: root 8714469 covers 0.00%
+[  40.67959] attempt 65: root 23078130 covers 16.77%
+[  40.87674] attempt 64: root 20865411 covers 19.51%
+[  41.53279] attempt 80: root 16537462 covers 0.00%
+[  42.10566] attempt 73: root 21130520 covers 19.00%
+[  42.63788] attempt 78: root 11085993 covers 19.05%
+[  43.12440] attempt 85: root 27764559 covers 17.99%
+[  43.17987] attempt 82: root 3820051 covers 19.40%
+[  43.18009] root 10236293 covers 20.03% of the vertices
+[  77.12308] initializing block-format graph, found 32458525 vertices, 222486112 edges, 3963 blocks
+[  77.12318] copying vertex values
+[  77.50616] copying edges
+[  78.49065] sorting edges...
+[  90.28492] finished sorting edges
+[  90.28502] create blocks...
+[  95.43657] found device Tesla K80 (compute capability 3.7, 13 SMs, 11.17 GB)
+[  95.43665] initializing device
+[  95.43669] allocating device memory
+[  97.11840] finished initialization
+[  97.13217] copying vertices state to device
+terminate called after throwing an instance of 'hygraph::cuda_exception'
+  what():  kernel_process_block: too many resources requested for launch

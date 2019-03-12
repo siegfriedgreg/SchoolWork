@@ -1,0 +1,74 @@
+[   0.00000] reading from file: ../../maps/gh006.el
+[   0.00145] reading graph from file '../../maps/gh006.el'
+[   0.23388] read 1000000 lines (1.45%)
+[   0.48131] read 2000000 lines (2.93%)
+[   0.76016] read 3000000 lines (4.47%)
+[   0.93089] read 4000000 lines (6.05%)
+[   1.08157] read 5000000 lines (7.63%)
+[   1.28202] read 6000000 lines (9.21%)
+[   1.53834] read 7000000 lines (10.83%)
+[   1.75408] read 8000000 lines (12.46%)
+[   2.09740] read 9000000 lines (14.08%)
+[   2.26419] read 10000000 lines (15.71%)
+[   2.40965] read 11000000 lines (17.33%)
+[   2.54630] read 12000000 lines (18.95%)
+[   2.73373] read 13000000 lines (20.58%)
+[   2.89226] read 14000000 lines (22.20%)
+[   3.04867] read 15000000 lines (23.83%)
+[   3.18133] read 16000000 lines (25.45%)
+[   3.36186] read 17000000 lines (27.08%)
+[   3.48001] read 18000000 lines (28.70%)
+[   3.65139] read 19000000 lines (30.33%)
+[   3.92596] read 20000000 lines (31.95%)
+[   4.36670] read 21000000 lines (33.58%)
+[   4.51449] read 22000000 lines (35.21%)
+[   4.66591] read 23000000 lines (36.84%)
+[   4.82922] read 24000000 lines (38.46%)
+[   5.00090] read 25000000 lines (40.23%)
+[   5.16315] read 26000000 lines (42.05%)
+[   5.32009] read 27000000 lines (43.88%)
+[   5.46879] read 28000000 lines (45.71%)
+[   5.59849] read 29000000 lines (47.54%)
+[   5.73105] read 30000000 lines (49.36%)
+[   5.91178] read 31000000 lines (51.19%)
+[   6.08433] read 32000000 lines (53.02%)
+[   6.25912] read 33000000 lines (54.85%)
+[   6.50981] read 34000000 lines (56.67%)
+[   6.64236] read 35000000 lines (58.50%)
+[   6.78023] read 36000000 lines (60.33%)
+[   6.94194] read 37000000 lines (62.16%)
+[   7.14376] read 38000000 lines (63.98%)
+[   7.32142] read 39000000 lines (65.81%)
+[   7.46388] read 40000000 lines (67.64%)
+[   7.59551] read 41000000 lines (69.47%)
+[   7.71491] read 42000000 lines (71.29%)
+[   8.42587] read 43000000 lines (73.12%)
+[   8.61352] read 44000000 lines (74.95%)
+[   8.79187] read 45000000 lines (76.78%)
+[   8.94562] read 46000000 lines (78.60%)
+[   9.08784] read 47000000 lines (80.43%)
+[   9.21213] read 48000000 lines (82.26%)
+[   9.38148] read 49000000 lines (84.09%)
+[   9.57050] read 50000000 lines (85.91%)
+[   9.74581] read 51000000 lines (87.74%)
+[   9.87652] read 52000000 lines (89.57%)
+[  10.01526] read 53000000 lines (91.40%)
+[  10.13817] read 54000000 lines (93.22%)
+[  10.28170] read 55000000 lines (95.05%)
+[  10.45375] read 56000000 lines (96.88%)
+[  10.56897] read 57000000 lines (98.71%)
+[  10.65106] done reading file, found 23947347 vertices and 57708624 edges
+[  11.05291] executing algorithm: pr
+[  33.97990] initializing block-format graph, found 23947347 vertices, 57708624 edges, 2924 blocks
+[  33.98045] copying vertex values
+[  34.34397] copying edges
+[  34.57991] sorting edges...
+[  37.63918] finished sorting edges
+[  37.63926] create blocks...
+[  38.93157] found device Tesla K80 (compute capability 3.7, 13 SMs, 11.17 GB)
+[  38.93165] initializing device
+[  38.93168] allocating device memory
+[  42.84635] finished initialization
+[  42.85525] copying vertices state to device
+terminate called after throwing an instance of 'hygraph::cuda_exception'
+  what():  kernel_process_block: too many resources requested for launch

@@ -1,0 +1,36 @@
+[   0.00000] reading from file: ../../maps/gh012.el
+[   0.01926] reading graph from file '../../maps/gh012.el'
+[   0.36429] read 1000000 lines (4.88%)
+[   0.62222] read 2000000 lines (9.84%)
+[   1.00307] read 3000000 lines (15.31%)
+[   1.23965] read 4000000 lines (20.80%)
+[   1.51216] read 5000000 lines (26.29%)
+[   2.05847] read 6000000 lines (31.79%)
+[   2.29932] read 7000000 lines (37.28%)
+[   2.53274] read 8000000 lines (42.77%)
+[   2.78185] read 9000000 lines (48.27%)
+[   3.01726] read 10000000 lines (53.77%)
+[   3.25151] read 11000000 lines (59.26%)
+[   3.52037] read 12000000 lines (64.77%)
+[   4.20647] read 13000000 lines (70.28%)
+[   4.41124] read 14000000 lines (75.79%)
+[   4.62373] read 15000000 lines (81.34%)
+[   4.86971] read 16000000 lines (87.17%)
+[   5.16710] read 17000000 lines (93.33%)
+[   5.37370] read 18000000 lines (99.49%)
+[   5.39692] done reading file, found 12057441 vertices and 18082179 edges
+[   5.74177] executing algorithm: cc
+[   6.47910] removed 0 edges
+[  17.16377] initializing block-format graph, found 12057441 vertices, 36164358 edges, 1472 blocks
+[  17.16389] copying vertex values
+[  17.49627] copying edges
+[  17.65846] sorting edges...
+[  19.50830] finished sorting edges
+[  19.50839] create blocks...
+[  20.31676] found device Tesla K80 (compute capability 3.7, 13 SMs, 11.17 GB)
+[  20.31686] initializing device
+[  20.31689] allocating device memory
+[  20.61296] finished initialization
+[  20.61777] copying vertices state to device
+terminate called after throwing an instance of 'hygraph::cuda_exception'
+  what():  kernel_process_block: too many resources requested for launch
