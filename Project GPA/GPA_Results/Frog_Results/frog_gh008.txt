@@ -1,0 +1,25 @@
+Reading File ... 1042.79 ms 
+Begin Experiments on Graph (V=21198119 E=31790179 File='../../maps/gh008.mtx.bin')
+Partitioning ... 2459.56 ms ... Get partitioins ... 560.29 ms
+	Time	Total	Tips
+	2.91	255.36	part_edge_loop	step=1
+Check Fail
+-------------------------------------------------------------------
+Partitioning ... 2222.76 msGet partitions  ... 536.85 ms
+	Time	Total	Tips
+	748.52	1419.69	pagerank_edge_loop	step=10
+First difference at 0 : 0.395437 & 0.000000
+
+-------------------------------------------------------------------
+Partitioning ... 2432.31 ms ... Get partitions ... 507.96 ms
+	Time	Total	Tips
+	5773.74	29524.85	part_cc_edge_loop	step=500
+Check Fail
+
+-------------------------------------------------------------------
+Partitioning ... 2412.48 ms ... Get partitions ... 514.68 ms
+	Time	Total	Tips
+	2.84	216.01	sssp_edge_part_loop	step=0
+Check Fail
+
+Done Experiments

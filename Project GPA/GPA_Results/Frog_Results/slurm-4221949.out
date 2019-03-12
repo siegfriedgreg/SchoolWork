@@ -1,0 +1,23 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'frog test'
+frog test
++ ./exp ../../maps/gh001.mtx.bin 1048576
++ ./exp ../../maps/gh002.mtx.bin 1048576
++ ./exp ../../maps/gh004.mtx.bin 1048576
++ ./exp ../../maps/gh005.mtx.bin 1048576
++ ./exp ../../maps/gh006.mtx.bin 1048576
++ ./exp ../../maps/gh007.mtx.bin 1048576
++ ./exp ../../maps/gh008.mtx.bin 1048576
++ ./exp ../../maps/gh009.mtx.bin 1048576
++ ./exp ../../maps/gh010.mtx.bin 1048576
++ ./exp ../../maps/gh011.mtx.bin 1048576
++ ./exp ../../maps/gh012.mtx.bin 1048576
++ ./exp ../../maps/gh013.mtx.bin 1048576
++ ./exp ../../maps/gh014.mtx.bin 1048576
++ ./exp ../../maps/gh015.mtx.bin 1048576
++ ./exp ../../maps/gh016.mtx.bin 1048576
++ wait
++ echo 'finished frog!'
+finished frog!
++ exit

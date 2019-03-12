@@ -1,0 +1,3 @@
+file:../../../../maps/gh006.totem	benchmark:PAGERANK	vertices:23947347	edges:57708624	partitioning:RANDOM	platform:HYBRID	alpha:50	repeat:1	gpu_count:1	thread_count:16	thread_sched:GUIDED	thread_bind:false	gpu_graph_mem:DEVICE	gpu_par_randomized:false	sorted:false	edge_sort_key:id	edge_order:asc	separate_singletons:false	lambda:0	time_init:2660.91	time_par:1103.75	rmt_vertex:77	rmt_edge:50	beta:32	pid0:50,50,38,25	pid1:50,50,38,25	
+total	exec	init	comp	comm	finalize	cpu_comp	gpu_comp	gpu_total_comp	scatter	gather	aggr	trv_edges	exec_rate
+432.36	306.16	5.90	256.51	49.64	8.54	71.87	256.51	256.51	0.00	10.95	82.51	288543120	0.9425

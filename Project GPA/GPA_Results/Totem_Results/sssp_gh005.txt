@@ -1,0 +1,3 @@
+file:../../../../maps/gh005.totem	benchmark:SSSP	vertices:31836111	edges:637591369	partitioning:RANDOM	platform:HYBRID	alpha:50	repeat:1	gpu_count:1	thread_count:16	thread_sched:GUIDED	thread_bind:false	gpu_graph_mem:DEVICE	gpu_par_randomized:false	sorted:false	edge_sort_key:id	edge_order:asc	separate_singletons:false	lambda:0	time_init:6347.72	time_par:2028.44	rmt_vertex:74	rmt_edge:50	beta:4	pid0:50,50,37,25	pid1:50,50,37,25	
+total	exec	init	comp	comm	finalize	cpu_comp	gpu_comp	gpu_total_comp	scatter	gather	aggr	trv_edges	exec_rate
+2677.05	2570.78	10.39	683.48	1887.29	10.13	674.55	392.72	392.72	60.41	0.00	81.83	568138058	0.2210

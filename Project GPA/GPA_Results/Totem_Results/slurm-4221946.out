@@ -1,0 +1,84 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'totem test'
+totem test
++ echo 'Start BFS'
+Start BFS
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh001.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh002.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh004.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh005.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh006.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh007.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh008.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh009.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh010.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh011.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh012.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh013.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh014.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh015.totem
++ ./benchmark -b6 -g1 -p2 -t16 ../../../../maps/gh016.totem
++ echo 'Done with BFS'
+Done with BFS
++ echo 'Start CC'
+Start CC
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh001.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh002.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh004.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh005.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh006.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh007.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh008.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh009.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh010.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh011.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh012.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh013.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh014.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh015.totem
++ ./benchmark -b8 -g1 -p2 -t16 ../../../../maps/gh016.totem
++ echo 'Done with CC'
+Done with CC
++ echo 'Start PR'
+Start PR
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh001.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh002.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh004.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh005.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh006.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh007.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh008.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh009.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh010.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh011.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh012.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh013.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh014.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh015.totem
++ ./benchmark -b1 -g1 -p2 -t16 ../../../../maps/gh016.totem
++ echo 'Done with PR'
+Done with PR
++ echo 'Start SSSP'
+Start SSSP
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh001.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh002.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh004.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh005.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh006.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh007.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh008.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh009.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh010.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh011.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh012.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh013.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh014.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh015.totem
++ ./benchmark -b2 -g1 -p2 -t16 ../../../../maps/gh016.totem
++ echo 'Done with SSSP'
+Done with SSSP
++ wait
++ echo 'finished totem!'
+finished totem!
++ exit

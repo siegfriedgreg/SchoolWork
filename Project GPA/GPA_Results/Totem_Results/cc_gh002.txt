@@ -1,0 +1,3 @@
+file:../../../../maps/gh002.totem	benchmark:CC	vertices:50912018	edges:108109320	partitioning:RANDOM	platform:HYBRID	alpha:50	repeat:1	gpu_count:1	thread_count:16	thread_sched:GUIDED	thread_bind:false	gpu_graph_mem:DEVICE	gpu_par_randomized:false	sorted:false	edge_sort_key:id	edge_order:asc	separate_singletons:false	lambda:0	time_init:6109.10	time_par:3002.51	rmt_vertex:76	rmt_edge:50	beta:36	pid0:50,50,38,25	pid1:50,50,38,25	
+total	exec	init	comp	comm	finalize	cpu_comp	gpu_comp	gpu_total_comp	scatter	gather	aggr	trv_edges	exec_rate
+347478.36	347282.94	103.71	58393.29	288888.38	20.11	54644.20	40485.89	40485.89	8918.72	0.00	71.04	108109320	0.0003

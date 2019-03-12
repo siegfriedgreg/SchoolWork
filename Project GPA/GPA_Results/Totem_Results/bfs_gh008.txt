@@ -1,0 +1,3 @@
+file:../../../../maps/gh008.totem	benchmark:BFS_STEPWISE	vertices:21198119	edges:31790179	partitioning:RANDOM	platform:HYBRID	alpha:50	repeat:1	gpu_count:1	thread_count:16	thread_sched:GUIDED	thread_bind:false	gpu_graph_mem:DEVICE	gpu_par_randomized:false	sorted:false	edge_sort_key:id	edge_order:asc	separate_singletons:false	lambda:0	time_init:2034.41	time_par:806.83	rmt_vertex:57	rmt_edge:50	beta:38	pid0:50,50,28,25	pid1:50,50,28,25	
+total	exec	init	comp	comm	finalize	cpu_comp	gpu_comp	gpu_total_comp	scatter	gather	aggr	trv_edges	exec_rate
+52.00	34.87	3.74	28.51	6.36	0.00	28.50	14.81	14.81	0.05	4.74	10.03	9	0.0000
