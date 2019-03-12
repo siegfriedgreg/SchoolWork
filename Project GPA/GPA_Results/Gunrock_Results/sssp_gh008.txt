@@ -1,0 +1,47 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh008.mtx:
+  Parsing MARKET COO format (21198119 nodes, 63580358 directed edges)... Done parsing (11s).
+  Converting 21198119 vertices, 63580358 directed edges (unordered tuples) to CSR format...
+Done converting (2s).
+
+Degree Histogram (21198119 vertices, 63580358 edges):
+    Degree   0: 0 (0.00%)
+    Degree 2^0: 0 (0.00%)
+    Degree 2^1: 21198119 (100.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode TWC
+__________________________
+--------------------------
+iteration 0 elapsed: 17864.258051 ms, src = 0, #iteration = 5216
+Computing reference value ...
+CPU SSSP finished in 69067.000000 msec.
+
+
+First 40 labels of the GPU result.
+[0:0 1:23 2:779 3:782 4:4530 5:4941 6:2295 7:2287 8:2748 9:2733 10:37544 11:37547 12:37263 13:8402 14:3899 15:2003 16:2005 17:2203 18:2247 19:4956 20:36596 21:3929 22:4493 23:37763 24:36554 25:36511 26:37153 27:37912 28:37157 29:36487 30:3415 31:3400 32:4599 33:4604 34:3201 35:1141 36:1157 37:1602 38:1580 39:2253 ]
+Label Validity: 
+CORRECT
+First 40 labels of the reference CPU result.
+[0:0 1:23 2:779 3:782 4:4530 5:4941 6:2295 7:2287 8:2748 9:2733 10:37544 11:37547 12:37263 13:8402 14:3899 15:2003 16:2005 17:2203 18:2247 19:4956 20:36596 21:3929 22:4493 23:37763 24:36554 25:36511 26:37153 27:37912 28:37157 29:36487 30:3415 31:3400 32:4599 33:4604 34:3201 35:1141 36:1157 37:1602 38:1580 39:2253 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 1140719616	 25437744	 25437744
+	 queue_sizing =	 1.200000 	 1.200000
+
+ [SSSP] finished.
+ avg. elapsed: 17864.2578 ms
+ iterations: 5216
+ min. elapsed: 17864.2581 ms
+ max. elapsed: 17864.2581 ms
+ rate: 3.5591 MiEdges/s
+ src: 0
+ nodes_visited: 21198119
+ edges_visited: 63580358
+ edges queued: 753353727
+ edges redundance: 1084.88%
+ load time: 14160.0358 ms
+ preprocess time: 243.4740 ms
+ postprocess time: 1796.5829 ms
+ total time: 166574.4560 ms
+

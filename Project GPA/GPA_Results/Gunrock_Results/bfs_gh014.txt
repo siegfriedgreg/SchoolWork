@@ -1,0 +1,58 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh014.mtx:
+  Parsing MARKET COO format (5363260 nodes, 79023142 directed edges)... Done parsing (22s).
+  Converting 5363260 vertices, 79023142 directed edges (unordered tuples) to CSR format...
+Done converting (2s).
+
+Degree Histogram (5363260 vertices, 77991514 edges):
+    Degree   0: 605599 (11.29%)
+    Degree 2^0: 1109843 (20.69%)
+    Degree 2^1: 897943 (16.74%)
+    Degree 2^2: 814216 (15.18%)
+    Degree 2^3: 722840 (13.48%)
+    Degree 2^4: 592411 (11.05%)
+    Degree 2^5: 376552 (7.02%)
+    Degree 2^6: 165343 (3.08%)
+    Degree 2^7: 57679 (1.08%)
+    Degree 2^8: 16816 (0.31%)
+    Degree 2^9: 3865 (0.07%)
+    Degree 2^10: 139 (0.00%)
+    Degree 2^11: 14 (0.00%)
+
+  Converting 5363260 vertices, 77991514 directed edges (unordered tuples) to CSR format...
+Done converting (2s).
+Using 1 GPU: [ 0 ].
+Using traversal-mode LB
+__________________________
+0	 6	 0	 queue3 	 oversize :	 34861192 ->	 39310969
+--------------------------
+iteration 0 elapsed: 61.086893 ms, src = 0, #iteration = 43
+Computing reference value ...
+CPU BFS finished in 1267.073853 msec. cpu_search_depth: 43
+
+Label Validity: 
+CORRECT
+
+First 40 labels of the GPU result:
+[0:0 1:4 2:4 3:4 4:3 5:3 6:4 7:3 8:3 9:3 10:3 11:3 12:3 13:4 14:4 15:3 16:3 17:3 18:3 19:3 20:3 21:3 22:3 23:3 24:3 25:2147483647 26:3 27:3 28:3 29:2 30:3 31:3 32:3 33:3 34:3 35:3 36:3 37:3 38:3 39:3 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 1215037440	 34861192	 39310969
+	 queue_sizing =	 6.500000 	 7.329678
+
+ [BFS] finished.
+ avg. elapsed: 61.0869 ms
+ iterations: 43
+ min. elapsed: 61.0869 ms
+ max. elapsed: 61.0869 ms
+ rate: 1259.7759 MiEdges/s
+ src: 0
+ nodes_visited: 4815948
+ edges_visited: 76955789
+ nodes queued: 4815948
+ edges queued: 76955789
+ load time: 27015.0781 ms
+ preprocess time: 143.7559 ms
+ postprocess time: 155.3090 ms
+ total time: 28661.1760 ms
+

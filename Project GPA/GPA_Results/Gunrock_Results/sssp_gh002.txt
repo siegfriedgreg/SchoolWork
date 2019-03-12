@@ -1,0 +1,49 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh002.mtx:
+  Parsing MARKET COO format (50912018 nodes, 108109320 directed edges)... Done parsing (19s).
+  Converting 50912018 vertices, 108109320 directed edges (unordered tuples) to CSR format...
+Done converting (3s).
+
+Degree Histogram (50912018 vertices, 108109320 edges):
+    Degree   0: 0 (0.00%)
+    Degree 2^0: 2055578 (4.04%)
+    Degree 2^1: 47863091 (94.01%)
+    Degree 2^2: 993289 (1.95%)
+    Degree 2^3: 60 (0.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode TWC
+__________________________
+--------------------------
+iteration 0 elapsed: 8117.595196 ms, src = 0, #iteration = 17558
+Computing reference value ...
+CPU SSSP finished in 137235.656250 msec.
+
+
+First 40 labels of the GPU result.
+[0:0 1:39 2:276997 3:276946 4:276883 5:276873 6:276829 7:276788 8:276775 9:276717 10:276674 11:276624 12:276565 13:276530 14:276524 15:276464 16:276462 17:276442 18:276386 19:276359 20:276319 21:276280 22:276267 23:276213 24:276187 25:276141 26:276106 27:276055 28:276024 29:276015 30:275989 31:275951 32:275901 33:275888 34:275833 35:275784 36:275760 37:275725 38:275699 39:275662 ]
+Label Validity: 
+CORRECT
+First 40 labels of the reference CPU result.
+[0:0 1:39 2:276997 3:276946 4:276883 5:276873 6:276829 7:276788 8:276775 9:276717 10:276674 11:276624 12:276565 13:276530 14:276524 15:276464 16:276462 17:276442 18:276386 19:276359 20:276319 21:276280 22:276267 23:276213 24:276187 25:276141 26:276106 27:276055 28:276024 29:276015 30:275989 31:275951 32:275901 33:275888 34:275833 35:275784 36:275760 37:275725 38:275699 39:275662 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 2376597504	 61094423	 61094423
+	 queue_sizing =	 1.200000 	 1.200000
+
+ [SSSP] finished.
+ avg. elapsed: 8117.5952 ms
+ iterations: 17558
+ min. elapsed: 8117.5952 ms
+ max. elapsed: 8117.5952 ms
+ rate: 13.3179 MiEdges/s
+ src: 0
+ nodes_visited: 50912018
+ edges_visited: 108109320
+ nodes queued: 1272883546
+ nodes redundance: 2400.16%
+ load time: 23957.2039 ms
+ preprocess time: 419.9860 ms
+ postprocess time: 4933.8591 ms
+ total time: 280361.5391 ms
+

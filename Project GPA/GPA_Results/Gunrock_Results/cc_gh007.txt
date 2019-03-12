@@ -1,0 +1,72 @@
+Loading Matrix-market coordinate-formatted graph ...
+  Reading directly from stored binary CSR arrays ...
+Done reading (10s).
+
+Degree Histogram (22744080 vertices, 1107806146 edges):
+    Degree   0: 199 (0.00%)
+    Degree 2^0: 2474996 (10.88%)
+    Degree 2^1: 2579638 (11.34%)
+    Degree 2^2: 2344817 (10.31%)
+    Degree 2^3: 3251040 (14.29%)
+    Degree 2^4: 5221027 (22.96%)
+    Degree 2^5: 4241757 (18.65%)
+    Degree 2^6: 1756740 (7.72%)
+    Degree 2^7: 447943 (1.97%)
+    Degree 2^8: 201670 (0.89%)
+    Degree 2^9: 115636 (0.51%)
+    Degree 2^10: 49272 (0.22%)
+    Degree 2^11: 34144 (0.15%)
+    Degree 2^12: 18514 (0.08%)
+    Degree 2^13: 5760 (0.03%)
+    Degree 2^14: 661 (0.00%)
+    Degree 2^15: 172 (0.00%)
+    Degree 2^16: 65 (0.00%)
+    Degree 2^17: 6 (0.00%)
+    Degree 2^18: 21 (0.00%)
+    Degree 2^19: 2 (0.00%)
+
+Using 1 GPU: [ 0 ].
+graph #nodes : 22744080 -> 22743881 
+Computing reference value ...
+CPU CC finished in 605548.187500 msec.
+
+Using traversal mode LB
+_________________________
+-------------------------
+iteration 0 elapsed: 2676.597118 ms
+CORRECT. Component Count: 330
+Label Validity: 
+CORRECT
+Top 10 largest components:
+CC ID: 0, CC Root: 0, CC Size: 22634275
+CC ID: 1, CC Root: 22690035, CC Size: 12969
+CC ID: 2, CC Root: 22677937, CC Size: 12098
+CC ID: 3, CC Root: 22654405, CC Size: 11730
+CC ID: 4, CC Root: 22634275, CC Size: 11034
+CC ID: 5, CC Root: 22726845, CC Size: 9696
+CC ID: 6, CC Root: 22670104, CC Size: 7773
+CC ID: 7, CC Root: 22713172, CC Size: 7664
+CC ID: 8, CC Root: 22650103, CC Size: 4300
+CC ID: 9, CC Root: 22722736, CC Size: 2296
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 10272768000	 0	 0
+	 queue_sizing =	 0.000000 	 0.000000
+
+ [CC] finished.
+ avg. elapsed: 2676.5971 ms
+ iterations: 2
+ min. elapsed: 2676.5971 ms
+ max. elapsed: 2676.5971 ms
+ rate: 413.8860 MiEdges/s
+ src: 0
+ nodes_visited: 22743881
+ edges_visited: 1107806146
+ nodes queued: 1887742123
+ edges queued: 681286440
+ nodes redundance: 8200.00%
+ load time: 14459.9550 ms
+ preprocess time: 5735.4519 ms
+ postprocess time: 40239.5940 ms
+ total time: 1633295.7129 ms
+

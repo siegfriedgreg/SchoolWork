@@ -1,0 +1,24 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'gunrock test'
+gunrock test
++ echo 'Start PR'
+Start PR
++ ./pr market ../../../maps/gh001.mtx
+/var/slurmd/job4225789/slurm_script: line 16: 30400 Killed                  ./pr market ../../../maps/gh001.mtx &>pr_gh001.txt
++ ./pr market ../../../maps/gh002.mtx
++ ./pr market ../../../maps/gh004.mtx
++ ./pr market ../../../maps/gh005.mtx
+/var/slurmd/job4225789/slurm_script: line 19:  2261 Killed                  ./pr market ../../../maps/gh005.mtx &>pr_gh005.txt
++ ./pr market ../../../maps/gh006.mtx
++ ./pr market ../../../maps/gh007.mtx
++ ./pr market ../../../maps/gh008.mtx
++ ./pr market ../../../maps/gh009.mtx
++ ./pr market ../../../maps/gh010.mtx
++ ./pr market ../../../maps/gh011.mtx
++ ./pr market ../../../maps/gh012.mtx
++ ./pr market ../../../maps/gh013.mtx
++ ./pr market ../../../maps/gh014.mtx
++ ./pr market ../../../maps/gh015.mtx
++ ./pr market ../../../maps/gh016.mtx
+slurmstepd: error: *** JOB 4225789 ON gpu009 CANCELLED AT 2018-10-15T00:24:53 DUE TO TIME LIMIT ***

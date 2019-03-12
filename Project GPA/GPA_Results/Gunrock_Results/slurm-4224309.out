@@ -1,0 +1,55 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'gunrock test'
+gunrock test
++ echo 'Start BFS'
+Start BFS
++ ./bfs market ../../../maps/gh001.mtx
++ ./bfs market ../../../maps/gh002.mtx
++ ./bfs market ../../../maps/gh004.mtx
++ ./bfs market ../../../maps/gh005.mtx
++ ./bfs market ../../../maps/gh006.mtx
++ ./bfs market ../../../maps/gh007.mtx
++ ./bfs market ../../../maps/gh008.mtx
++ ./bfs market ../../../maps/gh009.mtx
++ ./bfs market ../../../maps/gh010.mtx
++ ./bfs market ../../../maps/gh011.mtx
++ ./bfs market ../../../maps/gh012.mtx
++ ./bfs market ../../../maps/gh013.mtx
++ ./bfs market ../../../maps/gh014.mtx
++ ./bfs market ../../../maps/gh015.mtx
++ ./bfs market ../../../maps/gh016.mtx
++ echo 'Done with BFS'
+Done with BFS
++ echo 'Start CC'
+Start CC
++ ./cc market ../../../maps/gh001.mtx
++ ./cc market ../../../maps/gh002.mtx
++ ./cc market ../../../maps/gh004.mtx
++ ./cc market ../../../maps/gh005.mtx
++ ./cc market ../../../maps/gh006.mtx
++ ./cc market ../../../maps/gh007.mtx
++ ./cc market ../../../maps/gh008.mtx
++ ./cc market ../../../maps/gh009.mtx
++ ./cc market ../../../maps/gh010.mtx
++ ./cc market ../../../maps/gh011.mtx
++ ./cc market ../../../maps/gh012.mtx
++ ./cc market ../../../maps/gh013.mtx
++ ./cc market ../../../maps/gh014.mtx
++ ./cc market ../../../maps/gh015.mtx
++ ./cc market ../../../maps/gh016.mtx
++ echo 'Done with CC'
+Done with CC
++ echo 'Start PR'
+Start PR
++ ./pr market ../../../maps/gh001.mtx
+/var/slurmd/job4224309/slurm_script: line 62: 31237 Killed                  ./pr market ../../../maps/gh001.mtx &>pr_gh001.txt
++ ./pr market ../../../maps/gh002.mtx
++ ./pr market ../../../maps/gh004.mtx
++ ./pr market ../../../maps/gh005.mtx
+/var/slurmd/job4224309/slurm_script: line 65:  4735 Killed                  ./pr market ../../../maps/gh005.mtx &>pr_gh005.txt
++ ./pr market ../../../maps/gh006.mtx
++ ./pr market ../../../maps/gh007.mtx
++ ./pr market ../../../maps/gh008.mtx
++ ./pr market ../../../maps/gh009.mtx
+slurmstepd: error: *** JOB 4224309 ON gpu011 CANCELLED AT 2018-10-14T14:57:45 DUE TO TIME LIMIT ***

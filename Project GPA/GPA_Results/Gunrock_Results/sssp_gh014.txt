@@ -1,0 +1,62 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh014.mtx:
+  Parsing MARKET COO format (5363260 nodes, 79023142 directed edges)... Done parsing (26s).
+  Converting 5363260 vertices, 79023142 directed edges (unordered tuples) to CSR format...
+Done converting (1s).
+
+Degree Histogram (5363260 vertices, 77991514 edges):
+    Degree   0: 605599 (11.29%)
+    Degree 2^0: 1109843 (20.69%)
+    Degree 2^1: 897943 (16.74%)
+    Degree 2^2: 814216 (15.18%)
+    Degree 2^3: 722840 (13.48%)
+    Degree 2^4: 592411 (11.05%)
+    Degree 2^5: 376552 (7.02%)
+    Degree 2^6: 165343 (3.08%)
+    Degree 2^7: 57679 (1.08%)
+    Degree 2^8: 16816 (0.31%)
+    Degree 2^9: 3865 (0.07%)
+    Degree 2^10: 139 (0.00%)
+    Degree 2^11: 14 (0.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode LB
+__________________________
+0	 5	 0	 queue3 	 oversize :	 6435914 ->	 7124061
+0	 6	 0	 queue3 	 oversize :	 7124061 ->	 46424986
+0	 7	 0	 queue3 	 oversize :	 46424986 ->	 71742967
+--------------------------
+iteration 0 elapsed: 432.816982 ms, src = 0, #iteration = 72
+Computing reference value ...
+CPU SSSP finished in 48088.148438 msec.
+
+
+First 40 labels of the GPU result.
+[0:0 1:93 2:104 3:85 4:48 5:78 6:97 7:41 8:43 9:55 10:51 11:73 12:43 13:65 14:81 15:48 16:84 17:66 18:64 19:59 20:55 21:52 22:43 23:41 24:77 25:2147483647 26:42 27:63 28:50 29:72 30:58 31:41 32:37 33:77 34:52 35:40 36:44 37:43 38:43 39:65 ]
+Label Validity: 
+CORRECT
+First 40 labels of the reference CPU result.
+[0:0 1:93 2:104 3:85 4:48 5:78 6:97 7:41 8:43 9:55 10:51 11:73 12:43 13:65 14:81 15:48 16:84 17:66 18:64 19:59 20:55 21:52 22:43 23:41 24:77 25:2147483647 26:42 27:63 28:50 29:72 30:58 31:41 32:37 33:77 34:52 35:40 36:44 37:43 38:43 39:65 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 1049755648	 6435914	 71742967
+	 queue_sizing =	 1.200000 	 13.376746
+
+ [SSSP] finished.
+ avg. elapsed: 432.8170 ms
+ iterations: 72
+ min. elapsed: 432.8170 ms
+ max. elapsed: 432.8170 ms
+ rate: 177.8021 MiEdges/s
+ src: 0
+ nodes_visited: 4815948
+ edges_visited: 76955789
+ nodes queued: 31333148
+ edges queued: 533730497
+ nodes redundance: 550.61%
+ edges redundance: 593.55%
+ load time: 28458.1141 ms
+ preprocess time: 280.5352 ms
+ postprocess time: 427.9461 ms
+ total time: 142720.8090 ms
+

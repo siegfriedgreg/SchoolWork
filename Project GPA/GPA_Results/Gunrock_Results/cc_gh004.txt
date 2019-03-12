@@ -1,0 +1,5 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh004.mtx:
+  Parsing MARKET COO format (41291594 nodes, 2301450872 directed edges)... Error parsing MARKET graph:coo allocation failed, sizeof(EdgeTupleType) = 12, edges = -1993516424, allo_size = -23922197088
+Using 1 GPU: [ 0 ].
+Invalid graph error. The number of nodes is negative.

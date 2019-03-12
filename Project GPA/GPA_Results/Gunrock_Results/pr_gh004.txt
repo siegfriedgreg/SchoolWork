@@ -1,0 +1,15 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh004.mtx:
+  Parsing MARKET COO format (41291594 nodes, 2301450872 directed edges)... Error parsing MARKET graph:coo allocation failed, sizeof(EdgeTupleType) = 12, edges = -1993516424, allo_size = -23922197088
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/gunrock/util/array_utils.cuh, 532 @ gpu 0] row_offsets cudaMemcpy H2D failed (CUDA error 11: invalid argument)
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/tests/pr/test_pr.cu, 641 @ gpu 0] PR Problem Init failed (CUDA error 11: invalid argument)
+Using 1 GPU: [ 0 ].
+
+ [PageRank] finished.
+ avg. elapsed: 0.0000 ms
+ iterations: 0
+ load time: 350.4071 ms
+ preprocess time: 0.0000 ms
+ postprocess time: 0.0000 ms
+ total time: 351.6181 ms
+

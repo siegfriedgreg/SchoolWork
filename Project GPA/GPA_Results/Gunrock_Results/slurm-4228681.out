@@ -1,0 +1,27 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'gunrock test'
+gunrock test
++ echo 'Start SSSP'
+Start SSSP
++ ./sssp market ../../../maps/gh001.mtx
++ ./sssp market ../../../maps/gh002.mtx
++ ./sssp market ../../../maps/gh004.mtx
++ ./sssp market ../../../maps/gh005.mtx
++ ./sssp market ../../../maps/gh006.mtx
++ ./sssp market ../../../maps/gh007.mtx
++ ./sssp market ../../../maps/gh008.mtx
++ ./sssp market ../../../maps/gh009.mtx
++ ./sssp market ../../../maps/gh010.mtx
++ ./sssp market ../../../maps/gh011.mtx
++ ./sssp market ../../../maps/gh012.mtx
++ ./sssp market ../../../maps/gh013.mtx
++ ./sssp market ../../../maps/gh014.mtx
++ ./sssp market ../../../maps/gh015.mtx
++ ./sssp market ../../../maps/gh016.mtx
++ echo 'Done with SSSP'
+Done with SSSP
++ wait
++ echo 'finished gunrock!'
+finished gunrock!
++ exit

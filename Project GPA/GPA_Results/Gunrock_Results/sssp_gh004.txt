@@ -1,0 +1,41 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh004.mtx:
+  Parsing MARKET COO format (41291594 nodes, 1150725436 directed edges)... Done parsing (403s).
+  Converting 41291594 vertices, 1150725436 directed edges (unordered tuples) to CSR format...
+Done converting (30s).
+
+Degree Histogram (41291594 vertices, 1135718909 edges):
+    Degree   0: 5510830 (13.35%)
+    Degree 2^0: 3835381 (9.29%)
+    Degree 2^1: 3532860 (8.56%)
+    Degree 2^2: 3856021 (9.34%)
+    Degree 2^3: 5793701 (14.03%)
+    Degree 2^4: 7903950 (19.14%)
+    Degree 2^5: 7182579 (17.39%)
+    Degree 2^6: 2234136 (5.41%)
+    Degree 2^7: 1183436 (2.87%)
+    Degree 2^8: 164555 (0.40%)
+    Degree 2^9: 67979 (0.16%)
+    Degree 2^10: 21500 (0.05%)
+    Degree 2^11: 4588 (0.01%)
+    Degree 2^12: 75 (0.00%)
+    Degree 2^13: 3 (0.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode LB
+__________________________
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/gunrock/util/array_utils.cuh, 209 @ gpu 0] keys cudaMalloc failed (CUDA error 2: out of memory)
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/tests/sssp/test_sssp.cu, 462 @ gpu 0] SSSP Problem Enact Failed (CUDA error 2: out of memory)
+0	 19	 0	 queue3 	 oversize :	 49549914 ->	 78252872
+0	 20	 0	 queue3 	 oversize :	 78252872 ->	 168882121
+0	 21	 0	 queue3 	 oversize :	 168882121 ->	 347420848
+0	 22	 0	 queue3 	 oversize :	 347420848 ->	 481990684
+
+ [SSSP] finished.
+ avg. elapsed: 0.0000 ms
+ iterations: 0
+ load time: 442968.7760 ms
+ preprocess time: 5593.0440 ms
+ postprocess time: 0.0000 ms
+ total time: 448983.5370 ms
+

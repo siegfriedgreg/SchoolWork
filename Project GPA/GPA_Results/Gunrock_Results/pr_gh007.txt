@@ -1,0 +1,80 @@
+Loading Matrix-market coordinate-formatted graph ...
+  Reading directly from stored binary CSR arrays ...
+Done reading (8s).
+
+Degree Histogram (22744080 vertices, 1107806146 edges):
+    Degree   0: 199 (0.00%)
+    Degree 2^0: 2474996 (10.88%)
+    Degree 2^1: 2579638 (11.34%)
+    Degree 2^2: 2344817 (10.31%)
+    Degree 2^3: 3251040 (14.29%)
+    Degree 2^4: 5221027 (22.96%)
+    Degree 2^5: 4241757 (18.65%)
+    Degree 2^6: 1756740 (7.72%)
+    Degree 2^7: 447943 (1.97%)
+    Degree 2^8: 201670 (0.89%)
+    Degree 2^9: 115636 (0.51%)
+    Degree 2^10: 49272 (0.22%)
+    Degree 2^11: 34144 (0.15%)
+    Degree 2^12: 18514 (0.08%)
+    Degree 2^13: 5760 (0.03%)
+    Degree 2^14: 661 (0.00%)
+    Degree 2^15: 172 (0.00%)
+    Degree 2^16: 65 (0.00%)
+    Degree 2^17: 6 (0.00%)
+    Degree 2^18: 21 (0.00%)
+    Degree 2^19: 2 (0.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode LB
+-1	 -1	 -1	 scanned_edges 	 oversize :	 2 ->	 22744082
+__________________________
+--------------------------
+iteration 0 elapsed: 3461.848021 ms
+Total rank : 22421832.8090806752
+Computing reference value ...
+CPU PageRank finished in 6911613.000000 msec.
+
+Validity Rank: 
+INCORRECT : rank[13720650] (1.59894072e+04) != 1.62269746e+04
+number of errors : 16367862
+Reference total rank : 22737100.9596963823
+Maximum difference : rank[13720650] 1.59894072e+04 vs. 1.62269746e+04, 2.37567383e+02
+Maximum relative difference :rank[21511252] 3.98885727e+00 vs. 4.20419407e+00, 5.12195192 %
+Validity Order: 
+CORRECT
+
+Top 10 Ranked Vertices and PageRanks:
+Vertex ID: 13720650, PageRank: 1.59894072e+04
+Vertex ID: 11820875, PageRank: 8.56030469e+03
+Vertex ID: 21936990, PageRank: 6.88785156e+03
+Vertex ID: 21936992, PageRank: 5.40524951e+03
+Vertex ID: 21936993, PageRank: 5.40470850e+03
+Vertex ID: 21936991, PageRank: 5.40446240e+03
+Vertex ID: 11743789, PageRank: 5.36161523e+03
+Vertex ID: 19088974, PageRank: 5.29684619e+03
+Vertex ID: 19088973, PageRank: 5.21531348e+03
+Vertex ID: 21936989, PageRank: 5.18575195e+03
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 5165285376	 2	 2
+	 queue_sizing =	 0.000000 	 0.000000
+
+ [PageRank] finished.
+ avg. elapsed: 3461.8480 ms
+ iterations: 25
+ min. elapsed: 3461.8480 ms
+ max. elapsed: 3461.8480 ms
+ rate: 320.0043 MiEdges/s
+ src: 0
+ nodes_visited: 22744080
+ edges_visited: 1107806146
+ nodes queued: 545857920
+ edges queued: 1925349874
+ nodes redundance: 2300.00%
+ edges redundance: 73.80%
+ load time: 9211.4811 ms
+ preprocess time: 879.1029 ms
+ postprocess time: 7957079.5591 ms
+ total time: 7970640.6360 ms
+

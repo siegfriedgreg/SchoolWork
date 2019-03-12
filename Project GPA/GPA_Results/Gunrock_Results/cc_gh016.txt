@@ -1,0 +1,68 @@
+Loading Matrix-market coordinate-formatted graph ...
+  Reading directly from stored binary CSR arrays ...
+Done reading (0s).
+
+Degree Histogram (4847571 vertices, 85702474 edges):
+    Degree   0: 962 (0.02%)
+    Degree 2^0: 1057993 (21.83%)
+    Degree 2^1: 919014 (18.96%)
+    Degree 2^2: 833607 (17.20%)
+    Degree 2^3: 742607 (15.32%)
+    Degree 2^4: 616847 (12.72%)
+    Degree 2^5: 404231 (8.34%)
+    Degree 2^6: 184810 (3.81%)
+    Degree 2^7: 62310 (1.29%)
+    Degree 2^8: 19429 (0.40%)
+    Degree 2^9: 4855 (0.10%)
+    Degree 2^10: 704 (0.01%)
+    Degree 2^11: 161 (0.00%)
+    Degree 2^12: 29 (0.00%)
+    Degree 2^13: 11 (0.00%)
+    Degree 2^14: 1 (0.00%)
+
+Using 1 GPU: [ 0 ].
+graph #nodes : 4847571 -> 4846609 
+Computing reference value ...
+CPU CC finished in 48167.960938 msec.
+
+Using traversal mode LB
+_________________________
+-------------------------
+iteration 0 elapsed: 88.079929 ms
+CORRECT. Component Count: 914
+Label Validity: 
+CORRECT
+Top 10 largest components:
+CC ID: 0, CC Root: 0, CC Size: 4843953
+CC ID: 1, CC Root: 2021680, CC Size: 65
+CC ID: 2, CC Root: 1485470, CC Size: 43
+CC ID: 3, CC Root: 1697500, CC Size: 31
+CC ID: 4, CC Root: 2432881, CC Size: 31
+CC ID: 5, CC Root: 2011469, CC Size: 29
+CC ID: 6, CC Root: 2449540, CC Size: 26
+CC ID: 7, CC Root: 2023196, CC Size: 25
+CC ID: 8, CC Root: 1019249, CC Size: 24
+CC ID: 9, CC Root: 2479604, CC Size: 22
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 838729728	 0	 0
+	 queue_sizing =	 0.000000 	 0.000000
+
+ [CC] finished.
+ avg. elapsed: 88.0799 ms
+ iterations: 2
+ min. elapsed: 88.0799 ms
+ max. elapsed: 88.0799 ms
+ rate: 973.0080 MiEdges/s
+ src: 0
+ nodes_visited: 4846609
+ edges_visited: 85702474
+ nodes queued: 82392353
+ edges queued: 342809896
+ nodes redundance: 1600.00%
+ edges redundance: 300.00%
+ load time: 1686.3780 ms
+ preprocess time: 502.3479 ms
+ postprocess time: 5575.8402 ms
+ total time: 141727.0660 ms
+

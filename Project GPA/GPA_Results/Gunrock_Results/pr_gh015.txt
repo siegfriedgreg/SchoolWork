@@ -1,0 +1,66 @@
+Loading Matrix-market coordinate-formatted graph ...
+  Reading directly from stored binary CSR arrays ...
+Done reading (1s).
+
+Degree Histogram (5154859 vertices, 94044692 edges):
+    Degree   0: 0 (0.00%)
+    Degree 2^0: 0 (0.00%)
+    Degree 2^1: 128 (0.00%)
+    Degree 2^2: 97192 (1.89%)
+    Degree 2^3: 1621448 (31.45%)
+    Degree 2^4: 3338135 (64.76%)
+    Degree 2^5: 97956 (1.90%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode LB
+-1	 -1	 -1	 scanned_edges 	 oversize :	 2 ->	 5154861
+__________________________
+--------------------------
+iteration 0 elapsed: 364.229918 ms
+Total rank : 4961281.1027632058
+Computing reference value ...
+CPU PageRank finished in 683059.125000 msec.
+
+Validity Rank: 
+INCORRECT : rank[5140491] (1.27035415e+00) != 1.33571744e+00
+number of errors : 5154859
+Reference total rank : 5153334.3808307648
+Maximum difference : rank[5140356] 1.26728022e+00 vs. 1.33286643e+00, 6.55862093e-02
+Maximum relative difference :rank[5140262] 1.23813713e+00 vs. 1.30270052e+00, 4.95611951 %
+Validity Order: 
+CORRECT
+
+Top 10 Ranked Vertices and PageRanks:
+Vertex ID: 5140491, PageRank: 1.27035415e+00
+Vertex ID: 5140496, PageRank: 1.27035415e+00
+Vertex ID: 5140492, PageRank: 1.27015197e+00
+Vertex ID: 5140495, PageRank: 1.27015197e+00
+Vertex ID: 5140349, PageRank: 1.26743460e+00
+Vertex ID: 5140358, PageRank: 1.26743460e+00
+Vertex ID: 5140351, PageRank: 1.26728034e+00
+Vertex ID: 5140356, PageRank: 1.26728022e+00
+Vertex ID: 1791393, PageRank: 1.26233888e+00
+Vertex ID: 1791396, PageRank: 1.26210999e+00
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 548274176	 2	 2
+	 queue_sizing =	 0.000000 	 0.000000
+
+ [PageRank] finished.
+ avg. elapsed: 364.2299 ms
+ iterations: 19
+ min. elapsed: 364.2299 ms
+ max. elapsed: 364.2299 ms
+ rate: 258.2014 MiEdges/s
+ src: 0
+ nodes_visited: 5154859
+ edges_visited: 94044692
+ nodes queued: 92787462
+ edges queued: 1786849148
+ nodes redundance: 1700.00%
+ edges redundance: 1800.00%
+ load time: 1583.3020 ms
+ preprocess time: 77.9250 ms
+ postprocess time: 788337.4481 ms
+ total time: 790365.4711 ms
+

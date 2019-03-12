@@ -1,0 +1,47 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh011.mtx:
+  Parsing MARKET COO format (16002413 nodes, 47997626 directed edges)... Done parsing (7s).
+  Converting 16002413 vertices, 47997626 directed edges (unordered tuples) to CSR format...
+Done converting (1s).
+
+Degree Histogram (16002413 vertices, 47997626 edges):
+    Degree   0: 0 (0.00%)
+    Degree 2^0: 0 (0.00%)
+    Degree 2^1: 16002413 (100.00%)
+
+  Converting 16002413 vertices, 47997626 directed edges (unordered tuples) to CSR format...
+Done converting (1s).
+Using 1 GPU: [ 0 ].
+Using traversal-mode TWC
+__________________________
+--------------------------
+iteration 0 elapsed: 524.555922 ms, src = 0, #iteration = 4804
+Computing reference value ...
+CPU BFS finished in 2402.613281 msec. cpu_search_depth: 4804
+
+Label Validity: 
+CORRECT
+
+First 40 labels of the GPU result:
+[0:0 1:5 2:11 3:16 4:3123 5:126 6:3044 7:3014 8:113 9:2994 10:2993 11:104 12:156 13:157 14:334 15:75 16:53 17:66 18:51 19:50 20:39 21:173 22:174 23:3076 24:8 25:5 26:10 27:15 28:177 29:178 30:75 31:78 32:3181 33:3410 34:84 35:88 36:98 37:93 38:313 39:295 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 2085355520	 104015686	 104015686
+	 queue_sizing =	 6.500000 	 6.500000
+
+ [BFS] finished.
+ avg. elapsed: 524.5559 ms
+ iterations: 4804
+ min. elapsed: 524.5559 ms
+ max. elapsed: 524.5559 ms
+ rate: 91.5014 MiEdges/s
+ src: 0
+ nodes_visited: 16002413
+ edges_visited: 47997626
+ nodes queued: 16002413
+ edges queued: 47997626
+ load time: 10648.7391 ms
+ preprocess time: 90.2579 ms
+ postprocess time: 316.4880 ms
+ total time: 14038.5959 ms
+

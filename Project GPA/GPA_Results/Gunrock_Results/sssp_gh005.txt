@@ -1,0 +1,64 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh005.mtx:
+  Parsing MARKET COO format (39459925 nodes, 936364282 directed edges)... Done parsing (324s).
+  Converting 39459925 vertices, 936364282 directed edges (unordered tuples) to CSR format...
+Done converting (25s).
+
+Degree Histogram (39459925 vertices, 921345078 edges):
+    Degree   0: 4650964 (11.79%)
+    Degree 2^0: 2748268 (6.96%)
+    Degree 2^1: 2961606 (7.51%)
+    Degree 2^2: 4235663 (10.73%)
+    Degree 2^3: 7496313 (19.00%)
+    Degree 2^4: 7982887 (20.23%)
+    Degree 2^5: 6760814 (17.13%)
+    Degree 2^6: 1783996 (4.52%)
+    Degree 2^7: 688666 (1.75%)
+    Degree 2^8: 147724 (0.37%)
+    Degree 2^9: 2999 (0.01%)
+    Degree 2^10: 20 (0.00%)
+    Degree 2^11: 3 (0.00%)
+    Degree 2^12: 2 (0.00%)
+
+Using 1 GPU: [ 0 ].
+Using traversal mode LB
+__________________________
+0	 13	 0	 queue3 	 oversize :	 47351912 ->	 53512935
+0	 14	 0	 queue3 	 oversize :	 53512935 ->	 132632981
+0	 15	 0	 queue3 	 oversize :	 132632981 ->	 240325754
+0	 16	 0	 queue3 	 oversize :	 240325754 ->	 367029875
+0	 17	 0	 queue3 	 oversize :	 367029875 ->	 448717527
+0	 18	 0	 queue3 	 oversize :	 448717527 ->	 499441340
+--------------------------
+iteration 0 elapsed: 5446.690083 ms, src = 0, #iteration = 274
+Computing reference value ...
+CPU SSSP finished in 487247.343750 msec.
+
+
+First 40 labels of the GPU result.
+[0:0 1:44 2:35 3:40 4:33 5:49 6:51 7:70 8:65 9:54 10:66 11:72 12:52 13:27 14:26 15:5 16:77 17:18 18:44 19:31 20:35 21:20 22:45 23:41 24:39 25:34 26:46 27:51 28:46 29:45 30:61 31:192 32:224 33:251 34:218 35:225 36:248 37:262 38:247 39:239 ]
+Label Validity: 
+CORRECT
+First 40 labels of the reference CPU result.
+[0:0 1:44 2:35 3:40 4:33 5:49 6:51 7:70 8:65 9:54 10:66 11:72 12:52 13:27 14:26 15:5 16:77 17:18 18:44 19:31 20:35 21:20 22:45 23:41 24:39 25:34 26:46 27:51 28:46 29:45 30:61 31:192 32:224 33:251 34:218 35:225 36:248 37:262 38:247 39:239 ]
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 10356391936	 47351912	 499441340
+	 queue_sizing =	 1.200000 	 12.656926
+
+ [SSSP] finished.
+ avg. elapsed: 5446.6899 ms
+ iterations: 274
+ min. elapsed: 5446.6901 ms
+ max. elapsed: 5446.6901 ms
+ rate: 167.8314 MiEdges/s
+ src: 0
+ nodes_visited: 38839146
+ edges_visited: 914125627
+ nodes queued: 578454538
+ nodes redundance: 1389.36%
+ load time: 356006.3810 ms
+ preprocess time: 3990.3231 ms
+ postprocess time: 1520.3269 ms
+ total time: 1640983.7661 ms
+

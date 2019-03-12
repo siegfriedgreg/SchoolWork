@@ -1,0 +1,36 @@
+Loading Matrix-market coordinate-formatted graph ...
+Reading from ../../../maps/gh001.mtx:
+  Parsing MARKET COO format (118142155 nodes, 1019903190 directed edges)... Done parsing (308s).
+  Converting 118142155 vertices, 1019903190 directed edges (unordered tuples) to CSR format...
+Done converting (24s).
+
+Degree Histogram (118142155 vertices, 992844891 edges):
+    Degree   0: 29400367 (24.89%)
+    Degree 2^0: 15469190 (13.09%)
+    Degree 2^1: 17918687 (15.17%)
+    Degree 2^2: 19337060 (16.37%)
+    Degree 2^3: 18249463 (15.45%)
+    Degree 2^4: 11599388 (9.82%)
+    Degree 2^5: 4968719 (4.21%)
+    Degree 2^6: 879279 (0.74%)
+    Degree 2^7: 196486 (0.17%)
+    Degree 2^8: 85223 (0.07%)
+    Degree 2^9: 25053 (0.02%)
+    Degree 2^10: 10754 (0.01%)
+    Degree 2^11: 2486 (0.00%)
+
+  Converting 118142155 vertices, 992844891 directed edges (unordered tuples) to CSR format...
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/gunrock/util/array_utils.cuh, 209 @ gpu 0] keys cudaMalloc failed (CUDA error 2: out of memory)
+[/pylon5/cc3uv3p/gsiegfri/projectGPA/gunrock/tests/bfs/test_bfs.cu, 458 @ gpu 0] BFS Problem Reset failed (CUDA error 2: out of memory)
+Done converting (25s).
+Using 1 GPU: [ 0 ].
+Using traversal-mode LB
+
+ [BFS] finished.
+ avg. elapsed: 0.0000 ms
+ iterations: 0
+ load time: 373269.1112 ms
+ preprocess time: 1519.2211 ms
+ postprocess time: 0.0000 ms
+ total time: 374798.5680 ms
+

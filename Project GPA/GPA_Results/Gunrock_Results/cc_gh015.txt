@@ -1,0 +1,50 @@
+Loading Matrix-market coordinate-formatted graph ...
+  Reading directly from stored binary CSR arrays ...
+Done reading (1s).
+
+Degree Histogram (5154859 vertices, 94044692 edges):
+    Degree   0: 0 (0.00%)
+    Degree 2^0: 0 (0.00%)
+    Degree 2^1: 128 (0.00%)
+    Degree 2^2: 97192 (1.89%)
+    Degree 2^3: 1621448 (31.45%)
+    Degree 2^4: 3338135 (64.76%)
+    Degree 2^5: 97956 (1.90%)
+
+Using 1 GPU: [ 0 ].
+graph #nodes : 5154859 -> 5154859 
+Computing reference value ...
+CPU CC finished in 53366.160156 msec.
+
+Using traversal mode LB
+_________________________
+-------------------------
+iteration 0 elapsed: 95.173836 ms
+CORRECT. Component Count: 1
+Label Validity: 
+CORRECT
+Top 1 largest components:
+CC ID: 0, CC Root: 0, CC Size: 5154859
+
+	Memory Usage(B)	 #keys0,0	 #keys0,1
+GPU_0	 918290432	 0	 0
+	 queue_sizing =	 0.000000 	 0.000000
+
+ [CC] finished.
+ avg. elapsed: 95.1738 ms
+ iterations: 2
+ min. elapsed: 95.1738 ms
+ max. elapsed: 95.1738 ms
+ rate: 988.1360 MiEdges/s
+ src: 0
+ nodes_visited: 5154859
+ edges_visited: 94044692
+ nodes queued: 128871475
+ edges queued: 470223460
+ nodes redundance: 2400.00%
+ edges redundance: 400.00%
+ load time: 1960.9652 ms
+ preprocess time: 495.3191 ms
+ postprocess time: 5094.6200 ms
+ total time: 146848.7620 ms
+
