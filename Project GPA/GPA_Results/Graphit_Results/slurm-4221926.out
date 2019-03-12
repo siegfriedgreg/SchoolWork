@@ -1,0 +1,85 @@
++ export OMP_NUM_THREADS=28
++ OMP_NUM_THREADS=28
++ echo 'graphit test'
+graphit test
++ echo 'Start BFS'
+Start BFS
++ ./bfs-test ../../../maps/gh001.el
++ ./bfs-test ../../../maps/gh002.el
++ ./bfs-test ../../../maps/gh004.el
++ ./bfs-test ../../../maps/gh005.el
++ ./bfs-test ../../../maps/gh006.el
++ ./bfs-test ../../../maps/gh007.el
++ ./bfs-test ../../../maps/gh008.el
++ ./bfs-test ../../../maps/gh009.el
++ ./bfs-test ../../../maps/gh010.el
++ ./bfs-test ../../../maps/gh011.el
++ ./bfs-test ../../../maps/gh012.el
++ ./bfs-test ../../../maps/gh013.el
++ ./bfs-test ../../../maps/gh014.el
++ ./bfs-test ../../../maps/gh015.el
++ ./bfs-test ../../../maps/gh016.el
++ echo 'Done with BFS'
+Done with BFS
++ echo 'Start CC'
+Start CC
++ ./cc-test ../../../maps/gh001.el
++ ./cc-test ../../../maps/gh002.el
++ ./cc-test ../../../maps/gh004.el
++ ./cc-test ../../../maps/gh005.el
++ ./cc-test ../../../maps/gh006.el
+/var/slurmd/job4221926/slurm_script: line 44: 10708 Killed                  ./cc-test ../../../maps/gh006.el &>cc_gh006.txt
++ ./cc-test ../../../maps/gh007.el
++ ./cc-test ../../../maps/gh008.el
++ ./cc-test ../../../maps/gh009.el
++ ./cc-test ../../../maps/gh010.el
++ ./cc-test ../../../maps/gh011.el
++ ./cc-test ../../../maps/gh012.el
++ ./cc-test ../../../maps/gh013.el
++ ./cc-test ../../../maps/gh014.el
++ ./cc-test ../../../maps/gh015.el
++ ./cc-test ../../../maps/gh016.el
++ echo 'Done with CC'
+Done with CC
++ echo 'Start PR'
+Start PR
++ ./pr-test ../../../maps/gh001.el
++ ./pr-test ../../../maps/gh002.el
++ ./pr-test ../../../maps/gh004.el
++ ./pr-test ../../../maps/gh005.el
++ ./pr-test ../../../maps/gh006.el
++ ./pr-test ../../../maps/gh007.el
++ ./pr-test ../../../maps/gh008.el
++ ./pr-test ../../../maps/gh009.el
++ ./pr-test ../../../maps/gh010.el
++ ./pr-test ../../../maps/gh011.el
++ ./pr-test ../../../maps/gh012.el
++ ./pr-test ../../../maps/gh013.el
++ ./pr-test ../../../maps/gh014.el
++ ./pr-test ../../../maps/gh015.el
++ ./pr-test ../../../maps/gh016.el
++ echo 'Done with PR'
+Done with PR
++ echo 'Start SSSP'
+Start SSSP
++ ./sssp-test ../../../maps/gh001.wel
++ ./sssp-test ../../../maps/gh002.wel
++ ./sssp-test ../../../maps/gh004.wel
++ ./sssp-test ../../../maps/gh005.wel
++ ./sssp-test ../../../maps/gh006.wel
++ ./sssp-test ../../../maps/gh007.wel
++ ./sssp-test ../../../maps/gh008.wel
++ ./sssp-test ../../../maps/gh009.wel
++ ./sssp-test ../../../maps/gh010.wel
++ ./sssp-test ../../../maps/gh011.wel
++ ./sssp-test ../../../maps/gh012.wel
++ ./sssp-test ../../../maps/gh013.wel
++ ./sssp-test ../../../maps/gh014.wel
++ ./sssp-test ../../../maps/gh015.wel
++ ./sssp-test ../../../maps/gh016.wel
++ echo 'Done with SSSP'
+Done with SSSP
++ wait
++ echo 'finished graphit!'
+finished graphit!
++ exit

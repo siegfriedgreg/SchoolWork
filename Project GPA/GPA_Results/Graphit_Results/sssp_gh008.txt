@@ -1,0 +1,40 @@
+elapsed time: 
+0.015201
+rounds
+1
+elapsed time: 
+0.002976
+rounds
+1
+elapsed time: 
+0.002835
+rounds
+1
+elapsed time: 
+0.003134
+rounds
+1
+elapsed time: 
+0.002817
+rounds
+1
+elapsed time: 
+0.002823
+rounds
+1
+elapsed time: 
+0.002778
+rounds
+1
+elapsed time: 
+0.002633
+rounds
+1
+elapsed time: 
+0.003669
+rounds
+1
+elapsed time: 
+0.003549
+rounds
+1

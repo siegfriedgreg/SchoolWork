@@ -1,0 +1,40 @@
+elapsed time: 
+14.4487
+rounds
+20100
+elapsed time: 
+14.3216
+rounds
+20100
+elapsed time: 
+14.7653
+rounds
+20100
+elapsed time: 
+19.451
+rounds
+20101
+elapsed time: 
+33.2539
+rounds
+20100
+elapsed time: 
+17.9501
+rounds
+20098
+elapsed time: 
+17.68
+rounds
+20100
+elapsed time: 
+16.973
+rounds
+20100
+elapsed time: 
+46.7354
+rounds
+20100
+elapsed time: 
+77.2337
+rounds
+20099

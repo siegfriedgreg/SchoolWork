@@ -1,0 +1,20 @@
+elapsed time: 
+0.527393
+elapsed time: 
+0.526368
+elapsed time: 
+0.520035
+elapsed time: 
+0.522422
+elapsed time: 
+0.520853
+elapsed time: 
+0.520955
+elapsed time: 
+0.520938
+elapsed time: 
+0.520974
+elapsed time: 
+0.521649
+elapsed time: 
+0.519634
