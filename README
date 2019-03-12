@@ -28,4 +28,9 @@ All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
     TicTacToe.h
     TicTicTacToe_test_main.cpp
 
+******** Project GPA ********
+    Reasearch project on graph processing algorithms.
+    Original files are found in my repository,
+    with results and report found here.
+
 ********* END OF FILE ******** ######## <<<<<<<< --------
