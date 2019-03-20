@@ -32,5 +32,6 @@ All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
     Reasearch project on graph processing algorithms.
     Original files are found in my repository,
     with results and report found here.
+    No prgrams are designed to be ran from this project.
 
 ********* END OF FILE ******** ######## <<<<<<<< --------
