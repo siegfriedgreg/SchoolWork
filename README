@@ -34,5 +34,11 @@ All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
     with results and report found here.
     If you want to run one of these programs, you
     can find the version I used in my repository.
+    
+******** LC3 ********    
+    Final Assignment/Exam files from my Computer
+    Organization and Architecture class. We used
+    the LC3 simulator to run our assembly language
+    programs. 
 
 ********* END OF FILE ******** ######## <<<<<<<< --------
