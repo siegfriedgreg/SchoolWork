@@ -3,9 +3,9 @@ A local repository for completed projects and assignments, some from different c
 All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
 
 ******** Image Loader **********
-    See README.md
-    run from test folder.
-    images located in example folder.
+    See the README.md
+    Run program from the test folder.
+    Images are located in the example folder.
 
 ******** Dijkstra's Algorithm ********
     DA-Graph1.txt
@@ -26,19 +26,19 @@ All have been compiled and run on Ubuntu 18.04 with g++ 7.3.0, and std=c++11.
 ******** Min/Max Algorithm ********
     TicTacToe.cpp
     TicTacToe.h
-    TicTicTacToe_test_main.cpp
+    TicTacToe_test_main.cpp
 
 ******** Project GPA ********
     Reasearch project on graph processing algorithms.
-    Original files are found in my repository,
-    with results and report found here.
-    If you want to run one of these programs, you
-    can find the version I used in my repository.
+    The programs involved were forked and edited as
+    needed to complet the project. Anything not found
+    in this folder can be found as a forked repo.
     
 ******** LC3 ********    
     Final Assignment/Exam files from my Computer
     Organization and Architecture class. We used
     the LC3 simulator to run our assembly language
-    programs. 
+    programs. Parts of the assignment were strung
+    together as a complete program.
 
 ********* END OF FILE ******** ######## <<<<<<<< --------
